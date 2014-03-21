@@ -2,10 +2,10 @@
 <meta charset="utf-8">
 <title>Turkey Internet Map - Turkey top sites</title>
 <style>
-*{font-family :Consolas,Arial }
+*{font-size:10px;font-family : Calibri,Arial }
 </style>
 <body>
-<strong>Turkey Internet Map</strong>
+<strong>Turkey Internet Map</strong> <a href="https://github.com/hasantayyar/turkey-internet">Source on Github</a>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -32,7 +32,7 @@ d3.json("site_turkey.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
   node.append("title")
-      .text(function(d) { return d.className + ": " +  d.size; });
+      .text(function(d) { return d.className ; });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
