@@ -72,7 +72,7 @@ d3.json("site_turkey.json", function(error, root) {
       .text(function(d) { return d.className.substring(0, d.r / 3); });
 
   node.on("mouseover",function(){  }); 
-  node.on("click",function(d){ $("#desc").slideDown(); $("#desc").html("Selected : "+d.className);});
+  node.on("click",function(d){ $("#desc").slideDown(); $("#desc").html(""+d.className);});
   //$('circle').tipsy( );
   $('text').tipsy( );
 });

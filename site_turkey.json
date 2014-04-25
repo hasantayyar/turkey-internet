@@ -4,1782 +4,2112 @@
    "children": 
    
 		[
-		{ "name" : "google.com.tr", "country" : "Turkey", "size" : "79" },
-{ "name" : "hurriyet.com.tr", "country" : "Turkey", "size" : "248" },
-{ "name" : "milliyet.com.tr", "country" : "Turkey", "size" : "284" },
-{ "name" : "sahibinden.com", "country" : "Turkey", "size" : "470" },
-{ "name" : "haber7.com", "country" : "Turkey", "size" : "560" },
-{ "name" : "blogspot.com.tr", "country" : "Turkey", "size" : "1432" },
-{ "name" : "r10.net", "country" : "Turkey", "size" : "636" },
-{ "name" : "mynet.com", "country" : "Turkey", "size" : "626" },
-{ "name" : "yandex.com.tr", "country" : "Turkey", "size" : "684" },
-{ "name" : "haberturk.com", "country" : "Turkey", "size" : "653" },
-{ "name" : "mackolik.com", "country" : "Turkey", "size" : "764" },
-{ "name" : "sporx.com", "country" : "Turkey", "size" : "904" },
-{ "name" : "sahadan.com", "country" : "Turkey", "size" : "838" },
-{ "name" : "ensonhaber.com", "country" : "Turkey", "size" : "939" },
-{ "name" : "oyunskor.com", "country" : "Turkey", "size" : "805" },
-{ "name" : "haberler.com", "country" : "Turkey", "size" : "1078" },
-{ "name" : "sourtimes.org", "country" : "Turkey", "size" : "1218" },
-{ "name" : "gittigidiyor.com", "country" : "Turkey", "size" : "979" },
-{ "name" : "donanimhaber.com", "country" : "Turkey", "size" : "1094" },
-{ "name" : "sabah.com.tr", "country" : "Turkey", "size" : "1174" },
-{ "name" : "garanti.com.tr", "country" : "Turkey", "size" : "1284" },
-{ "name" : "samanyoluhaber.com", "country" : "Turkey", "size" : "1346" },
-{ "name" : "sozcu.com.tr", "country" : "Turkey", "size" : "1421" },
-{ "name" : "wmaraci.com", "country" : "Turkey", "size" : "1771" },
-{ "name" : "yenisafak.com.tr", "country" : "Turkey", "size" : "1859" },
-{ "name" : "hepsiburada.com", "country" : "Turkey", "size" : "1551" },
-{ "name" : "kariyer.net", "country" : "Turkey", "size" : "1892" },
-{ "name" : "radikal.com.tr", "country" : "Turkey", "size" : "1838" },
-{ "name" : "vatanim.com.tr", "country" : "Turkey", "size" : "1817" },
-{ "name" : "zaman.com.tr", "country" : "Turkey", "size" : "1910" },
-{ "name" : "internethaber.com", "country" : "Turkey", "size" : "1733" },
-{ "name" : "bc.vc", "country" : "Turkey", "size" : "1971" },
-{ "name" : "fanatik.com.tr", "country" : "Turkey", "size" : "1933" },
-{ "name" : "odatv.com", "country" : "Turkey", "size" : "2818" },
-{ "name" : "ntvmsnbc.com", "country" : "Turkey", "size" : "2365" },
-{ "name" : "yabancidiziizle1.com", "country" : "Turkey", "size" : "2662" },
-{ "name" : "ligtv.com.tr", "country" : "Turkey", "size" : "2999" },
-{ "name" : "milliyet.tv", "country" : "Turkey", "size" : "2990" },
-{ "name" : "stargazete.com", "country" : "Turkey", "size" : "2927" },
-{ "name" : "startv.com.tr", "country" : "Turkey", "size" : "3330" },
-{ "name" : "filmifullizle.com", "country" : "Turkey", "size" : "2631" },
-{ "name" : "n11.com", "country" : "Turkey", "size" : "3300" },
-{ "name" : "ntvspor.net", "country" : "Turkey", "size" : "3472" },
-{ "name" : "onedio.com", "country" : "Turkey", "size" : "4056" },
-{ "name" : "acunn.com", "country" : "Turkey", "size" : "3124" },
-{ "name" : "isbank.com.tr", "country" : "Turkey", "size" : "3498" },
-{ "name" : "meb.gov.tr", "country" : "Turkey", "size" : "2195" },
-{ "name" : "yazete.com", "country" : "Turkey", "size" : "3344" },
-{ "name" : "turkishairlines.com", "country" : "Turkey", "size" : "3526" },
-{ "name" : "kanald.com.tr", "country" : "Turkey", "size" : "3533" },
-{ "name" : "eurosport.com", "country" : "Turkey", "size" : "3210" },
-{ "name" : "gezinti.com", "country" : "Turkey", "size" : "3917" },
-{ "name" : "memurlar.net", "country" : "Turkey", "size" : "3678" },
-{ "name" : "cumhuriyet.com.tr", "country" : "Turkey", "size" : "3386" },
-{ "name" : "hizliresim.com", "country" : "Turkey", "size" : "3964" },
-{ "name" : "hotfile.com", "country" : "Turkey", "size" : "2781" },
-{ "name" : "sanalpazar.com", "country" : "Turkey", "size" : "3887" },
-{ "name" : "izlesene.com", "country" : "Turkey", "size" : "3661" },
-{ "name" : "amkspor.com", "country" : "Turkey", "size" : "4424" },
-{ "name" : "ykb.com", "country" : "Turkey", "size" : "4354" },
-{ "name" : "webaslan.com", "country" : "Turkey", "size" : "3670" },
-{ "name" : "skorer.tv", "country" : "Turkey", "size" : "4268" },
-{ "name" : "ttnet.com.tr", "country" : "Turkey", "size" : "3785" },
-{ "name" : "uludagsozluk.com", "country" : "Turkey", "size" : "4190" },
-{ "name" : "akakce.com", "country" : "Turkey", "size" : "4618" },
-{ "name" : "blogcu.com", "country" : "Turkey", "size" : "4145" },
-{
-	"name" : "alkislarlayasiyorum.com",
-	"country" : "Turkey",
-	"size" : "5582"
-},
-{ "name" : "frmtr.com", "country" : "Turkey", "size" : "4766" },
-{ "name" : "karnaval.com", "country" : "Turkey", "size" : "4566" },
-{ "name" : "sayyac.com", "country" : "Turkey", "size" : "4821" },
-{ "name" : "shiftdelete.net", "country" : "Turkey", "size" : "4303" },
-{ "name" : "tamindir.com", "country" : "Turkey", "size" : "4661" },
-{ "name" : "bugun.com.tr", "country" : "Turkey", "size" : "4212" },
-{ "name" : "trendyol.com", "country" : "Turkey", "size" : "4662" },
-{ "name" : "divxplanet.com", "country" : "Turkey", "size" : "4967" },
-{ "name" : "memuruz.net", "country" : "Turkey", "size" : "5300" },
-{ "name" : "sondakika.com", "country" : "Turkey", "size" : "5823" },
-{ "name" : "silikonvadisi.tv", "country" : "Turkey", "size" : "6929" },
-{ "name" : "aksam.com.tr", "country" : "Turkey", "size" : "5511" },
-{ "name" : "fullhdfilmizle.org", "country" : "Turkey", "size" : "4482" },
-{ "name" : "habervaktim.com", "country" : "Turkey", "size" : "4856" },
-{ "name" : "vatanbilgisayar.com", "country" : "Turkey", "size" : "5030" },
-{ "name" : "fotomac.com.tr", "country" : "Turkey", "size" : "4810" },
-{ "name" : "markafoni.com", "country" : "Turkey", "size" : "4971" },
-{ "name" : "webmastersitesi.com", "country" : "Turkey", "size" : "5685" },
-{ "name" : "chip.com.tr", "country" : "Turkey", "size" : "5500" },
-{ "name" : "sinemalar.com", "country" : "Turkey", "size" : "5253" },
-{ "name" : "turkcell.com.tr", "country" : "Turkey", "size" : "5724" },
-{ "name" : "aa.com.tr", "country" : "Turkey", "size" : "6265" },
-{ "name" : "drakensang.com", "country" : "Turkey", "size" : "4371" },
-{ "name" : "anadolu.edu.tr", "country" : "Turkey", "size" : "6002" },
-{ "name" : "itusozluk.com", "country" : "Turkey", "size" : "6221" },
-{ "name" : "isimtescil.net", "country" : "Turkey", "size" : "6075" },
-{ "name" : "hepsibahis3.com", "country" : "Turkey", "size" : "6617" },
-{ "name" : "akbank.com", "country" : "Turkey", "size" : "6789" },
-{ "name" : "iha.com.tr", "country" : "Turkey", "size" : "7442" },
-{ "name" : "reventmedia.com", "country" : "Turkey", "size" : "10111" },
-{ "name" : "aktifhaber.com", "country" : "Turkey", "size" : "6274" },
-{ "name" : "posta.com.tr", "country" : "Turkey", "size" : "6519" },
-{ "name" : "cnnturk.com", "country" : "Turkey", "size" : "6827" },
-{ "name" : "seslisozluk.net", "country" : "Turkey", "size" : "7037" },
-{ "name" : "hurriyetemlak.com", "country" : "Turkey", "size" : "7070" },
-{ "name" : "morpakampus.com", "country" : "Turkey", "size" : "5348" },
-{ "name" : "flypgs.com", "country" : "Turkey", "size" : "7235" },
-{ "name" : "t24.com.tr", "country" : "Turkey", "size" : "7366" },
-{ "name" : "kadinlarkulubu.com", "country" : "Turkey", "size" : "6982" },
-{ "name" : "rotahaber.com", "country" : "Turkey", "size" : "6984" },
-{ "name" : "gezginler.net", "country" : "Turkey", "size" : "7324" },
-{ "name" : "teknosa.com", "country" : "Turkey", "size" : "6388" },
-{ "name" : "haber3.com", "country" : "Turkey", "size" : "6883" },
-{ "name" : "bigpara.com", "country" : "Turkey", "size" : "6461" },
-{ "name" : "turkiye.gov.tr", "country" : "Turkey", "size" : "7073" },
-{ "name" : "minikoyuncu.com", "country" : "Turkey", "size" : "7659" },
-{ "name" : "dha.com.tr", "country" : "Turkey", "size" : "7581" },
-{ "name" : "iyinet.com", "country" : "Turkey", "size" : "8691" },
-{ "name" : "webrazzi.com", "country" : "Turkey", "size" : "8412" },
-{ "name" : "f5haber.com", "country" : "Turkey", "size" : "7177" },
-{
-	"name" : "turkiyegazetesi.com.tr",
-	"country" : "Turkey",
-	"size" : "7957"
-},
-{ "name" : "kraloyun.com", "country" : "Turkey", "size" : "7667" },
-{ "name" : "ddizi.org", "country" : "Turkey", "size" : "6378" },
-{ "name" : "elemanonline.net", "country" : "Turkey", "size" : "7971" },
-{ "name" : "nesine.com", "country" : "Turkey", "size" : "7776" },
-{ "name" : "takvim.com.tr", "country" : "Turkey", "size" : "7840" },
-{ "name" : "ajansspor.com", "country" : "Turkey", "size" : "7897" },
-{ "name" : "travian.com.tr", "country" : "Turkey", "size" : "7569" },
-{ "name" : "doviz.com", "country" : "Turkey", "size" : "7488" },
-{ "name" : "natro.com", "country" : "Turkey", "size" : "9492" },
-{ "name" : "vidivodo.com", "country" : "Turkey", "size" : "8381" },
-{ "name" : "fuub.net", "country" : "Turkey", "size" : "9826" },
-{ "name" : "tureng.com", "country" : "Turkey", "size" : "8526" },
-{ "name" : "bilyoner.com", "country" : "Turkey", "size" : "8837" },
-{ "name" : "yemeksepeti.com", "country" : "Turkey", "size" : "9590" },
-{ "name" : "atv.com.tr", "country" : "Turkey", "size" : "8336" },
-{ "name" : "trthaber.com", "country" : "Turkey", "size" : "8588" },
-{ "name" : "turkcealtyazi.org", "country" : "Turkey", "size" : "9456" },
-{ "name" : "beyazperde.com", "country" : "Turkey", "size" : "9318" },
-{ "name" : "nediyor.com", "country" : "Turkey", "size" : "9982" },
-{ "name" : "vodafone.com.tr", "country" : "Turkey", "size" : "9453" },
-{ "name" : "yokboylebirsey.com.tr", "country" : "Turkey", "size" : "8353" },
-{ "name" : "sacitaslan.com", "country" : "Turkey", "size" : "8530" },
-{ "name" : "morhipo.com", "country" : "Turkey", "size" : "9420" },
-{ "name" : "finansbank.com.tr", "country" : "Turkey", "size" : "9433" },
-{ "name" : "sgk.gov.tr", "country" : "Turkey", "size" : "10386" },
-{ "name" : "uzmantv.com", "country" : "Turkey", "size" : "9652" },
-{ "name" : "yenibiris.com", "country" : "Turkey", "size" : "9676" },
-{ "name" : "tvyo.com", "country" : "Turkey", "size" : "10929" },
-{ "name" : "bicaps.net", "country" : "Turkey", "size" : "14827" },
-{ "name" : "showhaber.com", "country" : "Turkey", "size" : "9490" },
-{ "name" : "canlidizihdtv.com", "country" : "Turkey", "size" : "13852" },
-{ "name" : "komikcaps.net", "country" : "Turkey", "size" : "22760" },
-{ "name" : "hizlial.com", "country" : "Turkey", "size" : "9188" },
-{ "name" : "ulusalpost.com", "country" : "Turkey", "size" : "10518" },
-{ "name" : "ucuzu.com", "country" : "Turkey", "size" : "9739" },
-{ "name" : "starsue.net", "country" : "Turkey", "size" : "9940" },
-{ "name" : "ziraatbank.com.tr", "country" : "Turkey", "size" : "10977" },
-{ "name" : "gold.com.tr", "country" : "Turkey", "size" : "9204" },
-{ "name" : "digiturkplay.com.tr", "country" : "Turkey", "size" : "13401" },
-{ "name" : "filmizlesene.com.tr", "country" : "Turkey", "size" : "13544" },
-{ "name" : "gercekgundem.com", "country" : "Turkey", "size" : "10840" },
-{ "name" : "osym.gov.tr", "country" : "Turkey", "size" : "10516" },
-{ "name" : "6bets10.com", "country" : "Turkey", "size" : "10657" },
-{ "name" : "sikayetvar.com", "country" : "Turkey", "size" : "10792" },
-{ "name" : "tff.org", "country" : "Turkey", "size" : "12087" },
-{ "name" : "mansettv.com", "country" : "Turkey", "size" : "14297" },
-{ "name" : "gemius.com.tr", "country" : "Turkey", "size" : "6273" },
-{
-	"name" : "binaryoptionsbrands.com",
-	"country" : "Turkey",
-	"size" : "20454"
-},
-{ "name" : "yurticikargo.com", "country" : "Turkey", "size" : "10748" },
-{ "name" : "ninjacloak.com", "country" : "Turkey", "size" : "12241" },
-{ "name" : "hdfilmsitesi.org", "country" : "Turkey", "size" : "10415" },
-{ "name" : "mgm.gov.tr", "country" : "Turkey", "size" : "9744" },
-{ "name" : "avea.com.tr", "country" : "Turkey", "size" : "11453" },
-{ "name" : "limango.com.tr", "country" : "Turkey", "size" : "11023" },
-{ "name" : "vakifbank.com.tr", "country" : "Turkey", "size" : "11711" },
-{ "name" : "kakade.net", "country" : "Turkey", "size" : "15508" },
-{ "name" : "superonline.net", "country" : "Turkey", "size" : "13301" },
-{ "name" : "gazeteoku.com", "country" : "Turkey", "size" : "12079" },
-{ "name" : "bimeks.com.tr", "country" : "Turkey", "size" : "11250" },
-{ "name" : "seohocasi.com", "country" : "Turkey", "size" : "14079" },
-{ "name" : "halkbank.com.tr", "country" : "Turkey", "size" : "11934" },
-{ "name" : "ptt.gov.tr", "country" : "Turkey", "size" : "11416" },
-{ "name" : "kitapyurdu.com", "country" : "Turkey", "size" : "11211" },
-{ "name" : "onlinewebstats.com", "country" : "Turkey", "size" : "13811" },
-{ "name" : "tubiba.com", "country" : "Turkey", "size" : "13099" },
-{ "name" : "dizist.com", "country" : "Turkey", "size" : "17382" },
-{ "name" : "dr.com.tr", "country" : "Turkey", "size" : "12413" },
-{ "name" : "kizlarsoruyor.com", "country" : "Turkey", "size" : "11795" },
-{ "name" : "harika-dizi.net", "country" : "Turkey", "size" : "14394" },
-{ "name" : "ibb.gov.tr", "country" : "Turkey", "size" : "13319" },
-{
-	"name" : "istanbulbilisim.com.tr",
-	"country" : "Turkey",
-	"size" : "12788"
-},
-{ "name" : "yemle.com", "country" : "Turkey", "size" : "12129" },
-{ "name" : "trt.net.tr", "country" : "Turkey", "size" : "14348" },
-{ "name" : "ahaber.com.tr", "country" : "Turkey", "size" : "13433" },
-{ "name" : "idefix.com", "country" : "Turkey", "size" : "13191" },
-{ "name" : "canliskor.com", "country" : "Turkey", "size" : "14207" },
-{ "name" : "kure.tv", "country" : "Turkey", "size" : "13050" },
-{ "name" : "mediamarkt.com.tr", "country" : "Turkey", "size" : "11596" },
-{ "name" : "geliyoo.com", "country" : "Turkey", "size" : "14386" },
-{ "name" : "rokettube.info", "country" : "Turkey", "size" : "36999" },
-{ "name" : "netgazete.com", "country" : "Turkey", "size" : "14578" },
-{ "name" : "unutulmazfilmler.com", "country" : "Turkey", "size" : "13334" },
-{ "name" : "publicgfvideos.com", "country" : "Turkey", "size" : "15226" },
-{ "name" : "haberzamani.com", "country" : "Turkey", "size" : "14731" },
-{ "name" : "imgim.com", "country" : "Turkey", "size" : "16572" },
-{ "name" : "araskargo.com.tr", "country" : "Turkey", "size" : "15146" },
-{ "name" : "vtunnel.com", "country" : "Turkey", "size" : "14868" },
-{ "name" : "e-destek.com", "country" : "Turkey", "size" : "14805" },
-{ "name" : "goalsarena.org", "country" : "Turkey", "size" : "15728" },
-{ "name" : "denizbank.com", "country" : "Turkey", "size" : "14674" },
-{ "name" : "zargan.com", "country" : "Turkey", "size" : "15336" },
-{ "name" : "zaytung.com", "country" : "Turkey", "size" : "12508" },
-{ "name" : "piramithaber.com", "country" : "Turkey", "size" : "15110" },
-{ "name" : "haberfx.net", "country" : "Turkey", "size" : "15203" },
-{ "name" : "timeturk.com", "country" : "Turkey", "size" : "13083" },
-{ "name" : "whois.com.tr", "country" : "Turkey", "size" : "15166" },
-{ "name" : "arabam.com", "country" : "Turkey", "size" : "14296" },
-{ "name" : "turktelekom.com.tr", "country" : "Turkey", "size" : "15147" },
-{ "name" : "biletix.com", "country" : "Turkey", "size" : "17089" },
-{ "name" : "oyunkolu.com", "country" : "Turkey", "size" : "13758" },
-{ "name" : "taraf.com.tr", "country" : "Turkey", "size" : "12866" },
-{ "name" : "thy.com", "country" : "Turkey", "size" : "15248" },
-{ "name" : "galatasaray.org", "country" : "Turkey", "size" : "13625" },
-{ "name" : "teb.com.tr", "country" : "Turkey", "size" : "15676" },
-{ "name" : "firmasec.com", "country" : "Turkey", "size" : "16366" },
-{ "name" : "diziizlesem.net", "country" : "Turkey", "size" : "12774" },
-{ "name" : "oyunlar1.com", "country" : "Turkey", "size" : "16454" },
-{ "name" : "sol.org.tr", "country" : "Turkey", "size" : "14299" },
-{ "name" : "bestsportgo.tv", "country" : "Turkey", "size" : "18079" },
-{ "name" : "haber1903.com", "country" : "Turkey", "size" : "15150" },
-{ "name" : "59saniye.com", "country" : "Turkey", "size" : "17827" },
-{ "name" : "bursadabugun.com", "country" : "Turkey", "size" : "13253" },
-{ "name" : "ihs.com.tr", "country" : "Turkey", "size" : "16757" },
-{ "name" : "medyanetads.com", "country" : "Turkey", "size" : "12468" },
-{ "name" : "millipiyango.gov.tr", "country" : "Turkey", "size" : "12482" },
-{ "name" : "gib.gov.tr", "country" : "Turkey", "size" : "12686" },
-{ "name" : "tahribat.com", "country" : "Turkey", "size" : "16551" },
-{ "name" : "showtvnet.com", "country" : "Turkey", "size" : "18662" },
-{
-	"name" : "hastanerandevu.gov.tr",
-	"country" : "Turkey",
-	"size" : "16725"
-},
-{ "name" : "canliskor.com.tr", "country" : "Turkey", "size" : "19959" },
-{ "name" : "oyunmoyun.com", "country" : "Turkey", "size" : "13807" },
-{ "name" : "ytpara.com", "country" : "Turkey", "size" : "16649" },
-{ "name" : "ceviz.net", "country" : "Turkey", "size" : "17732" },
-{ "name" : "inciswf.com", "country" : "Turkey", "size" : "14987" },
-{
-	"name" : "fullprogramlarindir.com",
-	"country" : "Turkey",
-	"size" : "18299"
-},
-{
-	"name" : "ingilizceturkce.gen.tr",
-	"country" : "Turkey",
-	"size" : "16338"
-},
-{ "name" : "milliyetemlak.com", "country" : "Turkey", "size" : "16734" },
-{ "name" : "haberand.com", "country" : "Turkey", "size" : "15369" },
-{ "name" : "ulkehaber.com", "country" : "Turkey", "size" : "20465" },
-{
-	"name" : "nefisyemektarifleri.com",
-	"country" : "Turkey",
-	"size" : "15576"
-},
-{ "name" : "nedir.com", "country" : "Turkey", "size" : "16763" },
-{ "name" : "turkweb.tv", "country" : "Turkey", "size" : "17784" },
-{ "name" : "ziraat.com.tr", "country" : "Turkey", "size" : "17951" },
-{ "name" : "emlakkulisi.com", "country" : "Turkey", "size" : "18131" },
-{ "name" : "forumdas.net", "country" : "Turkey", "size" : "15053" },
-{ "name" : "onlinenic.com", "country" : "Turkey", "size" : "18473" },
-{ "name" : "znoo.net", "country" : "Turkey", "size" : "16791" },
-{ "name" : "oyungoo.com", "country" : "Turkey", "size" : "29456" },
-{ "name" : "cihan.com.tr", "country" : "Turkey", "size" : "16895" },
-{ "name" : "stopstream.tv", "country" : "Turkey", "size" : "19977" },
-{ "name" : "fenerbahce.org", "country" : "Turkey", "size" : "22309" },
-{ "name" : "haber365.com", "country" : "Turkey", "size" : "16168" },
-{ "name" : "railnation.com.tr", "country" : "Turkey", "size" : "18081" },
-{ "name" : "sehirfirsati.com", "country" : "Turkey", "size" : "16425" },
-{ "name" : "ellerimesaglik.com", "country" : "Turkey", "size" : "17731" },
-{ "name" : "sporbahis.com", "country" : "Turkey", "size" : "20962" },
-{ "name" : "nedirnedemek.com", "country" : "Turkey", "size" : "16959" },
-{ "name" : "ulusalkanal.com.tr", "country" : "Turkey", "size" : "18234" },
-{ "name" : "kliksa.com", "country" : "Turkey", "size" : "16816" },
-{ "name" : "iddaa.com", "country" : "Turkey", "size" : "19944" },
-{ "name" : "teknolojioku.com", "country" : "Turkey", "size" : "16383" },
-{ "name" : "maxicep.com", "country" : "Turkey", "size" : "18397" },
-{ "name" : "sozlukspot.com", "country" : "Turkey", "size" : "17308" },
-{ "name" : "misli.com", "country" : "Turkey", "size" : "16904" },
-{ "name" : "bankasya.com.tr", "country" : "Turkey", "size" : "17661" },
-{ "name" : "dizihdtv.net", "country" : "Turkey", "size" : "20071" },
-{ "name" : "torrent-oyun.com", "country" : "Turkey", "size" : "16291" },
-{ "name" : "turkhackteam.net", "country" : "Turkey", "size" : "18857" },
-{ "name" : "jetfilmizle.com", "country" : "Turkey", "size" : "17127" },
-{ "name" : "kuveytturk.com.tr", "country" : "Turkey", "size" : "19651" },
-{ "name" : "oyuncini.com", "country" : "Turkey", "size" : "21336" },
-{ "name" : "diziwu.com", "country" : "Turkey", "size" : "19400" },
-{ "name" : "tuttur.com", "country" : "Turkey", "size" : "19608" },
-{ "name" : "web.tv", "country" : "Turkey", "size" : "18015" },
-{ "name" : "ciceksepeti.com", "country" : "Turkey", "size" : "22432" },
-{ "name" : "reklamstore.com", "country" : "Turkey", "size" : "19318" },
-{ "name" : "alternatifim.com", "country" : "Turkey", "size" : "16513" },
-{ "name" : "buldumbuldum.com", "country" : "Turkey", "size" : "18643" },
-{ "name" : "beyazgazete.com", "country" : "Turkey", "size" : "16390" },
-{ "name" : "dmi.gov.tr", "country" : "Turkey", "size" : "19114" },
-{ "name" : "bkm.com.tr", "country" : "Turkey", "size" : "19517" },
-{ "name" : "tjk.org", "country" : "Turkey", "size" : "21617" },
-{ "name" : "antoloji.com", "country" : "Turkey", "size" : "18125" },
-{ "name" : "hsbc.com.tr", "country" : "Turkey", "size" : "19108" },
-{ "name" : "bloomberght.com", "country" : "Turkey", "size" : "18698" },
-{ "name" : "technopat.net", "country" : "Turkey", "size" : "22023" },
-{ "name" : "medya365.com", "country" : "Turkey", "size" : "25945" },
-{ "name" : "mahmure.com", "country" : "Turkey", "size" : "19559" },
-{ "name" : "fizy.com", "country" : "Turkey", "size" : "17582" },
-{ "name" : "ecanlitvizle.com", "country" : "Turkey", "size" : "18715" },
-{ "name" : "zone-h.org", "country" : "Turkey", "size" : "18464" },
-{ "name" : "hurriyetaile.com", "country" : "Turkey", "size" : "20483" },
-{ "name" : "oyunlari.net", "country" : "Turkey", "size" : "19106" },
-{ "name" : "egitimnerede.com", "country" : "Turkey", "size" : "19122" },
-{ "name" : "tdk.gov.tr", "country" : "Turkey", "size" : "20015" },
-{ "name" : "teknokulis.com", "country" : "Turkey", "size" : "20783" },
-{ "name" : "gazeteler.com", "country" : "Turkey", "size" : "19386" },
-{ "name" : "vine.tc", "country" : "Turkey", "size" : "46974" },
-{ "name" : "fullhdfilmsaati.net", "country" : "Turkey", "size" : "23341" },
-{ "name" : "fox.com.tr", "country" : "Turkey", "size" : "19759" },
-{ "name" : "dosya.tc", "country" : "Turkey", "size" : "21067" },
-{ "name" : "yeppudaa.com", "country" : "Turkey", "size" : "17084" },
-{ "name" : "oyunuoyna.com", "country" : "Turkey", "size" : "19384" },
-{ "name" : "connected2.me", "country" : "Turkey", "size" : "18603" },
-{ "name" : "secretcv.com", "country" : "Turkey", "size" : "11503" },
-{ "name" : "enguzeloyunlar.net", "country" : "Turkey", "size" : "18606" },
-{ "name" : "haberartibir.com.tr", "country" : "Turkey", "size" : "32747" },
-{ "name" : "enpara.com", "country" : "Turkey", "size" : "20091" },
-{ "name" : "itu.edu.tr", "country" : "Turkey", "size" : "19747" },
-{ "name" : "niaporn.com", "country" : "Turkey", "size" : "30190" },
-{ "name" : "e-bebek.com", "country" : "Turkey", "size" : "23717" },
-{ "name" : "listelist.com", "country" : "Turkey", "size" : "18013" },
-{ "name" : "dizideizle.org", "country" : "Turkey", "size" : "22997" },
-{ "name" : "trendwp.com", "country" : "Turkey", "size" : "21691" },
-{ "name" : "wowturkey.com", "country" : "Turkey", "size" : "22345" },
-{ "name" : "bobiler.org", "country" : "Turkey", "size" : "20351" },
-{ "name" : "karakartal.com", "country" : "Turkey", "size" : "19261" },
-{ "name" : "onedate.com", "country" : "Turkey", "size" : "20596" },
-{ "name" : "adhood.com", "country" : "Turkey", "size" : "22494" },
-{ "name" : "reklamaction.com", "country" : "Turkey", "size" : "25076" },
-{ "name" : "cyber-warrior.org", "country" : "Turkey", "size" : "23041" },
-{ "name" : "sosyalmedya.co", "country" : "Turkey", "size" : "23008" },
-{ "name" : "canlitv.com", "country" : "Turkey", "size" : "19067" },
-{ "name" : "turkeyforum.com", "country" : "Turkey", "size" : "21825" },
-{ "name" : "diyanet.gov.tr", "country" : "Turkey", "size" : "22076" },
-{ "name" : "homepage.com.tr", "country" : "Turkey", "size" : "19422" },
-{ "name" : "enuygun.com", "country" : "Turkey", "size" : "23779" },
-{ "name" : "joygame.com", "country" : "Turkey", "size" : "20692" },
-{ "name" : "warezturkey.net", "country" : "Turkey", "size" : "20921" },
-{ "name" : "hizliizlefilm.com", "country" : "Turkey", "size" : "17124" },
-{ "name" : "afiyetle.com", "country" : "Turkey", "size" : "23244" },
-{ "name" : "turkanime.tv", "country" : "Turkey", "size" : "22460" },
-{ "name" : "peniwoldturkiye.com", "country" : "Turkey", "size" : "18810" },
-{ "name" : "720pizle.com", "country" : "Turkey", "size" : "24038" },
-{ "name" : "redstation.co.uk", "country" : "Turkey", "size" : "22822" },
-{ "name" : "oyungemisi.com", "country" : "Turkey", "size" : "22256" },
-{ "name" : "iddaalihaber.com", "country" : "Turkey", "size" : "23591" },
-{ "name" : "turhost.com", "country" : "Turkey", "size" : "23513" },
-{ "name" : "ysk.gov.tr", "country" : "Turkey", "size" : "23927" },
-{ "name" : "siterobot.com", "country" : "Turkey", "size" : "26489" },
-{
-	"name" : "fulldiziizleyelim.net",
-	"country" : "Turkey",
-	"size" : "18040"
-},
-{ "name" : "evidea.com", "country" : "Turkey", "size" : "24155" },
-{ "name" : "cozumpark.com", "country" : "Turkey", "size" : "27217" },
-{ "name" : "pencere.com", "country" : "Turkey", "size" : "24914" },
-{ "name" : "canlidiziizleyin.com", "country" : "Turkey", "size" : "28894" },
-{ "name" : "habergazete.com", "country" : "Turkey", "size" : "25031" },
-{ "name" : "tracklab101.com", "country" : "Turkey", "size" : "10256" },
-{ "name" : "lidyana.com", "country" : "Turkey", "size" : "22184" },
-{ "name" : "tubitak.gov.tr", "country" : "Turkey", "size" : "27126" },
-{ "name" : "medyatava.com", "country" : "Turkey", "size" : "21650" },
-{ "name" : "gazetea24.com", "country" : "Turkey", "size" : "20242" },
-{ "name" : "egitimhane.com", "country" : "Turkey", "size" : "22689" },
-{ "name" : "pcnet.com.tr", "country" : "Turkey", "size" : "22511" },
-{ "name" : "medyaradar.com", "country" : "Turkey", "size" : "24166" },
-{ "name" : "mybilet.com", "country" : "Turkey", "size" : "27457" },
-{ "name" : "araba.com", "country" : "Turkey", "size" : "23129" },
-{ "name" : "tcmb.gov.tr", "country" : "Turkey", "size" : "22878" },
-{ "name" : "akormerkezi.com", "country" : "Turkey", "size" : "24439" },
-{ "name" : "metu.edu.tr", "country" : "Turkey", "size" : "22967" },
-{ "name" : "hdizlefilmi.net", "country" : "Turkey", "size" : "24970" },
-{ "name" : "evmanya.com", "country" : "Turkey", "size" : "24316" },
-{ "name" : "yellowpages.com.tr", "country" : "Turkey", "size" : "24857" },
-{ "name" : "anathemes.com", "country" : "Turkey", "size" : "25442" },
-{ "name" : "etstur.com", "country" : "Turkey", "size" : "25960" },
-{ "name" : "doktorsitesi.com", "country" : "Turkey", "size" : "25506" },
-{ "name" : "secimanketi.tv", "country" : "Turkey", "size" : "30882" },
-{ "name" : "analizmerkezi.com", "country" : "Turkey", "size" : "26284" },
-{ "name" : "ni.net.tr", "country" : "Turkey", "size" : "28719" },
-{ "name" : "merlininkazani.com", "country" : "Turkey", "size" : "24871" },
-{ "name" : "orjinalmarket.net", "country" : "Turkey", "size" : "22753" },
-{ "name" : "dictionarist.com", "country" : "Turkey", "size" : "22680" },
-{ "name" : "webmaster.tc", "country" : "Turkey", "size" : "32474" },
-{ "name" : "ecift.com", "country" : "Turkey", "size" : "24300" },
-{ "name" : "1v1y.com", "country" : "Turkey", "size" : "25142" },
-{ "name" : "direkizle.com", "country" : "Turkey", "size" : "23318" },
-{ "name" : "diyadinnet.com", "country" : "Turkey", "size" : "24453" },
-{ "name" : "modanisa.com", "country" : "Turkey", "size" : "27007" },
-{ "name" : "zizigo.com", "country" : "Turkey", "size" : "23084" },
-{ "name" : "suratkargo.com.tr", "country" : "Turkey", "size" : "25573" },
-{ "name" : "vizyonfilmizle.net", "country" : "Turkey", "size" : "27417" },
-{ "name" : "transfermarkt.com.tr", "country" : "Turkey", "size" : "18974" },
-{ "name" : "haberdar.com", "country" : "Turkey", "size" : "22050" },
-{ "name" : "funpic.de", "country" : "Turkey", "size" : "23791" },
-{ "name" : "gecce.com", "country" : "Turkey", "size" : "23461" },
-{ "name" : "cezmikalorifer.com", "country" : "Turkey", "size" : "26264" },
-{ "name" : "stilgiyin.com", "country" : "Turkey", "size" : "24341" },
-{ "name" : "sadecehosting.com", "country" : "Turkey", "size" : "26161" },
-{ "name" : "lcwaikiki.com", "country" : "Turkey", "size" : "24028" },
-{ "name" : "istanbul.edu.tr", "country" : "Turkey", "size" : "23595" },
-{ "name" : "tempobet22.com", "country" : "Turkey", "size" : "26916" },
-{ "name" : "fbs.com.tr", "country" : "Turkey", "size" : "27366" },
-{
-	"name" : "fulldiziizleyelim.org",
-	"country" : "Turkey",
-	"size" : "55258"
-},
-{ "name" : "cimri.com", "country" : "Turkey", "size" : "23907" },
-{ "name" : "modagram.com", "country" : "Turkey", "size" : "26530" },
-{ "name" : "wardom.org", "country" : "Turkey", "size" : "28053" },
-{
-	"name" : "mybacksurveyonlinezs.com",
-	"country" : "Turkey",
-	"size" : "33073"
-},
-{ "name" : "alanadlari.com", "country" : "Turkey", "size" : "26102" },
-{ "name" : "iett.gov.tr", "country" : "Turkey", "size" : "25400" },
-{ "name" : "mayonez.net", "country" : "Turkey", "size" : "26888" },
-{ "name" : "medyafaresi.com", "country" : "Turkey", "size" : "24784" },
-{ "name" : "zapkolik.com", "country" : "Turkey", "size" : "20185" },
-{ "name" : "say.ac", "country" : "Turkey", "size" : "25214" },
-{ "name" : "pornoizleturk.biz", "country" : "Turkey", "size" : "71810" },
-{ "name" : "likelo.com", "country" : "Turkey", "size" : "22836" },
-{
-	"name" : "canliradyodinle.gen.tr",
-	"country" : "Turkey",
-	"size" : "30038"
-},
-{ "name" : "resmigazete.gov.tr", "country" : "Turkey", "size" : "27011" },
-{ "name" : "superfb.com", "country" : "Turkey", "size" : "28844" },
-{ "name" : "defacto.com.tr", "country" : "Turkey", "size" : "26506" },
-{ "name" : "risaleajans.com", "country" : "Turkey", "size" : "21781" },
-{ "name" : "gazeteciler.com", "country" : "Turkey", "size" : "24328" },
-{ "name" : "haberyurdum.com", "country" : "Turkey", "size" : "29512" },
-{ "name" : "aljazeera.com.tr", "country" : "Turkey", "size" : "41652" },
-{ "name" : "www.nic.tr", "country" : "Turkey", "size" : "29343" },
-{ "name" : "pirsushaber.com", "country" : "Turkey", "size" : "27945" },
-{ "name" : "forumexe.com", "country" : "Turkey", "size" : "27083" },
-{ "name" : "hdfilmsaati.org", "country" : "Turkey", "size" : "24497" },
-{ "name" : "hotelspro.com", "country" : "Turkey", "size" : "31143" },
-{ "name" : "ttnetmuzik.com.tr", "country" : "Turkey", "size" : "28479" },
-{ "name" : "ultrafilmizle.com", "country" : "Turkey", "size" : "18881" },
-{ "name" : "tahminkolik.com", "country" : "Turkey", "size" : "27053" },
-{ "name" : "haberfedai.com", "country" : "Turkey", "size" : "28730" },
-{ "name" : "rdrtr.com", "country" : "Turkey", "size" : "39816" },
-{ "name" : "yeniakit.com.tr", "country" : "Turkey", "size" : "28759" },
-{ "name" : "payu.com.tr", "country" : "Turkey", "size" : "28186" },
-{ "name" : "0eb.net", "country" : "Turkey", "size" : "33517" },
-{ "name" : "msxlabs.org", "country" : "Turkey", "size" : "24533" },
-{ "name" : "evrenselfilm.net", "country" : "Turkey", "size" : "29583" },
-{ "name" : "zzsearch.net", "country" : "Turkey", "size" : "22388" },
-{ "name" : "ikea.com.tr", "country" : "Turkey", "size" : "27486" },
-{ "name" : "sozluk.net", "country" : "Turkey", "size" : "26136" },
-{ "name" : "haberself.com", "country" : "Turkey", "size" : "25498" },
-{ "name" : "mngkargo.com.tr", "country" : "Turkey", "size" : "25856" },
-{ "name" : "yakala.co", "country" : "Turkey", "size" : "28012" },
-{ "name" : "wordego.com", "country" : "Turkey", "size" : "29609" },
-{ "name" : "diziler.com", "country" : "Turkey", "size" : "26375" },
-{ "name" : "iskur.gov.tr", "country" : "Turkey", "size" : "29995" },
-{ "name" : "grafikerler.net", "country" : "Turkey", "size" : "29989" },
-{ "name" : "minioyun.org", "country" : "Turkey", "size" : "27342" },
-{ "name" : "rivalo1.com", "country" : "Turkey", "size" : "39855" },
-{ "name" : "turkticaret.net", "country" : "Turkey", "size" : "27299" },
-{ "name" : "diziizlehdfull.net", "country" : "Turkey", "size" : "25194" },
-{ "name" : "leechturk.com", "country" : "Turkey", "size" : "30454" },
-{ "name" : "haber61.net", "country" : "Turkey", "size" : "11017" },
-{ "name" : "turktorrent.eu", "country" : "Turkey", "size" : "22573" },
-{ "name" : "issizadam.net", "country" : "Turkey", "size" : "19634" },
-{ "name" : "22sexy.com", "country" : "Turkey", "size" : "74124" },
-{ "name" : "ref5.net", "country" : "Turkey", "size" : "30094" },
-{ "name" : "turkcebilgi.com", "country" : "Turkey", "size" : "29733" },
-{ "name" : "emlakguncel.com", "country" : "Turkey", "size" : "28126" },
-{ "name" : "sporxtv.com", "country" : "Turkey", "size" : "31740" },
-{
-	"name" : "bilgisayarbilisim.net",
-	"country" : "Turkey",
-	"size" : "30243"
-},
-{ "name" : "bitturk.net", "country" : "Turkey", "size" : "29489" },
-{ "name" : "aydinlikgazete.com", "country" : "Turkey", "size" : "28680" },
-{ "name" : "grupanya.com", "country" : "Turkey", "size" : "30780" },
-{ "name" : "boun.edu.tr", "country" : "Turkey", "size" : "29408" },
-{ "name" : "eticaretmag.com", "country" : "Turkey", "size" : "31709" },
-{ "name" : "hurriyettv.com", "country" : "Turkey", "size" : "75083" },
-{ "name" : "gsgazete.com", "country" : "Turkey", "size" : "29830" },
-{ "name" : "dunya.com", "country" : "Turkey", "size" : "31732" },
-{ "name" : "61saat.com", "country" : "Turkey", "size" : "29552" },
-{ "name" : "emu.edu.tr", "country" : "Turkey", "size" : "29899" },
-{ "name" : "trtspor.com.tr", "country" : "Turkey", "size" : "35135" },
-{ "name" : "dizi-mag.com", "country" : "Turkey", "size" : "26800" },
-{ "name" : "gelirortaklari.com", "country" : "Turkey", "size" : "31092" },
-{ "name" : "haber10.com", "country" : "Turkey", "size" : "25269" },
-{ "name" : "hocy.net", "country" : "Turkey", "size" : "29213" },
-{ "name" : "eksiduyuru.com", "country" : "Turkey", "size" : "29846" },
-{ "name" : "forvetbet800.com", "country" : "Turkey", "size" : "34172" },
-{ "name" : "webtentvizle.com", "country" : "Turkey", "size" : "31968" },
-{ "name" : "vbulletin-turko.com", "country" : "Turkey", "size" : "26300" },
-{ "name" : "sadecehosting.net", "country" : "Turkey", "size" : "27249" },
-{ "name" : "cinemaximum.com.tr", "country" : "Turkey", "size" : "33136" },
-{ "name" : "uzmancevap.org", "country" : "Turkey", "size" : "34534" },
-{ "name" : "sakarya.edu.tr", "country" : "Turkey", "size" : "29307" },
-{ "name" : "emlakjet.com", "country" : "Turkey", "size" : "31765" },
-{ "name" : "digiturk.com.tr", "country" : "Turkey", "size" : "32615" },
-{
-	"name" : "bolumsonucanavari.com",
-	"country" : "Turkey",
-	"size" : "31198"
-},
-{ "name" : "akparti.org.tr", "country" : "Turkey", "size" : "31302" },
-{ "name" : "saglik.gov.tr", "country" : "Turkey", "size" : "31390" },
-{ "name" : "son.tv", "country" : "Turkey", "size" : "28463" },
-{ "name" : "haberts.com", "country" : "Turkey", "size" : "34562" },
-{ "name" : "kijiji.com.tr", "country" : "Turkey", "size" : "32073" },
-{ "name" : "hisse.net", "country" : "Turkey", "size" : "30364" },
-{ "name" : "broadagesports.com", "country" : "Turkey", "size" : "49215" },
-{ "name" : "sanalkurs.net", "country" : "Turkey", "size" : "31436" },
-{ "name" : "taleworlds.com", "country" : "Turkey", "size" : "27911" },
-{ "name" : "gazeteport.com.tr", "country" : "Turkey", "size" : "32584" },
-{ "name" : "alastyr.com", "country" : "Turkey", "size" : "36315" },
-{ "name" : "yurtgazetesi.com.tr", "country" : "Turkey", "size" : "31225" },
-{ "name" : "birgun.net", "country" : "Turkey", "size" : "30265" },
-{ "name" : "okulistik.com", "country" : "Turkey", "size" : "32146" },
-{ "name" : "gscimbom.com", "country" : "Turkey", "size" : "29866" },
-{ "name" : "haberaktuel.com", "country" : "Turkey", "size" : "38199" },
-{ "name" : "akilli.tv", "country" : "Turkey", "size" : "32836" },
-{ "name" : "sanalbasin.com", "country" : "Turkey", "size" : "34130" },
-{ "name" : "incicaps.com", "country" : "Turkey", "size" : "33540" },
-{ "name" : "bebekoyunu.com.tr", "country" : "Turkey", "size" : "31144" },
-{ "name" : "opencart-tr.com", "country" : "Turkey", "size" : "35234" },
-{ "name" : "mhrs.gov.tr", "country" : "Turkey", "size" : "35250" },
-{ "name" : "tvarsivi.com", "country" : "Turkey", "size" : "24665" },
-{ "name" : "tribundergi.com", "country" : "Turkey", "size" : "37260" },
-{ "name" : "tozlugiyim.com.tr", "country" : "Turkey", "size" : "28102" },
-{ "name" : "elookat.com", "country" : "Turkey", "size" : "30974" },
-{ "name" : "youexif.com", "country" : "Turkey", "size" : "47966" },
-{ "name" : "ilkelihaber.com", "country" : "Turkey", "size" : "33526" },
-{ "name" : "evim.net", "country" : "Turkey", "size" : "28369" },
-{ "name" : "haberciniz.biz", "country" : "Turkey", "size" : "33116" },
-{ "name" : "hacettepe.edu.tr", "country" : "Turkey", "size" : "34999" },
-{ "name" : "webteizle.org", "country" : "Turkey", "size" : "27806" },
-{ "name" : "tripadvisor.com.tr", "country" : "Turkey", "size" : "34540" },
-{ "name" : "techno-labs.com", "country" : "Turkey", "size" : "44113" },
-{ "name" : "searchandseek.com", "country" : "Turkey", "size" : "36705" },
-{ "name" : "skyscanner.com.tr", "country" : "Turkey", "size" : "38250" },
-{ "name" : "kadinvekadin.net", "country" : "Turkey", "size" : "31608" },
-{ "name" : "muhalifgazete.com", "country" : "Turkey", "size" : "31563" },
-{ "name" : "filmiizle.tv", "country" : "Turkey", "size" : "29945" },
-{ "name" : "muhalifbaski.com", "country" : "Turkey", "size" : "49858" },
-{ "name" : "adtriplex.com", "country" : "Turkey", "size" : "33268" },
-{ "name" : "haxball.com", "country" : "Turkey", "size" : "28994" },
-{ "name" : "canlitvx.com", "country" : "Turkey", "size" : "35613" },
-{ "name" : "3doyunlar.net", "country" : "Turkey", "size" : "28607" },
-{ "name" : "koctas.com.tr", "country" : "Turkey", "size" : "33758" },
-{ "name" : "koreanturk.com", "country" : "Turkey", "size" : "34503" },
-{ "name" : "hdarsivi.com", "country" : "Turkey", "size" : "30685" },
-{ "name" : "filminndir.org", "country" : "Turkey", "size" : "41126" },
-{ "name" : "boyner.com.tr", "country" : "Turkey", "size" : "34016" },
-{ "name" : "numberone.com.tr", "country" : "Turkey", "size" : "32108" },
-{ "name" : "haberform.com", "country" : "Turkey", "size" : "36355" },
-{ "name" : "stargundem.com", "country" : "Turkey", "size" : "34259" },
-{ "name" : "tpe.gov.tr", "country" : "Turkey", "size" : "34783" },
-{ "name" : "hostinger.web.tr", "country" : "Turkey", "size" : "34900" },
-{ "name" : "zinko.net", "country" : "Turkey", "size" : "33244" },
-{
-	"name" : "sorularlaislamiyet.com",
-	"country" : "Turkey",
-	"size" : "32643"
-},
-{ "name" : "temafabrika.com", "country" : "Turkey", "size" : "57343" },
-{ "name" : "fullhd720pizle.com", "country" : "Turkey", "size" : "43253" },
-{ "name" : "macyayinlari.com", "country" : "Turkey", "size" : "70499" },
-{ "name" : "idemama.com", "country" : "Turkey", "size" : "58741" },
-{ "name" : "komedi.com", "country" : "Turkey", "size" : "165438" },
-{ "name" : "anadolujet.com", "country" : "Turkey", "size" : "65964" },
-{ "name" : "com.nu", "country" : "Turkey", "size" : "62360" },
-{ "name" : "niobeweb.net", "country" : "Turkey", "size" : "87823" },
-{ "name" : "zamundatorrent.com", "country" : "Turkey", "size" : "65891" },
-{ "name" : "whmdestek.com", "country" : "Turkey", "size" : "79567" },
-{ "name" : "sinetif.com", "country" : "Turkey", "size" : "73139" },
-{
-	"name" : "bedavacanlitvizle.org",
-	"country" : "Turkey",
-	"size" : "69473"
-},
-{ "name" : "gormenlazim.net", "country" : "Turkey", "size" : "196713" },
-{ "name" : "sarki-sozleri.net", "country" : "Turkey", "size" : "55413" },
-{ "name" : "woops.com.tr", "country" : "Turkey", "size" : "94778" },
-{ "name" : "frmartuklu.net", "country" : "Turkey", "size" : "64494" },
-{ "name" : "anasayfa.co", "country" : "Turkey", "size" : "68468" },
-{ "name" : "klanlar.org", "country" : "Turkey", "size" : "60164" },
-{ "name" : "malatyagercek.com", "country" : "Turkey", "size" : "65242" },
-{ "name" : "inciseks.com", "country" : "Turkey", "size" : "87504" },
-{ "name" : "e-tesettur.com.tr", "country" : "Turkey", "size" : "68557" },
-{ "name" : "filmtvizle.org", "country" : "Turkey", "size" : "98779" },
-{ "name" : "turktorrent.cc", "country" : "Turkey", "size" : "118946" },
-{ "name" : "vipmerkezi.net", "country" : "Turkey", "size" : "67284" },
-{ "name" : "9cameras.com", "country" : "Turkey", "size" : "63114" },
-{ "name" : "egehaber.com", "country" : "Turkey", "size" : "55376" },
-{ "name" : "superkarga.com", "country" : "Turkey", "size" : "78908" },
-{ "name" : "tenceretv.com", "country" : "Turkey", "size" : "68664" },
-{ "name" : "skorer.com", "country" : "Turkey", "size" : "42484" },
-{ "name" : "dvixcenter.com", "country" : "Turkey", "size" : "90845" },
-{ "name" : "gunaz.tv", "country" : "Turkey", "size" : "88007" },
-{ "name" : "turkcebilgi.org", "country" : "Turkey", "size" : "69607" },
-{ "name" : "altinpiyasa.com", "country" : "Turkey", "size" : "69757" },
-{ "name" : "oyyla.com", "country" : "Turkey", "size" : "78437" },
-{ "name" : "pornelits.com", "country" : "Turkey", "size" : "77802" },
-{ "name" : "etohum.com", "country" : "Turkey", "size" : "53466" },
-{ "name" : "haberinbizden.com", "country" : "Turkey", "size" : "63342" },
-{ "name" : "vicepra.us", "country" : "Turkey", "size" : "63928" },
-{ "name" : "renault.com.tr", "country" : "Turkey", "size" : "59428" },
-{ "name" : "mutfaksirlari.com", "country" : "Turkey", "size" : "65260" },
-{ "name" : "proticaret.org", "country" : "Turkey", "size" : "70796" },
-{ "name" : "ubuntu-tr.net", "country" : "Turkey", "size" : "68246" },
-{ "name" : "sendika.org", "country" : "Turkey", "size" : "57564" },
-{ "name" : "724tikla.com", "country" : "Turkey", "size" : "72111" },
-{ "name" : "reali.st", "country" : "Turkey", "size" : "64164" },
-{ "name" : "wptemalari.net", "country" : "Turkey", "size" : "69401" },
-{ "name" : "gonuldensevenler.com", "country" : "Turkey", "size" : "74817" },
-{ "name" : "roketoyun.com", "country" : "Turkey", "size" : "74366" },
-{ "name" : "birliktealalim.com", "country" : "Turkey", "size" : "80086" },
-{ "name" : "haberartiturk.com", "country" : "Turkey", "size" : "59946" },
-{ "name" : "webadam.com", "country" : "Turkey", "size" : "65976" },
-{ "name" : "medimagazin.com.tr", "country" : "Turkey", "size" : "67406" },
-{ "name" : "tuik.gov.tr", "country" : "Turkey", "size" : "77271" },
-{ "name" : "agaclar.net", "country" : "Turkey", "size" : "77079" },
-{ "name" : "sendloop.com", "country" : "Turkey", "size" : "85660" },
-{ "name" : "altincicadde.com", "country" : "Turkey", "size" : "65170" },
-{ "name" : "webservis.gen.tr", "country" : "Turkey", "size" : "73499" },
-{ "name" : "sabanciuniv.edu", "country" : "Turkey", "size" : "77270" },
-{
-	"name" : "onlinefilmizlevk.com",
-	"country" : "Turkey",
-	"size" : "106251"
-},
-{ "name" : "microoyun.com", "country" : "Turkey", "size" : "74353" },
-{ "name" : "ratingkurdu.com", "country" : "Turkey", "size" : "90899" },
-{ "name" : "oyunoyna.az", "country" : "Turkey", "size" : "73936" },
-{ "name" : "dijimecmua.com", "country" : "Turkey", "size" : "76339" },
-{ "name" : "haber8.com", "country" : "Turkey", "size" : "57467" },
-{ "name" : "altin.in", "country" : "Turkey", "size" : "72180" },
-{ "name" : "habertempo.com", "country" : "Turkey", "size" : "69271" },
-{ "name" : "barcin.com", "country" : "Turkey", "size" : "72325" },
-{ "name" : "scroll.com.tr", "country" : "Turkey", "size" : "72226" },
-{ "name" : "radore.com", "country" : "Turkey", "size" : "81700" },
-{ "name" : "elazighaberi.com", "country" : "Turkey", "size" : "68219" },
-{ "name" : "rerererarara.net", "country" : "Turkey", "size" : "78572" },
-{ "name" : "aydin.edu.tr", "country" : "Turkey", "size" : "81619" },
-{ "name" : "reklam9.com", "country" : "Turkey", "size" : "111516" },
-{ "name" : "demokrathaber.net", "country" : "Turkey", "size" : "91797" },
-{ "name" : "videoizle.co", "country" : "Turkey", "size" : "69745" },
-{ "name" : "fgulen.com", "country" : "Turkey", "size" : "53992" },
-{ "name" : "diyanettakvimi.com", "country" : "Turkey", "size" : "77081" },
-{ "name" : "avantajix.com", "country" : "Turkey", "size" : "75686" },
-{ "name" : "revolution-news.com", "country" : "Turkey", "size" : "113150" },
-{ "name" : "ogunhaber.com", "country" : "Turkey", "size" : "78387" },
-{ "name" : "paracebe.com", "country" : "Turkey", "size" : "75447" },
-{ "name" : "bjk.com.tr", "country" : "Turkey", "size" : "64041" },
-{ "name" : "teknomobil.org", "country" : "Turkey", "size" : "62637" },
-{ "name" : "hangikredi.com", "country" : "Turkey", "size" : "68906" },
-{ "name" : "fiat.com.tr", "country" : "Turkey", "size" : "62158" },
-{ "name" : "iamistanbul.tv", "country" : "Turkey", "size" : "79360" },
-{ "name" : "radyofenomen.com", "country" : "Turkey", "size" : "76292" },
-{ "name" : "weblozi.com", "country" : "Turkey", "size" : "82541" },
-{ "name" : "haberpi.com", "country" : "Turkey", "size" : "77501" },
-{ "name" : "turk.net", "country" : "Turkey", "size" : "74886" },
-{
-	"name" : "fullhdfilmseyret.com",
-	"country" : "Turkey",
-	"size" : "121505"
-},
-{ "name" : "belediye.tv", "country" : "Turkey", "size" : "75008" },
-{ "name" : "guvenrehberi.com", "country" : "Turkey", "size" : "112200" },
-{ "name" : "sunexpress.com.tr", "country" : "Turkey", "size" : "76637" },
-{ "name" : "olay.com.tr", "country" : "Turkey", "size" : "69932" },
-{
-	"name" : "sondakikahaberleri.info.tr",
-	"country" : "Turkey",
-	"size" : "72903"
-},
-{ "name" : "alobilethatti.com", "country" : "Turkey", "size" : "73160" },
-{ "name" : "haksozhaber.net", "country" : "Turkey", "size" : "64761" },
-{ "name" : "incisozluk.cc", "country" : "Turkey", "size" : "58185" },
-{ "name" : "bonus.com.tr", "country" : "Turkey", "size" : "68341" },
-{ "name" : "netmoda.com", "country" : "Turkey", "size" : "105277" },
-{ "name" : "beymen.com", "country" : "Turkey", "size" : "78695" },
-{ "name" : "cahidejibek.com", "country" : "Turkey", "size" : "77199" },
-{ "name" : "jtnpanel.com", "country" : "Turkey", "size" : "70771" },
-{ "name" : "momizat.net", "country" : "Turkey", "size" : "48484" },
-{ "name" : "360adshost.com", "country" : "Turkey", "size" : "109726" },
-{ "name" : "penimax.us", "country" : "Turkey", "size" : "116924" },
-{ "name" : "netkayit.com", "country" : "Turkey", "size" : "76209" },
-{ "name" : "egm.gov.tr", "country" : "Turkey", "size" : "75633" },
-{ "name" : "heithalat.com", "country" : "Turkey", "size" : "84280" },
-{ "name" : "onename.org", "country" : "Turkey", "size" : "129872" },
-{ "name" : "trabzonspor.org.tr", "country" : "Turkey", "size" : "73650" },
-{ "name" : "toptanciniz.com", "country" : "Turkey", "size" : "73372" },
-{ "name" : "objektifhaber.com", "country" : "Turkey", "size" : "77034" },
-{ "name" : "mobrog.com", "country" : "Turkey", "size" : "71984" },
-{ "name" : "usluer.net", "country" : "Turkey", "size" : "75020" },
-{ "name" : "cizgifilm.in", "country" : "Turkey", "size" : "73477" },
-{ "name" : "cilginturkporno.com", "country" : "Turkey", "size" : "73790" },
-{ "name" : "vidobu.com", "country" : "Turkey", "size" : "91332" },
-{ "name" : "anarschi.com", "country" : "Turkey", "size" : "82047" },
-{ "name" : "sosyalmedyahaber.com", "country" : "Turkey", "size" : "97648" },
-{ "name" : "ihya.org", "country" : "Turkey", "size" : "61264" },
-{ "name" : "kosgeb.gov.tr", "country" : "Turkey", "size" : "78525" },
-{ "name" : "samanyolu.tv", "country" : "Turkey", "size" : "79497" },
-{ "name" : "yasambu.com", "country" : "Turkey", "size" : "76336" },
-{ "name" : "as42926.net", "country" : "Turkey", "size" : "81650" },
-{ "name" : "yakuter.com", "country" : "Turkey", "size" : "78865" },
-{ "name" : "cmbilisim.com", "country" : "Turkey", "size" : "72433" },
-{ "name" : "palstation106.com", "country" : "Turkey", "size" : "87426" },
-{ "name" : "peugeot.com.tr", "country" : "Turkey", "size" : "101265" },
-{ "name" : "basbakanlik.gov.tr", "country" : "Turkey", "size" : "95431" },
-{ "name" : "altinkaynak.com.tr", "country" : "Turkey", "size" : "71674" },
-{ "name" : "hayatnotu.com", "country" : "Turkey", "size" : "64258" },
-{ "name" : "demokratgebze.com.tr", "country" : "Turkey", "size" : "77623" },
-{ "name" : "turkiyef1.com", "country" : "Turkey", "size" : "89524" },
-{ "name" : "bahisanaliz.com", "country" : "Turkey", "size" : "85681" },
-{ "name" : "ingilizce.tk", "country" : "Turkey", "size" : "79341" },
-{ "name" : "elele.com.tr", "country" : "Turkey", "size" : "51789" },
-{ "name" : "matchandtalk.com", "country" : "Turkey", "size" : "58829" },
-{ "name" : "mp3indirdur.com", "country" : "Turkey", "size" : "155364" },
-{ "name" : "ulusoy.com.tr", "country" : "Turkey", "size" : "72703" },
-{ "name" : "safirtema.com", "country" : "Turkey", "size" : "75271" },
-{ "name" : "ozelarkadas.co", "country" : "Turkey", "size" : "119155" },
-{ "name" : "startupturkey.com", "country" : "Turkey", "size" : "115796" },
-{ "name" : "novacep.net", "country" : "Turkey", "size" : "363506" },
-{ "name" : "lastikcim.com.tr", "country" : "Turkey", "size" : "306749" },
-{ "name" : "positionfinder.net", "country" : "Turkey", "size" : "309006" },
-{ "name" : "onlinezekaoyunu.com", "country" : "Turkey", "size" : "737958" },
-{ "name" : "pornomoon.com", "country" : "Turkey", "size" : "433095" },
-{ "name" : "multi-ping.com", "country" : "Turkey", "size" : "349155" },
-{ "name" : "kalemhediye.com", "country" : "Turkey", "size" : "391776" },
-{ "name" : "limitsizamca.net", "country" : "Turkey", "size" : "549023" },
-{ "name" : "watsons.com.tr", "country" : "Turkey", "size" : "441625" },
-{ "name" : "dizimag.in", "country" : "Turkey", "size" : "400548" },
-{ "name" : "omergin.com", "country" : "Turkey", "size" : "418178" },
-{ "name" : "sekomedia.com", "country" : "Turkey", "size" : "394935" },
-{ "name" : "adamspor.com", "country" : "Turkey", "size" : "305597" },
-{ "name" : "arabulyeri.com", "country" : "Turkey", "size" : "434462" },
-{ "name" : "yasaracar.com", "country" : "Turkey", "size" : "497037" },
-{ "name" : "onlinegamer.cc", "country" : "Turkey", "size" : "311054" },
-{ "name" : "habersitesikur.com", "country" : "Turkey", "size" : "359148" },
-{ "name" : "cescesor.com", "country" : "Turkey", "size" : "408550" },
-{ "name" : "erasmusum.com", "country" : "Turkey", "size" : "499646" },
-{ "name" : "opencart.gen.tr", "country" : "Turkey", "size" : "376853" },
-{ "name" : "wolflitepro.com", "country" : "Turkey", "size" : "385543" },
-{ "name" : "lokuf.com", "country" : "Turkey", "size" : "430287" },
-{ "name" : "netbosanma.com", "country" : "Turkey", "size" : "518909" },
-{ "name" : "biribon.com", "country" : "Turkey", "size" : "763361" },
-{ "name" : "atticthemes.com", "country" : "Turkey", "size" : "369378" },
-{ "name" : "imza.la", "country" : "Turkey", "size" : "422640" },
-{ "name" : "uni-trend.com", "country" : "Turkey", "size" : "665528" },
-{ "name" : "pornsexbak.com", "country" : "Turkey", "size" : "272094" },
-{ "name" : "isimlerinanlami.net", "country" : "Turkey", "size" : "415367" },
-{
-	"name" : "pastaoyunlari.gen.tr",
-	"country" : "Turkey",
-	"size" : "480629"
-},
-{ "name" : "news6global.com", "country" : "Turkey", "size" : "185513" },
-{ "name" : "dizilerfull.com", "country" : "Turkey", "size" : "679159" },
-{ "name" : "aykutokyay.com", "country" : "Turkey", "size" : "665859" },
-{ "name" : "jonturk.com", "country" : "Turkey", "size" : "257898" },
-{ "name" : "delidolusex.me", "country" : "Turkey", "size" : "543836" },
-{ "name" : "tatilgo.com", "country" : "Turkey", "size" : "392093" },
-{ "name" : "oyak.com.tr", "country" : "Turkey", "size" : "434436" },
-{ "name" : "salom.com.tr", "country" : "Turkey", "size" : "314929" },
-{ "name" : "istdizayn.com", "country" : "Turkey", "size" : "409647" },
-{ "name" : "365alisveris.com", "country" : "Turkey", "size" : "425037" },
-{ "name" : "bilgit.com", "country" : "Turkey", "size" : "373942" },
-{ "name" : "cicibebeler.com", "country" : "Turkey", "size" : "464781" },
-{ "name" : "inhores.com", "country" : "Turkey", "size" : "625273" },
-{ "name" : "mangavadisi.net", "country" : "Turkey", "size" : "498170" },
-{ "name" : "betashoes.com", "country" : "Turkey", "size" : "411860" },
-{ "name" : "dekosor.com", "country" : "Turkey", "size" : "578215" },
-{ "name" : "sarepirlanta.com", "country" : "Turkey", "size" : "436783" },
-{ "name" : "putur.com", "country" : "Turkey", "size" : "392927" },
-{ "name" : "demirdokum.com.tr", "country" : "Turkey", "size" : "379569" },
-{ "name" : "reklamfon.com", "country" : "Turkey", "size" : "230088" },
-{
-	"name" : "themeforest.net/user/designingmedia",
-	"country" : "Turkey",
-	"size" : "417765"
-},
-{ "name" : "matbaaloji.com", "country" : "Turkey", "size" : "535120" },
-{
-	"name" : "izmirisrehberi.com.tr",
-	"country" : "Turkey",
-	"size" : "343915"
-},
-{ "name" : "fatih.bel.tr", "country" : "Turkey", "size" : "417305" },
-{ "name" : "serhattv.com.tr", "country" : "Turkey", "size" : "396632" },
-{ "name" : "noktadetectors.com", "country" : "Turkey", "size" : "485927" },
-{ "name" : "yarisdergisi.com", "country" : "Turkey", "size" : "372668" },
-{ "name" : "radyotvonline.com", "country" : "Turkey", "size" : "392261" },
-{ "name" : "yemekhatti.com", "country" : "Turkey", "size" : "431044" },
-{ "name" : "derinmor.com", "country" : "Turkey", "size" : "361038" },
-{ "name" : "yeniklasor.com", "country" : "Turkey", "size" : "303823" },
-{ "name" : "bozok.edu.tr", "country" : "Turkey", "size" : "291578" },
-{ "name" : "oyunturk.com", "country" : "Turkey", "size" : "453682" },
-{ "name" : "eodepo.com", "country" : "Turkey", "size" : "388730" },
-{ "name" : "avrupatr.com", "country" : "Turkey", "size" : "391267" },
-{ "name" : "kitapsepeti.com", "country" : "Turkey", "size" : "415191" },
-{ "name" : "ekadinca.com", "country" : "Turkey", "size" : "334948" },
-{ "name" : "yemek-tarifleri.com", "country" : "Turkey", "size" : "423208" },
-{ "name" : "falezhaber.com", "country" : "Turkey", "size" : "304093" },
-{ "name" : "sonduzluk.com", "country" : "Turkey", "size" : "456879" },
-{ "name" : "bitkirehberi.net", "country" : "Turkey", "size" : "496017" },
-{ "name" : "rizenabiz.com", "country" : "Turkey", "size" : "401252" },
-{ "name" : "fem.com.tr", "country" : "Turkey", "size" : "328127" },
-{ "name" : "birebirfikir.com", "country" : "Turkey", "size" : "509693" },
-{ "name" : "onurtemiz.com", "country" : "Turkey", "size" : "428975" },
-{ "name" : "surat.com.tr", "country" : "Turkey", "size" : "527752" },
-{ "name" : "umittopcan.net", "country" : "Turkey", "size" : "569488" },
-{
-	"name" : "kastamonupostasi.com",
-	"country" : "Turkey",
-	"size" : "480309"
-},
-{ "name" : "lafsozluk.com", "country" : "Turkey", "size" : "478218" },
-{ "name" : "firsatsevdasi.com", "country" : "Turkey", "size" : "331652" },
-{ "name" : "sesliremix.com", "country" : "Turkey", "size" : "454016" },
-{ "name" : "yalova.edu.tr", "country" : "Turkey", "size" : "416515" },
-{ "name" : "graficopy.com.tr", "country" : "Turkey", "size" : "410822" },
-{ "name" : "soulmy.net", "country" : "Turkey", "size" : "321538" },
-{ "name" : "pirebi.com", "country" : "Turkey", "size" : "660055" },
-{ "name" : "edizilerim.com", "country" : "Turkey", "size" : "321115" },
-{ "name" : "meshursozler.com", "country" : "Turkey", "size" : "366309" },
-{ "name" : "transfermerkez.com", "country" : "Turkey", "size" : "317144" },
-{ "name" : "calismadunyasi.com", "country" : "Turkey", "size" : "371517" },
-{ "name" : "sefageldiniz.com", "country" : "Turkey", "size" : "393149" },
-{ "name" : "yerelsecim.com", "country" : "Turkey", "size" : "468752" },
-{ "name" : "3pay.com", "country" : "Turkey", "size" : "610071" },
-{ "name" : "ilimdunyasi.com", "country" : "Turkey", "size" : "253768" },
-{ "name" : "onlinepeople.com", "country" : "Turkey", "size" : "424510" },
-{ "name" : "guraysuerdem.com", "country" : "Turkey", "size" : "472821" },
-{ "name" : "turkishcargo.com.tr", "country" : "Turkey", "size" : "373408" },
-{ "name" : "yazihaneden.com", "country" : "Turkey", "size" : "436411" },
-{
-	"name" : "alanyaticaretrehberi.com",
-	"country" : "Turkey",
-	"size" : "367905"
-},
-{ "name" : "armastil.com", "country" : "Turkey", "size" : "405730" },
-{ "name" : "androidciyiz.net", "country" : "Turkey", "size" : "385399" },
-{ "name" : "comtr.com.tr", "country" : "Turkey", "size" : "336326" },
-{ "name" : "sprymedia.co.uk", "country" : "Turkey", "size" : "430991" },
-{ "name" : "balerin.com", "country" : "Turkey", "size" : "327820" },
-{ "name" : "ellidokuz.com", "country" : "Turkey", "size" : "362486" },
-{ "name" : "tkd.org.tr", "country" : "Turkey", "size" : "358626" },
-{ "name" : "1ow.net", "country" : "Turkey", "size" : "990130" },
-{ "name" : "serhatatik.com.tr", "country" : "Turkey", "size" : "404325" },
-{ "name" : "sonvesayet.com", "country" : "Turkey", "size" : "606146" },
-{ "name" : "ufkumuz.com", "country" : "Turkey", "size" : "470090" },
-{ "name" : "mbirgin.com", "country" : "Turkey", "size" : "438772" },
-{ "name" : "icgiyimtoptan.com", "country" : "Turkey", "size" : "816947" },
-{ "name" : "lebriz.com", "country" : "Turkey", "size" : "388104" },
-{ "name" : "istihza.com", "country" : "Turkey", "size" : "463509" },
-{ "name" : "kobitek.com", "country" : "Turkey", "size" : "434919" },
-{ "name" : "oyunokyanusu.com", "country" : "Turkey", "size" : "423455" },
-{ "name" : "idata.com.tr", "country" : "Turkey", "size" : "463131" },
-{ "name" : "sekeryatirim.com", "country" : "Turkey", "size" : "439764" },
-{ "name" : "lojmi.com", "country" : "Turkey", "size" : "1047632" },
-{ "name" : "birincioyun.com", "country" : "Turkey", "size" : "435704" },
-{
-	"name" : "html-java-kod-bul.tr.gg",
-	"country" : "Turkey",
-	"size" : "352403"
-},
-{
-	"name" : "twitter-takipcim.net",
-	"country" : "Turkey",
-	"size" : "451717"
-},
-{ "name" : "thewhitetree.org", "country" : "Turkey", "size" : "373461" },
-{ "name" : "erzurummedya.com", "country" : "Turkey", "size" : "364599" },
-{ "name" : "zoosexclips.net", "country" : "Turkey", "size" : "154802" },
-{ "name" : "xprogaming.com", "country" : "Turkey", "size" : "380662" },
-{ "name" : "turkiyeturizm.com", "country" : "Turkey", "size" : "324879" },
-{ "name" : "uzmandil.com", "country" : "Turkey", "size" : "346402" },
-{ "name" : "pinar.com.tr", "country" : "Turkey", "size" : "461897" },
-{ "name" : "eskidji.com", "country" : "Turkey", "size" : "467022" },
-{ "name" : "moviesgaybears.com", "country" : "Turkey", "size" : "396718" },
-{ "name" : "ajansrize.net", "country" : "Turkey", "size" : "366013" },
-{ "name" : "nettaktik.biz", "country" : "Turkey", "size" : "365679" },
-{ "name" : "womendergisi.com", "country" : "Turkey", "size" : "385568" },
-{ "name" : "aljazeeratalk.net", "country" : "Turkey", "size" : "545345" },
-{ "name" : "tolgak.org", "country" : "Turkey", "size" : "292611" },
-{ "name" : "sonses.tv", "country" : "Turkey", "size" : "391372" },
-{ "name" : "filoturk.com", "country" : "Turkey", "size" : "363839" },
-{ "name" : "egzotiktatil.com", "country" : "Turkey", "size" : "402473" },
-{ "name" : "yargici.com.tr", "country" : "Turkey", "size" : "411342" },
-{ "name" : "marksist.org", "country" : "Turkey", "size" : "331554" },
-{ "name" : "josefislam.com", "country" : "Turkey", "size" : "568639" },
-{ "name" : "bilgibirikimi.net", "country" : "Turkey", "size" : "481138" },
-{ "name" : "aselsan.com.tr", "country" : "Turkey", "size" : "384689" },
-{ "name" : "tr-wp.com", "country" : "Turkey", "size" : "337365" },
-{ "name" : "kusadasinews.org", "country" : "Turkey", "size" : "1032228" },
-{ "name" : "oyunbul1.com", "country" : "Turkey", "size" : "440992" },
-{ "name" : "tarimsaati.com", "country" : "Turkey", "size" : "545322" },
-{ "name" : "kodhatasi.com", "country" : "Turkey", "size" : "346275" },
-{ "name" : "frivoyunlar.com", "country" : "Turkey", "size" : "926503" },
-{ "name" : "asports.com.tr", "country" : "Turkey", "size" : "371015" },
-{ "name" : "premiumtemplate.org", "country" : "Turkey", "size" : "378781" },
-{ "name" : "bilgidostum.com", "country" : "Turkey", "size" : "699190" },
-{ "name" : "neopazar.com", "country" : "Turkey", "size" : "319841" },
-{ "name" : "bursahaber.com", "country" : "Turkey", "size" : "271878" },
-{ "name" : "yazilimdevi.com", "country" : "Turkey", "size" : "388842" },
-{ "name" : "ahaport.com", "country" : "Turkey", "size" : "453410" },
-{
-	"name" : "telefondabekleme.com",
-	"country" : "Turkey",
-	"size" : "370346"
-},
-{ "name" : "gamesliga.com", "country" : "Turkey", "size" : "352079" },
-{ "name" : "erisale.com", "country" : "Turkey", "size" : "527787" },
-{ "name" : "kayra.com.tr", "country" : "Turkey", "size" : "289806" },
-{ "name" : "maxidosya.com", "country" : "Turkey", "size" : "418115" },
-{ "name" : "divaoutlet.com", "country" : "Turkey", "size" : "349845" },
-{ "name" : "avkolik.net", "country" : "Turkey", "size" : "454659" },
-{ "name" : "excu.net", "country" : "Turkey", "size" : "1061071" },
-{ "name" : "birdunyabilgi.org", "country" : "Turkey", "size" : "303079" },
-{
-	"name" : "dnsdegistirme.gen.tr",
-	"country" : "Turkey",
-	"size" : "555325"
-},
-{ "name" : "habercorlu.com", "country" : "Turkey", "size" : "459685" },
-{ "name" : "technotoday.com.tr", "country" : "Turkey", "size" : "403518" },
-{ "name" : "sag-lik.net", "country" : "Turkey", "size" : "397736" },
-{ "name" : "aksiyonkitap.com", "country" : "Turkey", "size" : "260866" },
-{
-	"name" : "abiyemodelleri2014.net",
-	"country" : "Turkey",
-	"size" : "429777"
-},
-{ "name" : "ilgazetesi.com.tr", "country" : "Turkey", "size" : "387744" },
-{ "name" : "yakuphoca.com", "country" : "Turkey", "size" : "381949" },
-{ "name" : "boyabatgazetesi.com", "country" : "Turkey", "size" : "456733" },
-{ "name" : "toplumail.com", "country" : "Turkey", "size" : "439953" },
-{ "name" : "sinematur.com", "country" : "Turkey", "size" : "422582" },
-{ "name" : "buzzgency.com", "country" : "Turkey", "size" : "279908" },
-{ "name" : "bilgievi.gen.tr", "country" : "Turkey", "size" : "349173" },
-{ "name" : "otel.org", "country" : "Turkey", "size" : "498587" },
-{ "name" : "dumanhost.com", "country" : "Turkey", "size" : "398391" },
-{ "name" : "ugurkizmaz.com", "country" : "Turkey", "size" : "465144" },
-{ "name" : "femyayinlari.com.tr", "country" : "Turkey", "size" : "451356" },
-{ "name" : "net-haberler.com", "country" : "Turkey", "size" : "338025" },
-{ "name" : "myro.net", "country" : "Turkey", "size" : "371606" },
-{ "name" : "iizle.co", "country" : "Turkey", "size" : "206179" },
-{ "name" : "artservers.com.tr", "country" : "Turkey", "size" : "439038" },
-{ "name" : "pembeyastik.com", "country" : "Turkey", "size" : "394025" },
-{
-	"name" : "beypazarihaber24.com",
-	"country" : "Turkey",
-	"size" : "559789"
-},
-{ "name" : "akillibinam.com", "country" : "Turkey", "size" : "420339" },
-{ "name" : "filmizleyo.com", "country" : "Turkey", "size" : "259274" },
-{ "name" : "verisay.com", "country" : "Turkey", "size" : "442269" },
-{ "name" : "aeproject.net", "country" : "Turkey", "size" : "474604" },
-{ "name" : "erayonline.com", "country" : "Turkey", "size" : "459602" },
-{ "name" : "zirveyazilim.net", "country" : "Turkey", "size" : "476710" },
-{ "name" : "mustafakirmizi.com", "country" : "Turkey", "size" : "375849" },
-{ "name" : "ivent2b.com", "country" : "Turkey", "size" : "511547" },
-{ "name" : "keyfisepet.com", "country" : "Turkey", "size" : "524840" },
-{ "name" : "bitlisnews.com", "country" : "Turkey", "size" : "368520" },
-{
-	"name" : "sevdanindunyasi.blogspot.com.tr",
-	"country" : "Turkey",
-	"size" : "761291"
-},
-{ "name" : "sozcukcevir.com", "country" : "Turkey", "size" : "349733" },
-{ "name" : "dekorasyon.com", "country" : "Turkey", "size" : "413565" },
-{
-	"name" : "antalyainternethaber.com",
-	"country" : "Turkey",
-	"size" : "596462"
-},
-{ "name" : "groupama.com.tr", "country" : "Turkey", "size" : "414111" },
-{ "name" : "haber200.com", "country" : "Turkey", "size" : "399306" },
-{ "name" : "photosinbox.com", "country" : "Turkey", "size" : "456767" },
-{ "name" : "akortek.com", "country" : "Turkey", "size" : "399309" },
-{ "name" : "serverlar.gen.tr", "country" : "Turkey", "size" : "429318" },
-{ "name" : "dizici.gen.tr", "country" : "Turkey", "size" : "561433" },
-{
-	"name" : "istanbulsmmmodasi.org.tr",
-	"country" : "Turkey",
-	"size" : "357068"
-},
-{
-	"name" : "apartmentfurnitures.com",
-	"country" : "Turkey",
-	"size" : "315724"
-},
-{ "name" : "iconsweets2.com", "country" : "Turkey", "size" : "380644" },
-{ "name" : "noads.biz", "country" : "Turkey", "size" : "435886" },
-{ "name" : "hurforum.com", "country" : "Turkey", "size" : "408796" },
-{ "name" : "gameitems.com", "country" : "Turkey", "size" : "368976" },
-{ "name" : "arzum.com.tr", "country" : "Turkey", "size" : "335718" },
-{ "name" : "rubateen.com", "country" : "Turkey", "size" : "318493" },
-{ "name" : "robot-soft.com", "country" : "Turkey", "size" : "660606" },
-{ "name" : "gezenesor.com", "country" : "Turkey", "size" : "420239" },
-{ "name" : "ticaretsicili.net", "country" : "Turkey", "size" : "428311" },
-{ "name" : "eniyim.com", "country" : "Turkey", "size" : "422007" },
-{ "name" : "gardropkedisi.com", "country" : "Turkey", "size" : "438205" },
-{ "name" : "komiq.com", "country" : "Turkey", "size" : "486052" },
-{ "name" : "soyak.com.tr", "country" : "Turkey", "size" : "426964" },
-{ "name" : "minirome.com", "country" : "Turkey", "size" : "448870" },
-{ "name" : "black-desert.com", "country" : "Turkey", "size" : "343330" },
-{ "name" : "tofairs.com", "country" : "Turkey", "size" : "309829" },
-{ "name" : "kontoruydusu.com", "country" : "Turkey", "size" : "539934" },
-{ "name" : "cinlitablet.com", "country" : "Turkey", "size" : "569196" },
-{ "name" : "manisagundemi.com", "country" : "Turkey", "size" : "587181" },
-{ "name" : "feyizoglu.com", "country" : "Turkey", "size" : "414227" },
-{ "name" : "keyfimarka.com", "country" : "Turkey", "size" : "388969" },
-{ "name" : "xxxmvx.com", "country" : "Turkey", "size" : "907410" },
-{ "name" : "hab3r.com", "country" : "Turkey", "size" : "477535" },
-{ "name" : "sevde.de", "country" : "Turkey", "size" : "402149" },
-{ "name" : "turkforumpro.com", "country" : "Turkey", "size" : "614464" },
-{ "name" : "ashyl.com", "country" : "Turkey", "size" : "418564" },
-{ "name" : "oyunmemo.com", "country" : "Turkey", "size" : "562198" },
-{ "name" : "mynotlar.com", "country" : "Turkey", "size" : "330763" },
-{ "name" : "me.cf", "country" : "Turkey", "size" : "848069" },
-{ "name" : "nebula.web.tr", "country" : "Turkey", "size" : "326220" },
-{ "name" : "onuryazilim.com.tr", "country" : "Turkey", "size" : "586587" },
-{ "name" : "filmlerbizde.com", "country" : "Turkey", "size" : "477998" },
-{ "name" : "eticaretkur.com", "country" : "Turkey", "size" : "549909" },
-{ "name" : "seomium.com", "country" : "Turkey", "size" : "543561" },
-{ "name" : "reklam.com.tr", "country" : "Turkey", "size" : "433735" },
-{ "name" : "lnkcvr.in", "country" : "Turkey", "size" : "483232" },
-{ "name" : "iacal.com", "country" : "Turkey", "size" : "476681" },
-{ "name" : "teknokoliker.com", "country" : "Turkey", "size" : "479246" },
-{ "name" : "videomis.com", "country" : "Turkey", "size" : "567893" },
-{ "name" : "budget.com.tr", "country" : "Turkey", "size" : "527347" },
-{ "name" : "bozok.tv", "country" : "Turkey", "size" : "450089" },
-{ "name" : "1renk.com", "country" : "Turkey", "size" : "319429" },
-{ "name" : "netelma.com", "country" : "Turkey", "size" : "812594" },
-{ "name" : "mahmutakpinar.com", "country" : "Turkey", "size" : "337128" },
-{ "name" : "friv.com.tr", "country" : "Turkey", "size" : "623375" },
-{ "name" : "limoya.com", "country" : "Turkey", "size" : "709458" },
-{ "name" : "mergeen.com", "country" : "Turkey", "size" : "639908" },
-{ "name" : "alkadays.com", "country" : "Turkey", "size" : "762289" },
-{ "name" : "pizzareds.com", "country" : "Turkey", "size" : "1216574" },
-{ "name" : "haberdenhaber.com", "country" : "Turkey", "size" : "478560" },
-{ "name" : "habersizkalma.org", "country" : "Turkey", "size" : "959461" },
-{ "name" : "birodeme.com", "country" : "Turkey", "size" : "897657" },
-{ "name" : "cozenadam.com", "country" : "Turkey", "size" : "968562" },
-{ "name" : "enkolay.com.tr", "country" : "Turkey", "size" : "391424" },
-{ "name" : "ayancuk.com", "country" : "Turkey", "size" : "470965" },
-{ "name" : "4zy.net", "country" : "Turkey", "size" : "740628" },
-{ "name" : "pollemik.com", "country" : "Turkey", "size" : "462355" },
-{ "name" : "grid.com.tr", "country" : "Turkey", "size" : "607187" },
-{ "name" : "memurmedya.com", "country" : "Turkey", "size" : "318779" },
-{ "name" : "getappcase.com", "country" : "Turkey", "size" : "434398" },
-{ "name" : "sitetanitim.org", "country" : "Turkey", "size" : "593359" },
-{ "name" : "salcano.com", "country" : "Turkey", "size" : "480909" },
-{
-	"name" : "virginradioturkiye.com",
-	"country" : "Turkey",
-	"size" : "339479"
-},
-{ "name" : "myipg.com", "country" : "Turkey", "size" : "459963" },
-{ "name" : "sarkisozleri.biz", "country" : "Turkey", "size" : "499071" },
-{ "name" : "adabasini.com", "country" : "Turkey", "size" : "363877" },
-{ "name" : "ben10jogos.org", "country" : "Turkey", "size" : "601463" },
-{ "name" : "hdsinemekan.com", "country" : "Turkey", "size" : "569645" },
-{ "name" : "angrybirdsoyna.com", "country" : "Turkey", "size" : "443259" },
-{ "name" : "imo.org.tr", "country" : "Turkey", "size" : "465650" },
-{ "name" : "v-pm.com", "country" : "Turkey", "size" : "897213" },
-{ "name" : "cepdownload.net", "country" : "Turkey", "size" : "469242" },
-{ "name" : "farksepeti.com", "country" : "Turkey", "size" : "904529" },
-{ "name" : "dikeygecis.org", "country" : "Turkey", "size" : "490298" },
-{ "name" : "iyibilgi.com", "country" : "Turkey", "size" : "397396" },
-{ "name" : "trgames.net", "country" : "Turkey", "size" : "390454" },
-{ "name" : "muzik55.com", "country" : "Turkey", "size" : "568154" },
-{ "name" : "celikcomak.com", "country" : "Turkey", "size" : "404594" },
-{ "name" : "reeder.com.tr", "country" : "Turkey", "size" : "598887" },
-{ "name" : "zmn.com.tr", "country" : "Turkey", "size" : "532772" },
-{ "name" : "adobegunlugu.com", "country" : "Turkey", "size" : "399611" },
-{ "name" : "postakoduara.com", "country" : "Turkey", "size" : "514294" },
-{ "name" : "lezzetci.com", "country" : "Turkey", "size" : "544501" },
-{ "name" : "bravofly.com.tr", "country" : "Turkey", "size" : "489766" },
-{ "name" : "okansaglam.com.tr", "country" : "Turkey", "size" : "480915" },
-{ "name" : "gazeteci.tv", "country" : "Turkey", "size" : "352306" },
-{ "name" : "sporhit.com", "country" : "Turkey", "size" : "456881" },
-{
-	"name" : "bedavaingilizcedersler.com",
-	"country" : "Turkey",
-	"size" : "643255"
-},
-{ "name" : "cafetur.com", "country" : "Turkey", "size" : "406653" },
-{ "name" : "cebimikoruyorum.com", "country" : "Turkey", "size" : "395448" },
-{ "name" : "escorthatunlarr.com", "country" : "Turkey", "size" : "609268" },
-{
-	"name" : "cengizbozdemir.com.tr",
-	"country" : "Turkey",
-	"size" : "461723"
-},
-{ "name" : "tedavisibu.com", "country" : "Turkey", "size" : "407874" },
-{ "name" : "sayrim.com", "country" : "Turkey", "size" : "1086233" },
-{
-	"name" : "bursabayanescort.asia",
-	"country" : "Turkey",
-	"size" : "442053"
-},
-{ "name" : "free-zoo-porn.com", "country" : "Turkey", "size" : "564711" },
-{ "name" : "turizmtrend.com", "country" : "Turkey", "size" : "462264" },
-{ "name" : "31.186.5.191", "country" : "Turkey", "size" : "656606" },
-{
-	"name" : "youtube.com/user/KanalD",
-	"country" : "Turkey",
-	"size" : "418214"
-},
-{ "name" : "denizsozluk.com", "country" : "Turkey", "size" : "487064" },
-{ "name" : "butunsarkilar.com", "country" : "Turkey", "size" : "568207" },
-{ "name" : "etkinders.com", "country" : "Turkey", "size" : "381749" },
-{ "name" : "tictoc.net", "country" : "Turkey", "size" : "261758" },
-{ "name" : "makroreyon.com", "country" : "Turkey", "size" : "537796" },
-{ "name" : "crackingheaven.com", "country" : "Turkey", "size" : "452419" },
-{ "name" : "manageryoutube.com", "country" : "Turkey", "size" : "391713" },
-{ "name" : "defter.org", "country" : "Turkey", "size" : "599524" },
-{ "name" : "reklamatolyesi.org", "country" : "Turkey", "size" : "553084" },
-{ "name" : "pilsanshop.com", "country" : "Turkey", "size" : "423835" },
-{ "name" : "sayfabegendirme.net", "country" : "Turkey", "size" : "504600" },
-{ "name" : "icgiyimmerkezi.com", "country" : "Turkey", "size" : "503113" },
-{ "name" : "arkadasworld.info", "country" : "Turkey", "size" : "577835" },
-{
-	"name" : "personelsaglik.com.tr",
-	"country" : "Turkey",
-	"size" : "810221"
-},
-{ "name" : "bahispesinde.com", "country" : "Turkey", "size" : "498087" },
-{ "name" : "trmareaclub.com", "country" : "Turkey", "size" : "1018744" },
-{
-	"name" : "fotografdunyasi.com.tr",
-	"country" : "Turkey",
-	"size" : "401030"
-},
-{ "name" : "mkutup.gov.tr", "country" : "Turkey", "size" : "443150" },
-{ "name" : "iwanttouse.com", "country" : "Turkey", "size" : "1037969" },
-{ "name" : "coldhacks.com", "country" : "Turkey", "size" : "433964" },
-{
-	"name" : "twitteruzmani.blogspot.com.tr",
-	"country" : "Turkey",
-	"size" : "772600"
-},
-{ "name" : "scalikoglu.com", "country" : "Turkey", "size" : "439369" },
-{ "name" : "zomexdemo.com", "country" : "Turkey", "size" : "447727" },
-{ "name" : "dopinghafiza.com", "country" : "Turkey", "size" : "737977" },
-{ "name" : "belge.com.tr", "country" : "Turkey", "size" : "697251" },
-{ "name" : "forumtm.com", "country" : "Turkey", "size" : "455179" },
-{ "name" : "photoline.com.tr", "country" : "Turkey", "size" : "663973" },
-{ "name" : "urdxxx.com", "country" : "Turkey", "size" : "448731" },
-{ "name" : "iskenderun.org", "country" : "Turkey", "size" : "443865" },
-{ "name" : "ibrahimay.com", "country" : "Turkey", "size" : "486026" },
-{
-	"name" : "yapidekorasyon360.com",
-	"country" : "Turkey",
-	"size" : "375382"
-},
-{ "name" : "marcgrabanski.com", "country" : "Turkey", "size" : "456463" },
-{ "name" : "mistikoyun.com", "country" : "Turkey", "size" : "640142" },
-{ "name" : "belgeler.org", "country" : "Turkey", "size" : "870670" },
-{ "name" : "ihtiyacodasi.com", "country" : "Turkey", "size" : "383916" },
-{ "name" : "flappybird.tc", "country" : "Turkey", "size" : "1190055" },
-{ "name" : "kgk.gov.tr", "country" : "Turkey", "size" : "529719" },
-{ "name" : "korkmaz.com.tr", "country" : "Turkey", "size" : "481941" },
-{ "name" : "vanhaberleri.com.tr", "country" : "Turkey", "size" : "749148" },
-{
-	"name" : "enucuzguvenliksistemleri.com",
-	"country" : "Turkey",
-	"size" : "582401"
-},
-{ "name" : "sigortagundem.com", "country" : "Turkey", "size" : "465569" },
-{
-	"name" : "istanbulescortgirl.net",
-	"country" : "Turkey",
-	"size" : "556943"
-},
-{ "name" : "mobbf.com", "country" : "Turkey", "size" : "756432" },
-{
-	"name" : "talyaorganizasyon.com",
-	"country" : "Turkey",
-	"size" : "519747"
-},
-{ "name" : "haberlink.in", "country" : "Turkey", "size" : "468958" },
-{ "name" : "diziizletube.com", "country" : "Turkey", "size" : "768962" },
-{ "name" : "ayakkabihavuzu.com", "country" : "Turkey", "size" : "393452" },
-{
-	"name" : "usengecsef.blogspot.com",
-	"country" : "Turkey",
-	"size" : "820943"
-},
-{ "name" : "retweetcim.org", "country" : "Turkey", "size" : "495443" },
-{ "name" : "burakalhas.com.tr", "country" : "Turkey", "size" : "370282" },
-{ "name" : "klasalisveris.com", "country" : "Turkey", "size" : "617371" },
-{ "name" : "acikistihbarat.com", "country" : "Turkey", "size" : "310351" },
-{ "name" : "wskalbi.com", "country" : "Turkey", "size" : "495607" },
-{ "name" : "bm-institute.com", "country" : "Turkey", "size" : "486688" },
-{
-	"name" : "yenikarikaturler.com",
-	"country" : "Turkey",
-	"size" : "497331"
-},
-{ "name" : "phpexplorer.com", "country" : "Turkey", "size" : "420912" },
-{ "name" : "gurseltekin.tv", "country" : "Turkey", "size" : "430748" },
-{ "name" : "iphoneturka.net", "country" : "Turkey", "size" : "327500" },
-{
-	"name" : "ismailagasohbet.com",
-	"country" : "Turkey",
-	"size" : "1140926"
-},
-{ "name" : "manggis.com.tr", "country" : "Turkey", "size" : "507769" },
-{ "name" : "oyun-pazari.net", "country" : "Turkey", "size" : "300862" },
-{ "name" : "coopersguns.com", "country" : "Turkey", "size" : "608041" },
-{
-	"name" : "isminin-anlami-nedir.com",
-	"country" : "Turkey",
-	"size" : "517741"
-},
-{ "name" : "trmacizle.com", "country" : "Turkey", "size" : "331401" },
-{ "name" : "kobiden.com", "country" : "Turkey", "size" : "482053" },
-{ "name" : "bizimleyuksel.com", "country" : "Turkey", "size" : "423362" },
-{ "name" : "minecraftindir.net", "country" : "Turkey", "size" : "135835" },
-{ "name" : "beyoutlet.com", "country" : "Turkey", "size" : "986338" },
-{ "name" : "ehatun.com", "country" : "Turkey", "size" : "740928" },
-{
-	"name" : "mehmetalidemirbas.com",
-	"country" : "Turkey",
-	"size" : "458659"
-},
-{ "name" : "basarsoft.com.tr", "country" : "Turkey", "size" : "454320" },
-{ "name" : "muayenesi.com", "country" : "Turkey", "size" : "413017" },
-{ "name" : "saadetkazanacak.com", "country" : "Turkey", "size" : "666665" },
-{
-	"name" : "kariyerpenceresi.com",
-	"country" : "Turkey",
-	"size" : "572674"
-},
-{ "name" : "kaynaksite.com", "country" : "Turkey", "size" : "482744" },
-{ "name" : "rockqun.com", "country" : "Turkey", "size" : "452753" },
-{ "name" : "arkadaslik.com.tr", "country" : "Turkey", "size" : "371835" },
-{ "name" : "surprizim.net", "country" : "Turkey", "size" : "495591" },
-{ "name" : "medyabey.com", "country" : "Turkey", "size" : "537315" },
-{ "name" : "dzsthemes.net", "country" : "Turkey", "size" : "443617" },
-{ "name" : "sanallig.org", "country" : "Turkey", "size" : "464670" },
-{
-	"name" : "prowordpresstema.com",
-	"country" : "Turkey",
-	"size" : "551853"
-},
-{ "name" : "techpowerup.org", "country" : "Turkey", "size" : "367414" },
-{
-	"name" : "jatomifitness.com.tr",
-	"country" : "Turkey",
-	"size" : "575327"
-},
-{ "name" : "sondakka.com", "country" : "Turkey", "size" : "486049" },
-{ "name" : "airnewstimes.com", "country" : "Turkey", "size" : "320779" },
-{ "name" : "motoavm.com", "country" : "Turkey", "size" : "396160" },
-{ "name" : "dogusyayingrubu.com", "country" : "Turkey", "size" : "479005" },
-{ "name" : "kredisimdi.com.tr", "country" : "Turkey", "size" : "1039595" },
-{ "name" : "cia-app.com", "country" : "Turkey", "size" : "411857" },
-{ "name" : "ogretmensitesi.info", "country" : "Turkey", "size" : "421330" },
-{ "name" : "rte.gen.tr", "country" : "Turkey", "size" : "776833" },
-{ "name" : "asphaberci.com", "country" : "Turkey", "size" : "317412" },
-{ "name" : "markaysamarka.com", "country" : "Turkey", "size" : "448955" },
-{ "name" : "hurdogan.com", "country" : "Turkey", "size" : "437749" },
-{ "name" : "indirlive.com", "country" : "Turkey", "size" : "514165" },
-{
-	"name" : "eqzdemir.blogspot.com",
-	"country" : "Turkey",
-	"size" : "528336"
-},
-{ "name" : "olumsuzask.com", "country" : "Turkey", "size" : "577520" },
-{ "name" : "hesapmakinesi.biz", "country" : "Turkey", "size" : "469128" },
-{
-	"name" : "isilanlaridunyasi.com",
-	"country" : "Turkey",
-	"size" : "371004"
-},
-{ "name" : "kurumsalarena.com", "country" : "Turkey", "size" : "532946" },
-{ "name" : "worldarchivetr.com", "country" : "Turkey", "size" : "401821" },
-{ "name" : "borusanoto.com", "country" : "Turkey", "size" : "452896" },
-{ "name" : "dersindir.net", "country" : "Turkey", "size" : "570626" },
-{ "name" : "nigde.edu.tr", "country" : "Turkey", "size" : "407848" },
-{ "name" : "futbolcafe.com", "country" : "Turkey", "size" : "504312" },
-{ "name" : "mysqlfront.de", "country" : "Turkey", "size" : "665130" },
-{ "name" : "ligttv.org", "country" : "Turkey", "size" : "1153620" },
-{ "name" : "residenceeagle.com", "country" : "Turkey", "size" : "1046544" },
-{ "name" : "turandogan.com", "country" : "Turkey", "size" : "831551" },
-{
-	"name" : "marandaicgiyim.com.tr",
-	"country" : "Turkey",
-	"size" : "507324"
-},
-{
-	"name" : "justinbieberturkey.com",
-	"country" : "Turkey",
-	"size" : "588252"
-},
-{ "name" : "alfemo.com.tr", "country" : "Turkey", "size" : "280322" },
-{ "name" : "metrodasiesta.com", "country" : "Turkey", "size" : "884890" },
-{
-	"name" : "computerworld.com.tr",
-	"country" : "Turkey",
-	"size" : "463169"
-},
-{
-	"name" : "arcelikbahcelievlerservisi.com",
-	"country" : "Turkey",
-	"size" : "904525"
-},
-{
-	"name" : "isilanlaridunyasi.net",
-	"country" : "Turkey",
-	"size" : "534993"
-},
-{ "name" : "magazinizmir.com", "country" : "Turkey", "size" : "367298" },
-{ "name" : "vektograf.com", "country" : "Turkey", "size" : "455851" },
-{ "name" : "duzcetv.com", "country" : "Turkey", "size" : "583469" },
-{ "name" : "tmo.gov.tr", "country" : "Turkey", "size" : "408503" },
-{ "name" : "treczane.com", "country" : "Turkey", "size" : "530748" },
-{
-	"name" : "okyanuskoleji.k12.tr",
-	"country" : "Turkey",
-	"size" : "492798"
-},
-{ "name" : "gsfans.org", "country" : "Turkey", "size" : "441438" },
-{ "name" : "turgutlutivi.com", "country" : "Turkey", "size" : "463639" },
-{ "name" : "kadinlarforumu.com", "country" : "Turkey", "size" : "403641" },
-{ "name" : "technomodel.com", "country" : "Turkey", "size" : "519754" },
-{ "name" : "uskudarli.com", "country" : "Turkey", "size" : "539915" },
-{ "name" : "belgeseldepo.com", "country" : "Turkey", "size" : "451615" },
-{
-	"name" : "shobhitjain26.wordpress.com",
-	"country" : "Turkey",
-	"size" : "577656"
-},
-{ "name" : "cografyamiz.com", "country" : "Turkey", "size" : "601380" },
-{ "name" : "uskudar.edu.tr", "country" : "Turkey", "size" : "507558" },
-{ "name" : "karadayi.tv", "country" : "Turkey", "size" : "547508" },
-{
-	"name" : "escortbayanistanbul.ws",
-	"country" : "Turkey",
-	"size" : "589481"
-},
-{ "name" : "bilgiduragi.com", "country" : "Turkey", "size" : "850937" },
-{ "name" : "oyakyatirim.com.tr", "country" : "Turkey", "size" : "452149" },
-{ "name" : "lahutiye.com", "country" : "Turkey", "size" : "473355" },
-{ "name" : "hirdavat.com", "country" : "Turkey", "size" : "448219" },
-{
-	"name" : "anatomikmodeller.com",
-	"country" : "Turkey",
-	"size" : "599116"
-},
-{
-	"name" : "canlibahissiteleri.info",
-	"country" : "Turkey",
-	"size" : "444876"
-},
-{ "name" : "atonet.org.tr", "country" : "Turkey", "size" : "391358" },
-{ "name" : "makinaturkiye.com", "country" : "Turkey", "size" : "355980" },
-{ "name" : "adanagundemi.com", "country" : "Turkey", "size" : "367001" },
-{ "name" : "oyunulkesi.net", "country" : "Turkey", "size" : "540166" },
-{ "name" : "medya262.com", "country" : "Turkey", "size" : "410652" },
-{ "name" : "almayageldim.com", "country" : "Turkey", "size" : "480428" },
-{ "name" : "seositesi.com", "country" : "Turkey", "size" : "555487" },
-{ "name" : "lukapu.com", "country" : "Turkey", "size" : "334438" },
-{ "name" : "urfahaber24.com", "country" : "Turkey", "size" : "464169" },
-{ "name" : "egitimonline.com", "country" : "Turkey", "size" : "322824" },
-{ "name" : "topluping.com", "country" : "Turkey", "size" : "493315" },
-{ "name" : "destexreklam.com", "country" : "Turkey", "size" : "470508" },
-{ "name" : "eklentidunyasi.com", "country" : "Turkey", "size" : "252000" },
-{ "name" : "daddypornx.com", "country" : "Turkey", "size" : "816346" },
-{ "name" : "sgm.gov.tr", "country" : "Turkey", "size" : "513279" },
-{ "name" : "cemyilmaz.com", "country" : "Turkey", "size" : "391587" },
-{ "name" : "hudapar.org", "country" : "Turkey", "size" : "493020" },
-{ "name" : "wptema.com", "country" : "Turkey", "size" : "497899" },
-{ "name" : "cdkeywatch.com", "country" : "Turkey", "size" : "499991" },
-{ "name" : "migroskop.com.tr", "country" : "Turkey", "size" : "448342" },
-{ "name" : "webmasteregitim.com", "country" : "Turkey", "size" : "484768" },
-{ "name" : "tamdinle.com", "country" : "Turkey", "size" : "537863" },
-{ "name" : "kutuloji.com", "country" : "Turkey", "size" : "389095" },
-{ "name" : "silveran.com", "country" : "Turkey", "size" : "670765" },
-{ "name" : "piyasayorum.com", "country" : "Turkey", "size" : "378261" },
-{
-	"name" : "oyuncakcimburada.com",
-	"country" : "Turkey",
-	"size" : "534176"
-},
-{ "name" : "virgul.com", "country" : "Turkey", "size" : "603054" },
-{ "name" : "hurriyetkampus.com", "country" : "Turkey", "size" : "446942" },
-{ "name" : "trabzon.bel.tr", "country" : "Turkey", "size" : "517158" },
-{ "name" : "ensonneleroldu.org", "country" : "Turkey", "size" : "486457" },
-{ "name" : "gerceksexhikaye.com", "country" : "Turkey", "size" : "720568" },
-{ "name" : "aydinplus.com", "country" : "Turkey", "size" : "457575" },
-{
-	"name" : "cs-cart-templates.com",
-	"country" : "Turkey",
-	"size" : "584980"
-},
-{ "name" : "biltek.info", "country" : "Turkey", "size" : "497780" },
-{
-	"name" : "youtube.com/user/LoLTurkiye",
-	"country" : "Turkey",
-	"size" : "529693"
-},
-{ "name" : "izetaj.org", "country" : "Turkey", "size" : "468107" },
-{ "name" : "haber58.com", "country" : "Turkey", "size" : "412334" },
-{ "name" : "aspnetpower.com", "country" : "Turkey", "size" : "531293" },
-{ "name" : "hepsidijital.com", "country" : "Turkey", "size" : "372200" },
-{ "name" : "bilgeyatirimci.com", "country" : "Turkey", "size" : "412139" },
-{
-	"name" : "jobsabroadbulletin.co.uk",
-	"country" : "Turkey",
-	"size" : "373951"
-},
-{ "name" : "siyasihaber.org", "country" : "Turkey", "size" : "494555" },
-{
-	"name" : "samsungsecurity.co.uk",
-	"country" : "Turkey",
-	"size" : "539459"
-},
-{ "name" : "gelpornoizle.biz", "country" : "Turkey", "size" : "583223" },
-{
-	"name" : "sisligazetesi.com.tr",
-	"country" : "Turkey",
-	"size" : "512536"
-},
-{ "name" : "greymagic.com", "country" : "Turkey", "size" : "522599" },
-{ "name" : "haberhit.net", "country" : "Turkey", "size" : "536875" },
-{ "name" : "kadininkitabi.com", "country" : "Turkey", "size" : "711795" },
-{ "name" : "shoppix.es", "country" : "Turkey", "size" : "543520" },
-{ "name" : "medyatime.com", "country" : "Turkey", "size" : "303209" },
-{ "name" : "ismininanlami.biz", "country" : "Turkey", "size" : "975818" },
-{ "name" : "mmodepo.com", "country" : "Turkey", "size" : "419540" },
-{ "name" : "nasilyap.net", "country" : "Turkey", "size" : "538450" },
-{ "name" : "golgegazetesi.com", "country" : "Turkey", "size" : "665275" },
-{
-	"name" : "webyazilimdilleri.com",
-	"country" : "Turkey",
-	"size" : "1196589"
-},
-{ "name" : "trgoals.be", "country" : "Turkey", "size" : "701674" },
-{ "name" : "dubluve.net", "country" : "Turkey", "size" : "512647" },
-{ "name" : "pvpserverler.com", "country" : "Turkey", "size" : "454015" },
-{ "name" : "cinemapink.com", "country" : "Turkey", "size" : "648326" },
-{ "name" : "arizanotlari.com", "country" : "Turkey", "size" : "591039" },
-{
-	"name" : "youtube.com/user/trttv1",
-	"country" : "Turkey",
-	"size" : "470728"
-},
-{ "name" : "gazeteoku.tv", "country" : "Turkey", "size" : "414986" },
-{ "name" : "pablofierro.me", "country" : "Turkey", "size" : "515167" },
-{
-	"name" : "yazmayausenenler.com",
-	"country" : "Turkey",
-	"size" : "524518"
-},
-{ "name" : "kibrishaber.com", "country" : "Turkey", "size" : "530794" },
-{ "name" : "dikiligundemi.net", "country" : "Turkey", "size" : "1031056" },
-{ "name" : "shopingfast.com", "country" : "Turkey", "size" : "611172" },
-{ "name" : "istka.org.tr", "country" : "Turkey", "size" : "474393" },
-{ "name" : "friv112.com", "country" : "Turkey", "size" : "523385" },
-{ "name" : "superni.com", "country" : "Turkey", "size" : "434948" },
-{ "name" : "fenbilimleri.com", "country" : "Turkey", "size" : "543475" },
-{
-	"name" : "forum-androidmarket.com",
-	"country" : "Turkey",
-	"size" : "387264"
-},
-{
-	"name" : "sosyalmedyapaylasim.com",
-	"country" : "Turkey",
-	"size" : "257415"
-},
-{
-	"name" : "gavatozelharekat.com",
-	"country" : "Turkey",
-	"size" : "481665"
-},
-{ "name" : "istekmatik.com", "country" : "Turkey", "size" : "435683" },
-{
-	"name" : "ehliyetsorularicoz.com",
-	"country" : "Turkey",
-	"size" : "559232"
-},
-{ "name" : "spyonyourmobile.com", "country" : "Turkey", "size" : "402312" },
-{ "name" : "ttnetprog.com.tr", "country" : "Turkey", "size" : "541445" },
-{ "name" : "ihaledanismani.com", "country" : "Turkey", "size" : "440634" },
-{ "name" : "degisenkocaeli.com", "country" : "Turkey", "size" : "377093" },
-{ "name" : "farklibirbakis.com", "country" : "Turkey", "size" : "528598" },
-{
-	"name" : "youtubemp3donusturucu.com",
-	"country" : "Turkey",
-	"size" : "680491"
-},
-{ "name" : "sporarena.net", "country" : "Turkey", "size" : "540259" },
-{ "name" : "forumdervis.com", "country" : "Turkey", "size" : "600040" },
-{ "name" : "kapidakimarket.com", "country" : "Turkey", "size" : "393702" },
-{ "name" : "atu.com.tr", "country" : "Turkey", "size" : "432233" },
-{ "name" : "aeyazilim.com", "country" : "Turkey", "size" : "707819" },
-{ "name" : "stratus.com.tr", "country" : "Turkey", "size" : "501398" },
-{ "name" : "markettenekadar.com", "country" : "Turkey", "size" : "596007" },
-{ "name" : "korefanatikleri.com", "country" : "Turkey", "size" : "653598" },
-{ "name" : "aktuelegitim.com", "country" : "Turkey", "size" : "487485" },
-{ "name" : "modarenkleri.com", "country" : "Turkey", "size" : "385384" },
-{
-	"name" : "ruyatabirlerikitabi.com",
-	"country" : "Turkey",
-	"size" : "426901"
-},
-{ "name" : "uzaybilim.net", "country" : "Turkey", "size" : "574514" },
-{ "name" : "ararattrip.com", "country" : "Turkey", "size" : "568354" },
-{
-	"name" : "turkeynewproperties.com",
-	"country" : "Turkey",
-	"size" : "527017"
-},
-{ "name" : "istanbul.gov.tr", "country" : "Turkey", "size" : "383075" },
-{ "name" : "kizilbayrak.net", "country" : "Turkey", "size" : "438715" },
-{ "name" : "usakhaber.gen.tr", "country" : "Turkey", "size" : "602210" },
-{ "name" : "cosmogirl.com.tr", "country" : "Turkey", "size" : "441751" },
-{ "name" : "ottomanmosques.net", "country" : "Turkey", "size" : "541279" },
-{ "name" : "hentaiciyiz.com", "country" : "Turkey", "size" : "879839" },
-{ "name" : "1080pfilm.net", "country" : "Turkey", "size" : "848748" },
-{ "name" : "pornolog.tv", "country" : "Turkey", "size" : "471992" },
-{ "name" : "find2014.com", "country" : "Turkey", "size" : "852928" },
-{ "name" : "canliradyo.web.tr", "country" : "Turkey", "size" : "547565" },
-{ "name" : "partisepeti.com.tr", "country" : "Turkey", "size" : "401061" },
-{
-	"name" : "realestatenewsturkey.com",
-	"country" : "Turkey",
-	"size" : "550911"
-},
-{ "name" : "garbiyar.com", "country" : "Turkey", "size" : "471468" },
-{ "name" : "kombiveklima.com", "country" : "Turkey", "size" : "320940" },
-{ "name" : "ayyildiz.com.tr", "country" : "Turkey", "size" : "496461" },
-{
-	"name" : "youtube.com/user/teknoseyir",
-	"country" : "Turkey",
-	"size" : "469923"
-},
-{ "name" : "haber342.com", "country" : "Turkey", "size" : "373792" },
-{ "name" : "kobi-line.com.tr", "country" : "Turkey", "size" : "515943" },
-{ "name" : "mtahir.net", "country" : "Turkey", "size" : "996405" },
-{ "name" : "barisyalman.com", "country" : "Turkey", "size" : "1066224" },
-{ "name" : "islamigundem.com", "country" : "Turkey", "size" : "431079" },
-{ "name" : "animemangatr.com", "country" : "Turkey", "size" : "410619" },
-{ "name" : "millihakimiyet.com", "country" : "Turkey", "size" : "473862" },
-{ "name" : "habireizle.org", "country" : "Turkey", "size" : "998831" },
-{ "name" : "anlasana.com", "country" : "Turkey", "size" : "596947" },
-{ "name" : "abhaber.com", "country" : "Turkey", "size" : "531901" },
-{ "name" : "istream.me.uk", "country" : "Turkey", "size" : "717850" },
-{ "name" : "arma.net.tr", "country" : "Turkey", "size" : "483175" },
-{ "name" : "fusiontr.com", "country" : "Turkey", "size" : "464799" },
-{ "name" : "platformakademi.com", "country" : "Turkey", "size" : "570081" },
-{ "name" : "bakimblog.com", "country" : "Turkey", "size" : "534719" },
-{
-	"name" : "nostaljifilmindir.com",
-	"country" : "Turkey",
-	"size" : "371140"
-},
-{ "name" : "astrodeha.com", "country" : "Turkey", "size" : "448536" },
-{ "name" : "limasollunaci.com", "country" : "Turkey", "size" : "413413" },
-{ "name" : "frmsinsi.net", "country" : "Turkey", "size" : "1223040" },
-{
-	"name" : "sehriistanbul.com.tr",
-	"country" : "Turkey",
-	"size" : "522179"
-},
-{ "name" : "aydinli.com.tr", "country" : "Turkey", "size" : "460693" },
-{
-	"name" : "produkttestergesucht.de",
-	"country" : "Turkey",
-	"size" : "454626"
-},
-{ "name" : "wetasarim.com", "country" : "Turkey", "size" : "607973" },
-{ "name" : "bilgimnette.com", "country" : "Turkey", "size" : "448307" },
-{ "name" : "konyanews.com", "country" : "Turkey", "size" : "488432" },
-{ "name" : "patchesoft.com", "country" : "Turkey", "size" : "748569" },
-{ "name" : "720pfilmizle.net", "country" : "Turkey", "size" : "340620" },
-{ "name" : "tabancatufek.com", "country" : "Turkey", "size" : "405463" },
-{ "name" : "kirlikasa.com", "country" : "Turkey", "size" : "509486" },
-{ "name" : "androidoyun.gen.tr", "country" : "Turkey", "size" : "397371" },
-{ "name" : "lugyy.com", "country" : "Turkey", "size" : "1160086" },
-{ "name" : "yesilyurtgame.com", "country" : "Turkey", "size" : "477875" },
-{ "name" : "civicclubtr.com", "country" : "Turkey", "size" : "952436" },
-{ "name" : "paraanaliz.com", "country" : "Turkey", "size" : "450548" },
-{ "name" : "andreabocelli.com", "country" : "Turkey", "size" : "556909" },
-{ "name" : "bodrumwebtv.net", "country" : "Turkey", "size" : "581819" },
-{ "name" : "habercuk.com", "country" : "Turkey", "size" : "372205" },
-{ "name" : "bilisimextra.com", "country" : "Turkey", "size" : "397143" },
-{ "name" : "orangehilldev.com", "country" : "Turkey", "size" : "314392" },
-{ "name" : "mebsozluk.com", "country" : "Turkey", "size" : "535688" },
-{ "name" : "jream.com", "country" : "Turkey", "size" : "383580" },
-{ "name" : "siberturko.com", "country" : "Turkey", "size" : "803003" },
-{ "name" : "siteekle.com.tr", "country" : "Turkey", "size" : "421964" },
-{ "name" : "bahismania.com", "country" : "Turkey", "size" : "733936" },
-{ "name" : "hddizibox.com", "country" : "Turkey", "size" : "360574" },
-{ "name" : "emret.net", "country" : "Turkey", "size" : "718862" },
-{ "name" : "okulsayaciniz.com", "country" : "Turkey", "size" : "483463" },
-{ "name" : "tm2.net", "country" : "Turkey", "size" : "691645" },
-{ "name" : "merhabaturkiye.net", "country" : "Turkey", "size" : "494851" },
-{ "name" : "sok11.com", "country" : "Turkey", "size" : "683070" },
-{ "name" : "keremakyol.net", "country" : "Turkey", "size" : "496097" },
-{
-	"name" : "edebiyatdersnotlari.com",
-	"country" : "Turkey",
-	"size" : "1094509"
-},
-{ "name" : "websitesepeti.com", "country" : "Turkey", "size" : "439976" },
-{ "name" : "tabirdot.com", "country" : "Turkey", "size" : "452159" },
-{ "name" : "sellish.com", "country" : "Turkey", "size" : "570209" },
-{ "name" : "ayselevran.com", "country" : "Turkey", "size" : "550587" },
-{ "name" : "teknodergi.org", "country" : "Turkey", "size" : "600356" },
-{ "name" : "kaliteakademi.com", "country" : "Turkey", "size" : "526795" },
-{ "name" : "paylasan.net", "country" : "Turkey", "size" : "529388" },
-{ "name" : "3dfilmindirr.com", "country" : "Turkey", "size" : "799754" },
-{ "name" : "enterhaber.com", "country" : "Turkey", "size" : "485669" },
-{ "name" : "extraucuzluk.com", "country" : "Turkey", "size" : "589474" },
-{ "name" : "tutarmi.net", "country" : "Turkey", "size" : "583940" },
-{ "name" : "iyi.tc", "country" : "Turkey", "size" : "429403" },
-{ "name" : "modalandiniz.com", "country" : "Turkey", "size" : "639754" },
-{ "name" : "yemekustalari.com", "country" : "Turkey", "size" : "585178" },
-{ "name" : "turktakvim.com", "country" : "Turkey", "size" : "417366" },
-{ "name" : "wonodds12.com", "country" : "Turkey", "size" : "291763" },
-{ "name" : "aksarayim.net", "country" : "Turkey", "size" : "472447" },
-{ "name" : "tumtour.com.tr", "country" : "Turkey", "size" : "760201" },
-{ "name" : "kaspersky.com.tr", "country" : "Turkey", "size" : "462743" },
-{ "name" : "bankokuponlar.org", "country" : "Turkey", "size" : "427591" },
-{ "name" : "oroian.ro", "country" : "Turkey", "size" : "575739" },
-{ "name" : "46im.com", "country" : "Turkey", "size" : "588413" },
-{ "name" : "hdfilmizleten.com", "country" : "Turkey", "size" : "1098298" },
-{ "name" : "wmtv.net", "country" : "Turkey", "size" : "370923" },
-{ "name" : "tarimalisveris.com", "country" : "Turkey", "size" : "558283" },
-{ "name" : "egitimekrani.com", "country" : "Turkey", "size" : "400465" },
-{ "name" : "mobildepo.com", "country" : "Turkey", "size" : "541745" },
-{ "name" : "dm-im.com", "country" : "Turkey", "size" : "451505" },
-{ "name" : "yerigeldi.com", "country" : "Turkey", "size" : "483631" },
-{
-	"name" : "yeahbutisitflash.com",
-	"country" : "Turkey",
-	"size" : "652055"
-},
-{ "name" : "jetdicas.com", "country" : "Turkey", "size" : "643957" },
-{ "name" : "mmogamesturkiye.com", "country" : "Turkey", "size" : "406652" },
-{
-	"name" : "kedisahiplendirme.com",
-	"country" : "Turkey",
-	"size" : "661301"
-},
-{ "name" : "polysolve.com", "country" : "Turkey", "size" : "416546" },
-{ "name" : "gencgelisim.com", "country" : "Turkey", "size" : "358684" },
-{ "name" : "flashoyuncak.com", "country" : "Turkey", "size" : "870604" },
-{ "name" : "asiaplate.com", "country" : "Turkey", "size" : "301947" },
-{
-	"name" : "kariyeregitimseti.com",
-	"country" : "Turkey",
-	"size" : "471541"
-},
-{ "name" : "sentezmatbaa.com.tr", "country" : "Turkey", "size" : "518513" },
-{ "name" : "sexhikaye1.org", "country" : "Turkey", "size" : "325994" },
-{ "name" : "bidoluhaber.tv", "country" : "Turkey", "size" : "473573" },
-{ "name" : "sametce.com", "country" : "Turkey", "size" : "776033" },
-{ "name" : "a30m.com", "country" : "Turkey", "size" : "648343" },
-{ "name" : "ilkimtoys.com", "country" : "Turkey", "size" : "532443" },
-{ "name" : "imza.com", "country" : "Turkey", "size" : "748619" },
-{ "name" : "cosmoturk.com", "country" : "Turkey", "size" : "526270" },
-{ "name" : "immib.org.tr", "country" : "Turkey", "size" : "524817" },
-{ "name" : "superpaylas.org", "country" : "Turkey", "size" : "439947" },
-{ "name" : "esemtipi.com", "country" : "Turkey", "size" : "493262" },
-{ "name" : "whocc.no", "country" : "Turkey", "size" : "645418" },
-{ "name" : "teknolokali.com", "country" : "Turkey", "size" : "810634" },
-{ "name" : "neuprime.com", "country" : "Turkey", "size" : "321695" },
-{ "name" : "vakit.com.tr", "country" : "Turkey", "size" : "450678" },
-{ "name" : "indirmen.net", "country" : "Turkey", "size" : "823580" },
-{ "name" : "siteyukseltme.com", "country" : "Turkey", "size" : "539586" },
-{ "name" : "ankaraescortlar.ws", "country" : "Turkey", "size" : "672124" },
-{
-	"name" : "fotibenlisoy.tumblr.com",
-	"country" : "Turkey",
-	"size" : "914090"
-},
-{ "name" : "feetpedia.net", "country" : "Turkey", "size" : "394289" },
-{ "name" : "checktrustrank.com", "country" : "Turkey", "size" : "573993" },
-{ "name" : "ihtiyacakademi.com", "country" : "Turkey", "size" : "520024" },
-{ "name" : "prosektor.com", "country" : "Turkey", "size" : "486074" },
-{ "name" : "dizimagazin.net", "country" : "Turkey", "size" : "499264" },
-{ "name" : "mbsbilisim.com", "country" : "Turkey", "size" : "444677" },
-{
-	"name" : "kizgiydirmeoyunlarin.com",
-	"country" : "Turkey",
-	"size" : "604791"
-},
-{ "name" : "pornosexstube.com", "country" : "Turkey", "size" : "603808" },
-{ "name" : "guzellikkazani.com", "country" : "Turkey", "size" : "524004" },
-{ "name" : "akvaryumshop.com", "country" : "Turkey", "size" : "845264" },
-{ "name" : "masonlar.org", "country" : "Turkey", "size" : "447546" },
-{ "name" : "symbolsource.org", "country" : "Turkey", "size" : "562908" },
-{ "name" : "gezginlerindirr.com", "country" : "Turkey", "size" : "516724" },
-{ "name" : "freeproxies.org", "country" : "Turkey", "size" : "458464" },
-{
-	"name" : "ramazandgn.blogspot.com.tr",
-	"country" : "Turkey",
-	"size" : "747934"
-},
-{ "name" : "sesakirtasiye.com", "country" : "Turkey", "size" : "536127" },
-{ "name" : "nutrishop.com.tr", "country" : "Turkey", "size" : "627905" },
-{ "name" : "gazete14.com.tr", "country" : "Turkey", "size" : "494823" },
-{
-	"name" : "barcinski-jeanjean.com",
-	"country" : "Turkey",
-	"size" : "597731"
-},
-{ "name" : "ytkazan.com", "country" : "Turkey", "size" : "528840" },
-{
-	"name" : "guvencehesabi.org.tr",
-	"country" : "Turkey",
-	"size" : "1190393"
-},
-{ "name" : "onlinetabela.com.tr", "country" : "Turkey", "size" : "533149" },
-{ "name" : "trendmodeller.com", "country" : "Turkey", "size" : "480023" },
-{ "name" : "asmmiz.com", "country" : "Turkey", "size" : "407494" },
-{ "name" : "miniclipcdn.com", "country" : "Turkey", "size" : "449576" },
-{ "name" : "codeyns.com", "country" : "Turkey", "size" : "563264" },
-{ "name" : "uniaktivite.com", "country" : "Turkey", "size" : "490699" },
-{ "name" : "desynced.net", "country" : "Turkey", "size" : "563618" },
-{ "name" : "hukuksokagi.com", "country" : "Turkey", "size" : "529549" },
-{ "name" : "sultangaziajans.com", "country" : "Turkey", "size" : "506102" },
-{ "name" : "raporparasi.com", "country" : "Turkey", "size" : "582848" },
-{ "name" : "bahcesel.net", "country" : "Turkey", "size" : "471476" },
-{ "name" : "zoccos.com", "country" : "Turkey", "size" : "575393" }
+		  
+			{
+	"name" : "Google.com.tr ",
+	"desc" : "Gelişmiş arama seçenekleri ve sade yapısıyla etkili sonuçlar veren arama motoru.",
+	"size" : "1"
+},{
+	"name" : "Facebook.com ",
+	"desc" : "A social utility that connects people, to keep up with friends, upload photos, share links and ... Morevideos.",
+	"size" : "2"
+},{
+	"name" : "Google.com ",
+	"desc" : "Enables users to search the world's information, including webpages, images, and videos. Offers... More unique features and search technology.",
+	"size" : "3"
+},{
+	"name" : "Youtube.com ",
+	"desc" : "YouTube is a way to get your videos to the people who matter to you. Upload, tag and share your... More videos worldwide!",
+	"size" : "4"
+},{
+	"name" : "Hurriyet.com.tr ",
+	"desc" : "!!!Türkiye'nin Açılış Sayfası!!! En Güncel Haberler Ekonomi Dünya Ekonet Planet Spor Magazin Te... Moreknoloji Sağlık Sinema Tvrehberi Kültür Sanat Rehberi Serilanlar",
+	"size" : "5"
+},{
+	"name" : "Milliyet.com.tr ",
+	"desc" : "Türkiye'nin haber, son dakika, gazete sitesi: Milliyet Haber. En güvenilir son dakika haberleri... More, en son uluslararası ve yerel haberler, siyaset, ekonomi, finans, spor ve magazin haberleri, videolar, Süper Lig maçlarının golleri, en sevdiğiniz diziler sizi bekliyor.",
+	"size" : "6"
+},{
+	"name" : "Sahibinden.com ",
+	"desc" : "sahibinden.com is today the largest online classifieds and e-commerce platform in Turkey with m... Moreore than 23 million monthly unique visitors and 2.6 billion monthly pageviews. Apart from being one of the largest, sahibinden.com is also the fastest growing",
+	"size" : "7"
+},{
+	"name" : "Live.com ",
+	"desc" : "Search engine from Microsoft.",
+	"size" : "8"
+},{
+	"name" : "Haber7.com ",
+	"desc" : "Türkiye'nin en etkin haber sitesi.",
+	"size" : "9"
+},{
+	"name" : "Mynet.com ",
+	"desc" : "Mynet 6,5 milyonu aşan kayıtlı üyesi ve aylık 38 milyon tekil ziyaretçi sayısı ile Türkiye'nin ... Morelider internet portalıdır. Türk tüketicisine 45’i aşkın farklı servis ve kanal sunan Mynet, Türkçe içerik arayan kullanıcıların internet üzerindeki tüm ihtiyaçlarını karşılıyor. Mynet is the most popular and widely used internet destination in Turkey with over 6,5 million registered members and 38 million monthly unique visitors. Mynet offers more than 45 different products and services fulfilling all the needs of Turkish online community.",
+	"size" : "10"
+},{
+	"name" : "Blogspot.com.tr ",
+	"desc" : " ",
+	"size" : "11"
+},{
+	"name" : "Twitter.com ",
+	"desc" : "Social networking and microblogging service utilising instant messaging, SMS or a web interface..",
+	"size" : "12"
+},{
+	"name" : "R10.net ",
+	"desc" : "The Unofficial Turkish Google Fan webmaster forum. Because we love Google!",
+	"size" : "13"
+},{
+	"name" : "Yandex.com.tr ",
+	"desc" : "Türkiye'deki kullanıcılara özel geliştirilmiş, Türkçe'nin dil yapısına göre çalışan arama motor... Moreu ve web bilgi portalı.",
+	"size" : "14"
+},{
+	"name" : "Mackolik.com ",
+	"desc" : "Futbol ve diger spor dallari ile ilgili aradiginiz butun bilgiler, canli sonuclar, puan durumla... Moreri, forum sayfalari ile dunyanin en kapsamli sitelerinden..",
+	"size" : "15"
+},{
+	"name" : "Wikipedia.org ",
+	"desc" : "A free encyclopedia built collaboratively using wiki software. (Creative Commons Attribution-Sh... MoreareAlike License).",
+	"size" : "16"
+},{
+	"name" : "Sahadan.com ",
+	"desc" : " ",
+	"size" : "17"
+},{
+	"name" : "Internethaber.com ",
+	"desc" : "Türkiye'de TV'si gazetesi olmayan, gercek gazetecilerin emegiyle büyüyen haber portali.",
+	"size" : "18"
+},{
+	"name" : "Ensonhaber.com ",
+	"desc" : "Haber bu adreste okunur son haberler için Türkiye'nin en iyi haber sitesi Ensonhaber",
+	"size" : "19"
+},{
+	"name" : "Okulistik.com ",
+	"desc" : "E-learning platform with online e-books, lessons, educational games, videos, questions solution... Mores, tutorials, worksheets, exercises, tests, assessment and analysis, as well as social media services and communications.",
+	"size" : "20"
+},{
+	"name" : "Haberler.com ",
+	"desc" : "Geniş içerikli haber sitesinde güncel, ekonomik, spor, kültür-sanat, medya, magazin, sağlık, ye... Morerel ve dünya başlıkları altında haberler yayınlanmakta.",
+	"size" : "21"
+},{
+	"name" : "Haberturk.com ",
+	"desc" : "Türkiye'deki bağımsız gazeteciler tarafından kurulan, özel ve cesur haberleri ile büyük ilgi il... Moree izlenen HABERTÜRK grubu, HABERTURK.COM, HABERTÜRK TV VE HABERTÜRK RADYO 90.5 ile Türkiye'nin en özgür haberlerini yayınlamaktadırlar.",
+	"size" : "22"
+},{
+	"name" : "Gittigidiyor.com ",
+	"desc" : "Türkiye nin en işlek alışveriş merkezi!",
+	"size" : "23"
+},{
+	"name" : "Sporx.com ",
+	"desc" : "Türkiye nin en iyi spor sitesi. Spor televizyonu, videolar, yazarlar, canli sonuclar, istatisti... Morek, bahis sayfalari, resim galerileri, Avrupa dan futbol, kazandiran tahminler, günlük kuponlar..",
+	"size" : "24"
+},{
+	"name" : "Dailymotion.com ",
+	"desc" : "On demand video publishing and sharing website, strongly interfaced with video blogs.",
+	"size" : "25"
+},{
+	"name" : "Oyunskor.com ",
+	"desc" : "Bütün kategorilerde en güzel oyunlar sunan türkçe flash oyun portalı",
+	"size" : "26"
+},{
+	"name" : "Sozcu.com.tr ",
+	"desc" : "Türkiye'den ve dünyadan güncel haberler, köşe yazıları ve gazetenin iletişim bilgileri bulunuyo... Morer.",
+	"size" : "27"
+},{
+	"name" : "Izlesene.com ",
+	"desc" : "Türkiye'nin İlk ve en büyük video topluluğu! Onbinlerce video arasından sevdiklerinizi izleyin,... More kendi videolarınızı yükleyin, milyonlarla paylaşın, ünlü olun!!",
+	"size" : "28"
+},{
+	"name" : "Donanimhaber.com ",
+	"desc" : "Donanım haberleri, CPU fiyatları, forum ve teknik servis bölümleri.",
+	"size" : "29"
+},{
+	"name" : "Garanti.com.tr ",
+	"desc" : "Bireysel, kurumsal, ticari, işletme ve Internet bankacılığı hizmetleri vermektedir.",
+	"size" : "30"
+},{
+	"name" : "Sourtimes.org ",
+	"desc" : "kutsal bilgi kaynağı.",
+	"size" : "31"
+},{
+	"name" : "Yenisafak.com.tr ",
+	"desc" : "“Türkiye’nin Önü Aydınlık” manşetiyle yayın hayatına girdiği ilk günden beri ülkemizdeki haber ... Moreve gazetecilik anlayışında büyük değişikliklere öncülük eden Yeni Şafak, “Türkiye’nin Birikimi”ni her gün okurlarına aktarmaya devam ediyor. Yeni Şafak, ülkenin sorunlarını ve çözümlerini analiz eden, toplumsal dinamiklerini hayata katmaya çalışan, ekonomik, politik, sosyal, demokratik ve siyasi düşüncelerin geliştiricisi ve taşıyıcısı olan bir gazete.",
+	"size" : "32"
+},{
+	"name" : "Sabah.com.tr ",
+	"desc" : "Turkuvaz Media Digital Tarafından Hazırlanan Türkiye nin En Güncel Online Haber Sitesi",
+	"size" : "33"
+},{
+	"name" : "Samanyoluhaber.com ",
+	"desc" : "Son Dakika gelişmeleri ve en güncel haberleri takip edebileceğiniz 'Sadece Gerçekler'in adresi.... More",
+	"size" : "34"
+},{
+	"name" : "Stargazete.com ",
+	"desc" : "Star gazetenin internet üzerinden okunabilecek basımı ve özel ekibinin 24 saat güncel tuttuğu h... Moreaber sitesi",
+	"size" : "35"
+},{
+	"name" : "Instagram.com ",
+	"desc" : " ",
+	"size" : "36"
+},{
+	"name" : "Hepsiburada.com ",
+	"desc" : "Türkiye nin en büyük online alışveriş merkezi. Bilgisayar, Cep Telefonları, Fotoğraf Makineleri... More, Ev Elektroniği Mutfak Beyaz Eşya, LCD Televizyon, Ofis Kırtasiye Büro malzemeleri, Spor, Kitap, Müzik DVD Filmler, Çiçek, İç Giyim, Ayakkabı, Hediyelik, Sağlık Güzellik, Saat, Bebek Çocuk, Hobi, Mobilya, Hırdavat ve diğer yüz binlerce ürünü 1998 yılından beri en çok güvenilen ve tercih edilen sitemizden online satın alabilirsiniz.",
+	"size" : "37"
+},{
+	"name" : "Wmaraci.com ",
+	"desc" : "Gelişmiş webmaster araçları, bilgi dolu blogu ve forumu ile Türkiye'nin webmaster portalı.",
+	"size" : "38"
+},{
+	"name" : "Yahoo.com ",
+	"desc" : "A major internet portal and service provider offering search results, customizable content, cha... Moretrooms, free e-mail, clubs, and pager.",
+	"size" : "39"
+},{
+	"name" : "Linkedin.com ",
+	"desc" : "A networking tool to find connections to recommended job candidates, industry experts and busin... Moreess partners. Allows registered users to maintain a list of contact details of people they know and trust in business.",
+	"size" : "40"
+},{
+	"name" : "Misli.com ",
+	"desc" : "MİSLİ.COM Misli Elektronik Şans Oyunları ve Yayıncılık A.Ş. ‘nin şans oyunları markasıdır. MİSL... Moreİ.COM Spor Toto Teşkilatı, Türkiye Jokey Kulübünün yasal elektronik bayisidir.",
+	"size" : "41"
+},{
+	"name" : "Radikal.com.tr ",
+	"desc" : "Günlük gazete.",
+	"size" : "42"
+},{
+	"name" : "Wordpress.com ",
+	"desc" : "Free blogs managed by the developers of the WordPress software. Includes custom design template... Mores, integrated statistics, automatic spam protection and other features.",
+	"size" : "43"
+},{
+	"name" : "Vatanim.com.tr ",
+	"desc" : "İnternetin en hızlı yükselen gazetesi",
+	"size" : "44"
+},{
+	"name" : "Kariyer.net ",
+	"desc" : "İş arama, iş ilanları, özgeçmiş oluşturma, kariyer rehberi ve şirket tanıtım bilgileri....... More",
+	"size" : "45"
+},{
+	"name" : "Tumblr.com ",
+	"desc" : " ",
+	"size" : "46"
+},{
+	"name" : "Yabancidiziizle1.com ",
+	"desc" : " ",
+	"size" : "47"
+},{
+	"name" : "Msn.com ",
+	"desc" : "Portal for shopping, news and money, e-mail, search, and chat.",
+	"size" : "48"
+},{
+	"name" : "Blogspot.com ",
+	"desc" : " ",
+	"size" : "49"
+},{
+	"name" : "Gameforge.com ",
+	"desc" : "With an impressive portfolio of more than 20 titles and over 400 million registered players, Ga... Moremeforge is the leading provider of massively multiplayer online games (MMOGs) in the western hemisphere. The internationally active corporate group, based in Karlsruhe, offers its online games in more than 75 countries. Its portfolio includes client-based game worlds such as AION, TERA, Europe’s most successful MMOG Metin2, 4Story, Runes of Magic, Elsword, Wizard101, browser-based online games such as the popular classic OGame and the award-winning Ikariam as well as mobile games.",
+	"size" : "50"
+},{
+	"name" : "Acunn.com ",
+	"desc" : " ",
+	"size" : "58"
+},{
+	"name" : "Meb.gov.tr ",
+	"desc" : "Includes links to related documents such as education statistics and contact details.",
+	"size" : "51"
+},{
+	"name" : "Adcash.com ",
+	"desc" : "Adcash® is an international Ad network providing Internet publishers with profitable traffic mo... Morenetization solutions and brand advertisers with premium audience reach. You can increase your ad revenues today by monetizing or advertising your website with Adcash®!",
+	"size" : "52"
+},{
+	"name" : "Odatv.com ",
+	"desc" : "Odatv Sadece Ozel Haber",
+	"size" : "53"
+},{
+	"name" : "Ntvmsnbc.com ",
+	"desc" : "Türkiye'nin en güvenilir haber portalı.",
+	"size" : "54"
+},{
+	"name" : "N11.com ",
+	"desc" : "Yüzlerce marka ve milyonlarca ürün, alışverişin uğurlu adresi n11.com'da! Cep telefonu, bilgisa... Moreyar, moda, ev ve daha fazlası en düşük fiyatları ile sizi bekliyor.",
+	"size" : "55"
+},{
+	"name" : "Milliyet.tv ",
+	"desc" : " ",
+	"size" : "56"
+},{
+	"name" : "Microsoft.com ",
+	"desc" : "Main site for product information, support, and news.",
+	"size" : "57"
+},{
+	"name" : "Imdb.com ",
+	"desc" : "Features plot summaries, reviews, cast lists, and theatre schedules.",
+	"size" : "59"
+},{
+	"name" : "Cumhuriyet.com.tr ",
+	"desc" : "Günlük gazete.",
+	"size" : "60"
+},{
+	"name" : "Zaman.com.tr ",
+	"desc" : "Haber,Haberler,Sondakika,Zaman,Zaman Gazetesi",
+	"size" : "61"
+},{
+	"name" : "Fanatik.com.tr ",
+	"desc" : "Günlük spor gazetesi.",
+	"size" : "62"
+},{
+	"name" : "Filmifullizle.com ",
+	"desc" : "Yerli ve yabancı filmleri online izleyebileceğiniz türkiyenin en iyi film izleme sitesi.",
+	"size" : "63"
+},{
+	"name" : "Gezinti.com ",
+	"desc" : " ",
+	"size" : "64"
+},{
+	"name" : "Isbank.com.tr ",
+	"desc" : "Provides an overview of the bank, investor information, and economic reports for Turkey's ... Morebusiness environment.",
+	"size" : "65"
+},{
+	"name" : "Imgur.com ",
+	"desc" : "Used to share photos with social networks and on-line communities.",
+	"size" : "66"
+},{
+	"name" : "Hizliresim.com ",
+	"desc" : " ",
+	"size" : "67"
+},{
+	"name" : "Ligtv.com.tr ",
+	"desc" : "Süperlig maçlarının yayımlayıcısı LigTV nin web sitesinde futbol dünyasından haberler, haftanın... More maçları ve puan durumu bilgileri bulunmakta.",
+	"size" : "68"
+},{
+	"name" : "Sanalpazar.com ",
+	"desc" : "SanalPazar.com’ da, ürün satın alabilir veya satabilirsiniz. Binlerce dükkan, yüzbinlerce ürün ... Morearasından güvenle, hızlı ve yorulmadan, peşin fiyatına 12 aya varan taksit imkanları ile, ister hemen ister pazarlıkla, açık artırma ile alışveriş yapabilirsiniz.",
+	"size" : "69"
+},{
+	"name" : "Memurlar.net ",
+	"desc" : "Devlet memurları ile ilgili haberler, iş ilanları, sınavlar ve ilgili mevzuat hakkında bilgiler... More.",
+	"size" : "70"
+},{
+	"name" : "Karnaval.com ",
+	"desc" : "Kontrolün kullanıcıda olduğu Karnaval.com’da dinleyiciler, radyoda çalan sevdikleri şarkıyı ist... Moreedikleri zaman durdurabiliyor, geri sarıp tekrar tekrar dinleyebiliyorlar. Karnaval.com’un zengin içeriği sayesinde o an çalan şarkı ve şarkıcı hakkındaki en yeni, en son bilgilere ulaşabiliyorlar. Sosyal medya entegrasyonu sayesinde ise dinleyiciler Facebook profillerini kullanarak DJ’lerle o an sohbet edip, şarkı isteğinde bulunabiliyorlar. Stüdyo ortamını ya da takip ettiği DJ’i yayında görmek isteyenler ise canlı webcam uygulaması ile DJ’lerin yayınlarını canlı olarak izleyebiliyorlar.",
+	"size" : "71"
+},{
+	"name" : "Onedio.com ",
+	"desc" : "Türkiye'nin ilk ve tek sosyal haber platformu, \"Yeni Medya Düzeni\"nin en büyük temsilcisi.",
+	"size" : "72"
+},{
+	"name" : "Ntvspor.net ",
+	"desc" : "Yayınlanan güncel spor haberleri ile kanalın yayın akışı, röportajlar, fotoğraf ve video galeri... Moreleri bulunuyor.",
+	"size" : "73"
+},{
+	"name" : "Blogger.com ",
+	"desc" : "Free, automated weblog publishing tool that sends updates to a site via FTP.",
+	"size" : "74"
+},{
+	"name" : "Pinterest.com ",
+	"desc" : "Pinterest is an online pinboard: a place where you can post collections of things you love, and... More “follow” collections created by people with great taste.",
+	"size" : "75"
+},{
+	"name" : "Startv.com.tr ",
+	"desc" : "Türkiye'nin ilk özel televizyonu Star TV'nin resmi Internet sitesi. Diziler ve programların vid... Moreeoları, resimleri ve kapsamlı içeriklerinin yanısıra",
+	"size" : "76"
+},{
+	"name" : "Shiftdelete.net ",
+	"desc" : "Yazılım, donanım ve İnternet teknolojileriyle ilgili haber ve makalelerin, öğretici animasyonla... Morerın yayınlandığı online bilişim dergisi.",
+	"size" : "77"
+},{
+	"name" : "Vube.com ",
+	"desc" : "User-generated viral videos. The most liked videos every month win cash in monthly contests.",
+	"size" : "78"
+},{
+	"name" : "Akamaihd.net ",
+	"desc" : " ",
+	"size" : "79"
+},{
+	"name" : "Themeforest.net ",
+	"desc" : " ",
+	"size" : "80"
+},{
+	"name" : "Stackoverflow.com ",
+	"desc" : "A language-independent collaboratively edited question and answer site for programmers. Questio... Morens and answers displayed by user votes and tags.",
+	"size" : "81"
+},{
+	"name" : "Bing.com ",
+	"desc" : "Search engine developed by Microsoft. Features web, image, video, local, news, and product search.ch.",
+	"size" : "82"
+},{
+	"name" : "Ykb.com ",
+	"desc" : "Yatırım bankacılığı, kurumsal ve bireysel bankacılık hizmetleri, ekonomik raporlar.",
+	"size" : "83"
+},{
+	"name" : "Islemogren.com ",
+	"desc" : " ",
+	"size" : "84"
+},{
+	"name" : "Ttnet.com.tr ",
+	"desc" : "ADSL, Wi-Fi ve çevirmeli internet erişim hizmetleri sunuyor.",
+	"size" : "85"
+},{
+	"name" : "Akakce.com ",
+	"desc" : "Internet mağazalarında bulunan ürünlerin fiyat bilgilerini karşılaştırma imkanı sunan alışveriş... More rehberi.",
+	"size" : "86"
+},{
+	"name" : "Vk.com ",
+	"desc" : "Социальная сеть как средство для коммуникации и поиска людей. Международный сервис, созданный р... Moreоссийскими разработчиками.",
+	"size" : "87"
+},{
+	"name" : "Trendyol.com ",
+	"desc" : "Giyim, aksesuar, kozmetik ve dekorasyon gibi alanlarda seçkin markaların ürünlerini 2-5 gün sür... Moreeli kampanyalar ile satışını yapan özel alışveriş sitesidir.",
+	"size" : "88"
+},{
+	"name" : "Vimeo.com ",
+	"desc" : "Vimeo is the home for high-quality videos and the people who love them.",
+	"size" : "89"
+},{
+	"name" : "Uludagsozluk.com ",
+	"desc" : "akliniza takilan her konuda bilgi bilgi bulabileceginiz bir sozluk ve bir online community",
+	"size" : "90"
+},{
+	"name" : "Xhamster.com ",
+	"desc" : "xHamster is a community of open-minded people. Our site contains adult videos, photos, dating, ... Moreflash games and live sex cams.",
+	"size" : "91"
+},{
+	"name" : "Yazete.com ",
+	"desc" : "Haber ve haberler’i Türkiye'nin online gazetesi Yazete.com'da son dakika, spor,magazin,ekonomi,... Moresiyaset ve yerel haberler kategorilerinden okuyabilirsiniz",
+	"size" : "92"
+},{
+	"name" : "Kickass.to ",
+	"desc" : " ",
+	"size" : "93"
+},{
+	"name" : "Bp.blogspot.com ",
+	"desc" : " ",
+	"size" : "94"
+},{
+	"name" : "Googleusercontent.com ",
+	"desc" : " ",
+	"size" : "95"
+},{
+	"name" : "Webmastersitesi.com ",
+	"desc" : "Web geliştirme ve arama motoru optimizasyonu ile ilgili paylaşımlar yapılıyor.",
+	"size" : "96"
+},{
+	"name" : "Osym.gov.tr ",
+	"desc" : "Ulusal üniversiteye giriş sınavını düzenleyen kurumun web sitesi.",
+	"size" : "97"
+},{
+	"name" : "Sondakika.com ",
+	"desc" : "Politika, ekonomi ve spor ağırlıklı haber sitesi.",
+	"size" : "98"
+},{
+	"name" : "Skorer.tv ",
+	"desc" : " ",
+	"size" : "99"
+},{
+	"name" : "Blogcu.com ",
+	"desc" : "Türkiye nin ücretsiz blog servisi - yüzbinlerce üye, milyonlarca yazı ve ziyaretçi",
+	"size" : "100"
+},{
+	"name" : "Isimtescil.net ",
+	"desc" : "Domain tescili,Web Hosting,Host,Sunucu Kiralama,Co-Location,SSL,Web Tasarımı, Marka Tescili",
+	"size" : "101"
+},{
+	"name" : "Turkcell.com.tr ",
+	"desc" : "GSM 900 cep telefonu operatörüyle ilgili bilgiler, online işlem olanağı, bireysel ve kurumsal s... Moreervislerin tanıtımlarını içeriyor.",
+	"size" : "102"
+},{
+	"name" : "Turbobit.net ",
+	"desc" : " ",
+	"size" : "103"
+},{
+	"name" : "Hepsibahis3.com ",
+	"desc" : " ",
+	"size" : "104"
+},{
+	"name" : "Vatanbilgisayar.com ",
+	"desc" : "Bilgisayar, yazıcı ve tarayıcı, telefon, ev elektroniği ve aksesuarlar kategorilerinde ürünler ... Moresatılıyor.",
+	"size" : "105"
+},{
+	"name" : "Wordpress.org ",
+	"desc" : "A semantic personal publishing platform with a focus on aesthetics, web standards, and usability.y.",
+	"size" : "106"
+},{
+	"name" : "Bugun.com.tr ",
+	"desc" : "Bugün Gazetesi haber sitesinde Türkiye ve dünyadan tüm önemli haberleri, sıcak gelişmeleri okuy... Moreabilir, üye olabilir, yorum yazabilirsiniz.",
+	"size" : "107"
+},{
+	"name" : "Cnnturk.com ",
+	"desc" : "CNN Türk haber televizyonunun resmi Internet sitesi. Siyasetten ekonomiye, spordan modaya, tekn... Moreolojiden kültür-sanata kadar tüm haberleri ve son dakika gelişmelerini videolarıyla ziyaretçilerine anında ulaştırıyor. Ayrıca, TV'de yayınlanan pr",
+	"size" : "108"
+},{
+	"name" : "Markafoni.com ",
+	"desc" : "Giyim, aksesuar, spor malzemeleri, kozmetik, oyuncak, teknoloji ve dekorasyon gibi alanlarda ür... Moreünleri bulunan markaların, 2-5 gün süreli kampanyalar ile satışı yapılıyor.",
+	"size" : "109"
+},{
+	"name" : "Apple.com ",
+	"desc" : "Official site, with details of products and services.",
+	"size" : "110"
+},{
+	"name" : "Frmtr.com ",
+	"desc" : "ForumTR aylik 11 milyon tekil ziyaretci sayisi ve 4 Milyon uyesi ile Dunyanin En Buyuk Turkce F... Moreorumudur.",
+	"size" : "111"
+},{
+	"name" : "Sayyac.com ",
+	"desc" : "Web sitelerinin günlük, haftalık ve aylık ziyaretçi istatistiklerini ülke, tarayıcı ve arama mo... Moretorları gibi özelliklerine göre tutan web sitesi.",
+	"size" : "112"
+},{
+	"name" : "Habervaktim.com ",
+	"desc" : "Son dakika haber ve güncel haberlere habervaiktim.com farkıyla ulaşın.",
+	"size" : "113"
+},{
+	"name" : "Tamindir.com ",
+	"desc" : "Bilgisayar programları, mobil uygulamalar, web servisleri, pc konsol oyunları, video incelemele... Moreri ve blog yazıları ile Türkçe teknoloji portalı sitesidir. Türkiye'deki en büyük indirme platformudur. English: Tamindir.com is Turkish technology portal with Computer softwares, mobile applications , web services , PC and console games , video review and blogs.The biggest platform in Turkey about downloding.",
+	"size" : "114"
+},{
+	"name" : "Silikonvadisi.tv ",
+	"desc" : "You can find about Popular Technology, Internet, Software, Hardware and new gadgets news and vi... Moredeos in here...",
+	"size" : "115"
+},{
+	"name" : "Alkislarlayasiyorum.com ",
+	"desc" : "Türkiyenin hatta dünyanın alkışlarla yaşayan ilk ve tek sitesi!",
+	"size" : "116"
+},{
+	"name" : "Kanald.com.tr ",
+	"desc" : "Kanal D televizyonunun resmi Internet sitesidir. Diziler ve programlar hakkında her türlü video... More, resim ve bilgilerin yanısıra oyun, eğlence, kadın, çocuk, vb gibi bir çok portal içeriğiyle ziyaretçilerine zengin çeşitlilik sunmaktadır.",
+	"size" : "117"
+},{
+	"name" : "Paypal.com ",
+	"desc" : "Online payment service for individuals and merchants. Allows users to send money and bills to a... Morenyone with e-mail.",
+	"size" : "118"
+},{
+	"name" : "Amkspor.com ",
+	"desc" : " ",
+	"size" : "119"
+},{
+	"name" : "Aliexpress.com ",
+	"desc" : "Launched in 2010, AliExpress (www.aliexpress.com) is a leading global e-commerce marketplace ma... Morede up of small business sellers that offer a wide variety of consumer products at great prices. With more than 54 million products in 26 major product categories as of the end of March 2013, AliExpress is dedicated to bringing unique products to its 7.7 million registered users in more than 200 countries and regions. AliExpress is a business within Alibaba Group.",
+	"size" : "120"
+},{
+	"name" : "Divxplanet.com ",
+	"desc" : "Sinema. Kaliteli Türkçe DivX Altyazı Merkezi. P2P linkleri ve ayrıntılı açıklamaları. Encoding ... Moreve Video üzerine makaleler, ayrıntılı rehberler. Düzeyli tartışmaların, hayatın kendisinin bulunduğu forum...",
+	"size" : "121"
+},{
+	"name" : "Iha.com.tr ",
+	"desc" : "Güncel haberler, video ve fotogalerileri ile, İhlas Haber Ajansının Kurumsal Web Sitesi. Türkiy... Moreenin yorumsuz haber portalı",
+	"size" : "122"
+},{
+	"name" : "Chip.com.tr ",
+	"desc" : "CHIP Online içinde Testler, teknoloji haberleri, PC dünyasi, dizüstü bilgisayarlar, avuçiçi bil... Moregisayarlar, dijital kameralar ve yazilim haberlerini bulabilir, geniş forumlarımızdan faydalanabilir ve PC sorunlarinizi çözebilirsiniz..",
+	"size" : "123"
+},{
+	"name" : "Akbank.com ",
+	"desc" : "Offers consumer, commercial and international trade finance products and services through its c... Moreountrywide network.",
+	"size" : "124"
+},{
+	"name" : "Posta.com.tr ",
+	"desc" : "Posta Gazetesi'nin ilk ve tek resmi internet sitesi. Hayata giriş sayfanız. Uluslararası ve yer... Moreel haberler, son dakika haberleri, basın, medya, güncel, spor, siyaset, ekonomi, magazin, sinema, kültür ve sanat, yaşam, astroloji, dünya, eğitim, sağlık, otom",
+	"size" : "125"
+},{
+	"name" : "Fullhdfilmizle.org ",
+	"desc" : "Full HD Film izleme keyfini ayağınıza getirdik. Online sinema platformumuzda en yeni filmleri y... Moreüksek görüntü kalitesiyle izleme ayrıcalığını yaşayın.",
+	"size" : "126"
+},{
+	"name" : "Mail.ru ",
+	"desc" : "Портал Mail.Ru (проект Mail.Ru Group) – самый популярный сайт рунета (30,452 млн. пользователей... More, TNS январь 2012 г.), запущен 15 октября 1998г. Предлагает пользователям доступ к широкой линейке сервисов: от социальных сетей, мессенджеров и игр, до погоды и курса валют. Является точкой входа в самую популярную электронную почту рунета, входящую в ТОП-5 мировых почтовых сервисов.",
+	"size" : "127"
+},{
+	"name" : "Ebay.com ",
+	"desc" : "International person to person auction site, with products sorted into categories.",
+	"size" : "128"
+},{
+	"name" : "Travian.com.tr ",
+	"desc" : "Oyuncuların, köy yöneticisi olarak oynadıkları tarihi içerikli oyun.",
+	"size" : "129"
+},{
+	"name" : "Hurriyetemlak.com ",
+	"desc" : "Emlak sektörü ile ilgili haberlere, ev ,arsa, işyeri ilanlarına ve emlak ofislerine ulaşabilirs... Moreiniz.",
+	"size" : "130"
+},{
+	"name" : "Dha.com.tr ",
+	"desc" : "Haberlerini ve hizmetlerini sunan ajansın, kurumsal abonelik gerektiren resmi sitesi.",
+	"size" : "131"
+},{
+	"name" : "Adobe.com ",
+	"desc" : "Developers of software solutions for graphic designers and professional publishers, products in... Moreclude Illustrator, Photoshop, Premiere, After Effects, LiveMotion, InDesign, Studio, FrameMaker, PhotoDeluxe and several others. Also develops third party plugins.",
+	"size" : "132"
+},{
+	"name" : "Morpakampus.com ",
+	"desc" : "Morpa Kampüs ilköğretim öğrencileri ve öğretmenlerine derslerde destek olmak için hazırlanmış, ... Moreyeni öğretim müfredatına uygun, internet üzerinden kullanılan bilgisayar destekli bir eğitim yazılımıdır. İlköğretim birinci sınıftan sekizinci sınıfa kadar tüm öğrenciler, bu yaş grubunda çocukları olan veliler ve ilköğretimde görevli öğretmenler ile yöneticileri Morpa Kampüs'ten yararlanabilir. Morpa Kampüs’te; 3 boyutlu, tam ekran, görsel canlandırmalı ve sesli konu anlatımları, tiyatro sanatçıları tarafından seslendirilmiş okuma ve dinleme metinleri, eğitsel oyunlar ve etkinlikler, etkileşimli ve eğlenceli çalışmalar, videolu deneyler ve alıştırmalar, çözümlü testler, binlerce sorudan oluşan tarama testleri, seviye belirleme sınavları, ayrıntılı ölçme-değerlendirme ve raporlama, soru bankaları, Morpa Kampüs üyeleri için özel olarak hazırlanmış elektronik kitaplar, öykü kitapları, sözlükler, ansiklopediler, ödevler, belirli Gün ve Haftalar, projeler yer almaktadır.",
+	"size" : "133"
+},{
+	"name" : "Turkiyegazetesi.com.tr ",
+	"desc" : "Günlük gazetenin haberleri ve köşe yazıları.",
+	"size" : "134"
+},{
+	"name" : "T.co ",
+	"desc" : " ",
+	"size" : "135"
+},{
+	"name" : "Aksam.com.tr ",
+	"desc" : "Türkiye'nin haber sayfası! En Güncel Haberler, Son Dakika Haberleri. Güncel Siyaset Ekonomi Dün... Moreya Spor Magazin Teknoloji Sağlık Kültür Sanat Kadın Otomobil Astroloji",
+	"size" : "136"
+},{
+	"name" : "Sinemalar.com ",
+	"desc" : "Filmler hakkında bilgiler, haberler, fragmanlar, salonlar ve seanslar.",
+	"size" : "137"
+},{
+	"name" : "Bc.vc ",
+	"desc" : "bc.vc is a free URL shortening service with a twist.. you get paid to share your links on the I... Morenternet! Just register for a free account and start shrinking. You get paid for every person that visits your URLs. Example URL for Google: http://bc.vc/1 Place your short urls on Facebook, Twitter, forums, personal websites and any social networking sites.",
+	"size" : "138"
+},{
+	"name" : "Turkiye.gov.tr ",
+	"desc" : "Elektronik devlet projesi kapsamında, devletin çeşitli kurumlarındaki buroktatik hizmetlerin in... Moreternet üzerinden yapılabilmesine olanak sağlayan site.",
+	"size" : "139"
+},{
+	"name" : "Bestusefuldownloads.com ",
+	"desc" : " ",
+	"size" : "140"
+},{
+	"name" : "Showhaber.com ",
+	"desc" : "Showhaber.Com Türkiye ve dünyadan sondakika güncel haberleri, son dakika haberleri, piyasalarda... Moreki son dakika gelişmeler, bilim teknik, Sinema ve televizyondaki gelişmeler, hava durumu bilgileri, müzik, kitap, sağlık sayfaları, online anketler.",
+	"size" : "141"
+},{
+	"name" : "Foursquare.com ",
+	"desc" : "Members note their locations with a mobile phone and can find out where friends are. Recent act... Moreivity, introductory video.",
+	"size" : "142"
+},{
+	"name" : "Amazon.com ",
+	"desc" : "Amazon.com seeks to be Earth's most customer-centric company, where customers can find and disc... Moreover anything they might want to buy online, and endeavors to offer its customers the lowest possible prices. Site has numerous personalization features and services including one-click buying, extensive customer and editorial product reviews, gift registries, gift certificates, wish lists, restaurant and movie listings, travel, and photo processing.",
+	"size" : "143"
+},{
+	"name" : "Ask.fm ",
+	"desc" : " ",
+	"size" : "144"
+},{
+	"name" : "Anadolu.edu.tr ",
+	"desc" : "Eskişehir.",
+	"size" : "145"
+},{
+	"name" : "Natro.com ",
+	"desc" : "Web sitesi barındırma, tasarım ve sunucu kiralama hizmetleri sunuyor.",
+	"size" : "146"
+},{
+	"name" : "Tr.gg ",
+	"desc" : "Sagopa Kajmer ve Kolera mp3 dinleme sitesi",
+	"size" : "147"
+},{
+	"name" : "Rotahaber.com ",
+	"desc" : "Türkiye ve dünya gündemi yanı sıra güncel, ekonomik, spor, kültür-sanat, medya, magazin, katego... Morerileri altında haberler yayınlanmaktadır.",
+	"size" : "148"
+},{
+	"name" : "Teknosa.com ",
+	"desc" : "Türkiye genelinde mağazalar zincirine sahip şirketin İnternet üzerinden satış sitesi.",
+	"size" : "149"
+},{
+	"name" : "Kadinlarkulubu.com ",
+	"desc" : "Kadinlarin, paylasimda bulunabildikleri net uzerindeki kadın adina nirengi noktasi. A dan Z ye ... Morekadin. Kadın, Cilt Bakımı, Güzellik, Diyet, Makyaj, Moda, Seks, Evlilik, Gelinlik, Bebek, Magazin, Saç Bakımı, kadın sağlığı basliklari bulunmaktadir.",
+	"size" : "150"
+},{
+	"name" : "Yandex.ru ",
+	"desc" : "Поиск информации в интернете с учетом русской морфологии, возможность регионального уточнения. ... MoreПараллельный поиск по новостям, картинкам, товарам, блогам, адресам организаций.",
+	"size" : "151"
+},{
+	"name" : "Bigpara.com ",
+	"desc" : "Türkiye'nin Finans Portali - Para ve sermaye piyasalari hakkinda tüm veriler, haberler, analizl... Moreer, raporlar, grafikler ve daha fazlasi bigpara'da.",
+	"size" : "152"
+},{
+	"name" : "Gezginler.net ",
+	"desc" : "'Gezginler.Net ücretsiz hizmetler, download, javascript, oyunlar, şiir gezgini, ekart, ilanlar ... Moreve ...",
+	"size" : "153"
+},{
+	"name" : "Yemeksepeti.com ",
+	"desc" : "Yemek ve paket servis dendiğinde ilk akla gelen, Türkiye’nin online yemek siparişi portalı. Piz... Moreza, lahmacun, sandviç, kebap, döner, hamburger ve diğer yemek siparişlerinizi en hızlı ve en kolay şekilde kredi kartı ve ekstra ücret ödemeden verebilirsiniz.",
+	"size" : "154"
+},{
+	"name" : "F5haber.com ",
+	"desc" : "Türkiye'den ve dünyadan tüm son dakika haberleri F5Haber.com'da. Haber, spor, ekonomi, magazin,... More teknoloji haberleri, gazeteler, gazete manşetleri ve tüm haberler F5Haber farkıyla bir çatı altında...",
+	"size" : "155"
+},{
+	"name" : "Qtrax.com ",
+	"desc" : "Qtrax is a free and legal downloading and streaming music service.",
+	"size" : "156"
+},{
+	"name" : "Aa.com.tr ",
+	"desc" : "Ajansın haberlerini yayınladığı resmi internet sitesi.",
+	"size" : "157"
+},{
+	"name" : "Godaddy.com ",
+	"desc" : "Domain registrations and hosting services.",
+	"size" : "158"
+},{
+	"name" : "Bilyoner.com ",
+	"desc" : "Türkiye nin yasal şans oyunları platformu, Spor Toto Teşkilatı, Türkiye Jokey Kulübü ve Milli P... Moreiyango nun sözleşmeli sanal bayisi! Kolayca üye olun, anlaşmalı bankalardan para transferiniz anında gerçekleşsin, İddaa, At Yarışı, Spor Toto yu internetten, cep telefonundan, Digitürk ten kolay, güvenli ve hızlı oynayın. İstatistikler, canlı sonuçlarla bilginizi, hazır kuponlarla şansınızı arttırın!",
+	"size" : "159"
+},{
+	"name" : "Nesine.com ",
+	"desc" : "Bahis Nesine.com’da oynanır, Milli Piyango bileti Nesine.com’dan alınır. Kazandıran iddaa tahmi... Morenleri ve yorumları, hazır kuponlar ve şimdi de Milli Piyango biletleri Spor Toto ve Milli Piyango sözleşmeli sanal bayiisi Nesine.com’da.",
+	"size" : "160"
+},{
+	"name" : "Itusozluk.com ",
+	"desc" : "Üyeleri tarafından eklenilen ve güncellenen terim ve açıklamalara sahip interaktif sözlük.",
+	"size" : "161"
+},{
+	"name" : "Webaslan.com ",
+	"desc" : "Güncel haberler, dosyalar, makaleler ve mesaj panosu bulunuyor.",
+	"size" : "162"
+},{
+	"name" : "Junbi-tracker.com ",
+	"desc" : " ",
+	"size" : "163"
+},{
+	"name" : "Aktifhaber.com ",
+	"desc" : "Haberlerin perde arkası,gündemin gizli kodları,günün sıcak gelişmeleri,derin haberler....Siyase... Moret,Spor,Magazin....Her şey .Türkiyenin haber sitesi Aktifhaber.com da...",
+	"size" : "164"
+},{
+	"name" : "Amung.us ",
+	"desc" : "Real-time stats for your website or blog.",
+	"size" : "165"
+},{
+	"name" : "Webrazzi.com ",
+	"desc" : "Turkish blog dedicated to internet start-ups and Web 2.0 sector.",
+	"size" : "166"
+},{
+	"name" : "Finansbank.com.tr ",
+	"desc" : "1987 yılında kurulan banka, ticari, bireysel, ve yatırım bankacılığı hizmetlerinde bulunmaktadı... Morer.",
+	"size" : "167"
+},{
+	"name" : "Alibaba.com ",
+	"desc" : "Launched in 1999, Alibaba.com (www.alibaba.com) is the leading global e-commerce platform for s... Moremall businesses around the world. It aims to be the go-to English-language platform for cross-border trade and help small businesses worldwide expand to overseas markets. The platform, which now serves millions of buyers and suppliers from more than 240 countries and regions, showcases products ranging from raw materials to finished goods in more than 40 industry categories. Alibaba.com is a business within Alibaba Group.",
+	"size" : "168"
+},{
+	"name" : "Booking.com ",
+	"desc" : "Worldwide accommodation reservations.",
+	"size" : "169"
+},{
+	"name" : "Onclickads.net ",
+	"desc" : " ",
+	"size" : "170"
+},{
+	"name" : "Ask.com ",
+	"desc" : "Offers search for web sites, images, news, blogs, video, maps and directions, local search and ... Moreshopping.",
+	"size" : "171"
+},{
+	"name" : "Web.tv ",
+	"desc" : " ",
+	"size" : "172"
+},{
+	"name" : "Ahaber.com.tr ",
+	"desc" : "Yayın akışı hakkında bilgiler, güncel haberler, canlı yayın ve iletişim sayfası bulunuyor.... More",
+	"size" : "173"
+},{
+	"name" : "Turkishairlines.com ",
+	"desc" : "You can buy flight ticket, check in, make reservation, examine flight timetable, read arrivals-... Moredepartures information, make the transactions of the Miles&Smiles from the web site of THY (Turkish Airlines) the biggest airline company of Turkey.",
+	"size" : "174"
+},{
+	"name" : "Tvyo.com ",
+	"desc" : "tvyo ile ücretsiz izle. Full HD kalitesinde yerli yabancı diziler, son bölümleri, vizyondaki fi... Morelmler, spor kanalları, müzik klipleri hepsi Tvyo'da.",
+	"size" : "175"
+},{
+	"name" : "6bets10.com ",
+	"desc" : " ",
+	"size" : "176"
+},{
+	"name" : "Vodafone.com.tr ",
+	"desc" : "My Vodafoneda abonelik işlemlerinizi yapmak ve anında kontör yüklemek, cep telefonları,mobil in... Moreternet, 3G, roaming ve size en uygun tarifeler hakkında bilgi almak için vodafone.com.tryi ziyaret edin.",
+	"size" : "177"
+},{
+	"name" : "Haber3.com ",
+	"desc" : "Haber3.com \"Türkiye'nin Haber Sitesi\" olarak 2001 yılından bu yana yayında. Türkiye’nin ilk bağ... Moreımsız haber sitelerinden biri olarak kurulan Haber3.com'da 24 saat ilkeli, hızlı, dürüst, tarafsız ve saygılı habercilik anlayışıyla hizmet veriyor.",
+	"size" : "178"
+},{
+	"name" : "Ajansspor.com ",
+	"desc" : "Turkiye'nin bir numarali spor portali. Tum spor haberlerine aninda ulasabileceginiz tek adres.",
+	"size" : "179"
+},{
+	"name" : "Ucuzu.com ",
+	"desc" : "Çeşitli kategorilerde resimli ürün fiyatı karşılaştırmaları sunan bir fiyat karşılaştırma sites... Morei.",
+	"size" : "180"
+},{
+	"name" : "Hizlial.com ",
+	"desc" : "Bilgisayar, Cep Telefonu, Notebook, Televizyon, Kozmetik, Giyim gibi onlarca kategoride binlerc... Moree ürün. Hızlı ve Güvenilir alışverişin online adresi hizlial.com.",
+	"size" : "181"
+},{
+	"name" : "Fotomac.com.tr ",
+	"desc" : "Günlük yayın yapan spor gazetesinin internet baskısı.",
+	"size" : "182"
+},{
+	"name" : "Mansettv.com ",
+	"desc" : "Haberin özel merkezi | Haberdar olmak için Mansettv.com",
+	"size" : "183"
+},{
+	"name" : "Statcounter.com ",
+	"desc" : "Detailed visitor statistics and a choice of graphical counters. An invisible counter is also av... Moreailable.",
+	"size" : "184"
+},{
+	"name" : "Ziraatbank.com.tr ",
+	"desc" : "A state owned bank providing a wide variety of banking services, particularly targeting the agr... Moreiculture sector.",
+	"size" : "185"
+},{
+	"name" : "Morhipo.com ",
+	"desc" : "Pek çok markanın çeşitli oranlardaki indirimlerde satıldığı bir sanal alışveriş sitesidir.... More",
+	"size" : "186"
+},{
+	"name" : "Beyazperde.com ",
+	"desc" : "Güncel sinema haberleri, vizyona yeni giren filmlerin detaylı tanıtımları, sinema seansları, fo... Morerumlar, yarışmalar.",
+	"size" : "187"
+},{
+	"name" : "Deviantart.com ",
+	"desc" : "Gallery of digital works submitted by members.",
+	"size" : "188"
+},{
+	"name" : "Rokettube.info ",
+	"desc" : " ",
+	"size" : "189"
+},{
+	"name" : "Yokboylebirsey.com.tr ",
+	"desc" : " ",
+	"size" : "190"
+},{
+	"name" : "Iyinet.com ",
+	"desc" : "Türkiye'nin ilk ve en büyük webmaster forumu. Kalite, üst düzey bilgiler ve birbirinden çok bil... Moregili üyelerin bir arada bulunduğu forum.",
+	"size" : "191"
+},{
+	"name" : "T24.com.tr ",
+	"desc" : "Bağmsız İnternet Gazetesi",
+	"size" : "192"
+},{
+	"name" : "Bicaps.net ",
+	"desc" : " ",
+	"size" : "193"
+},{
+	"name" : "Turkcealtyazi.org ",
+	"desc" : "Türkçe altyazı, yeni film ve dizi altyazıları, ayrıntılı film bilgileri, afişleri, fragmanları,... More çevirmenleri ve vizyon filmlerini içeriyor.",
+	"size" : "194"
+},{
+	"name" : "Nediyor.com ",
+	"desc" : "Gündemdeki ünlülerin gündemdeki haberler için yorumları sadece nediyor.com'da birarada.",
+	"size" : "195"
+},{
+	"name" : "Eleman.net ",
+	"desc" : "is ve eleman arayanlar icin dogru adres..",
+	"size" : "196"
+},{
+	"name" : "Fuub.net ",
+	"desc" : "Web tasarım, e-ticaret, web hosting, hazır sistemler vb konularda fikir alışverişi ile güçlendi... Morerilen webmaster platformu.",
+	"size" : "197"
+},{
+	"name" : "Ulkehaber.com ",
+	"desc" : " ",
+	"size" : "198"
+},{
+	"name" : "Haberzamani.com ",
+	"desc" : "news haber haberler sondakika",
+	"size" : "199"
+},{
+	"name" : "Yurticikargo.com ",
+	"desc" : " ",
+	"size" : "200"
+},{
+	"name" : "Gold.com.tr ",
+	"desc" : "Gold Bilgisayar, notebook, cep telefonu, lcd tv, fotoğraf makinası, beyaz eşya gibi bir çok ürü... Moren Türkiye'nin teknoloji marketinde",
+	"size" : "201"
+},{
+	"name" : "Tureng.com ",
+	"desc" : "English-Turkish online dictionary with more than 2,000,000 terms classified into categories and... More pronounced in 3 different (British, American, Australian) English accents by Tureng Translation Company",
+	"size" : "202"
+},{
+	"name" : "Uzmantv.com ",
+	"desc" : "Çeşitli konuların uzmanları merak edilen sorulara görüntülü cevap veriyor.",
+	"size" : "203"
+},{
+	"name" : "Avea.com.tr ",
+	"desc" : "Türkiye nin en genç ve yenilikçi mobil iletişim operatörü Avea nın resmi sitesi",
+	"size" : "204"
+},{
+	"name" : "Kraloyun.com ",
+	"desc" : "Türkiye'nin lider oyun sitesi KralOyun.com'a hoşgeldiniz. 7'den 70'e her yaş grubunun ziyaret e... Morettiği sitemizde, 10.000'den fazla oyun bulunuyor. Her gün eklenen oyunlarımız, içerik denetiminden geçerek ekleniyor. Oyun içeriğimiz; kızlar için yemek, pasta, giysi, bebek ve garson oyunlarını kapsıyor. Erkek oyuncularımız için de yarış, motor, dövüş ve futbol oyunları bulunuyor. Yetişkin oyuncularımız da bilardo, iskambil, balon patlatma, çiftlik ve yönetim oyunları ile güzel vakit geçirebilirler. Tüm bunları KralOyun Alemi'ne üye olarak arkadaşlarınla berabe",
+	"size" : "205"
+},{
+	"name" : "Doviz.com ",
+	"desc" : "Serbest piyasa kurları ve bankalara ait döviz kurlarına ulaşılabilir.",
+	"size" : "206"
+},{
+	"name" : "Takvim.com.tr ",
+	"desc" : "Turkuvaz Media Digital Tararından yayına verilen Takvim gazetesinin web sitesi.",
+	"size" : "207"
+},{
+	"name" : "Flypgs.com ",
+	"desc" : "Company profile, travel information, online booking, and contact details. [Multi-Lingual]",
+	"size" : "208"
+},{
+	"name" : "Yenibiris.com ",
+	"desc" : "iş ilanları,insan kaynakları,iş eleman arayanlar,eleman arayan,eleman alımı,eleman ilanları,güv... Moreenlik iş ilanları,yeni iş ilanları,eleman arıyorum,eleman ilanı,iş ilani,iş arama,kariyer,resume,iş başvurusu,iş fırsatları,human resources,iş bul,jobs,eleman,p",
+	"size" : "209"
+},{
+	"name" : "Sikayetvar.com ",
+	"desc" : "Ürün ve hizmetlere yönelik her türlü şikayet ve övgüler yayınlanıp çözüm takibi yapılabilir, hu... Morekuki öneriler alınabilir.",
+	"size" : "210"
+},{
+	"name" : "Sgk.gov.tr ",
+	"desc" : "Kurumdan duyurular, istatistiksel bilgiler ve sağlık reformu hakkında bilgilerin yanı sıra; eme... Morekli, çalışan ve işveren sayfaları mevcut.",
+	"size" : "211"
+},{
+	"name" : "Halkbank.com.tr ",
+	"desc" : "Orta ve küçük ölçekli girişimler ve girişimciler için kredi sağlamak konusunda uzmanlaşmış devl... Moreet bankası.",
+	"size" : "212"
+},{
+	"name" : "Anyoption.com ",
+	"desc" : "Binary Options Trading Platform: Online Binary Options Trading on Forex, Indices, Commodities &... More Currencies. No commission! 70% guaranteed return & 15% loss protection",
+	"size" : "213"
+},{
+	"name" : "Filmizlesene.com.tr ",
+	"desc" : " ",
+	"size" : "214"
+},{
+	"name" : "Memuruz.net ",
+	"desc" : "Memurlar - Memur Haber,Memur,Memurlar,Memuruz,Kpss,Memur Haberleri,Memur Grubu,kamudan haber,Me... Moremurlara Haber , memurlar , memur ve memur haberleri , Memurlara , memurlar net, 2013 kpss,ösym,kamudan haberler,memur ilanları",
+	"size" : "215"
+},{
+	"name" : "Superonline.net ",
+	"desc" : "Bireysel servis sağlayıcı ve hizmet sayfaları.",
+	"size" : "216"
+},{
+	"name" : "Digiturkplay.com.tr ",
+	"desc" : " ",
+	"size" : "217"
+},{
+	"name" : "Fbcdn.net ",
+	"desc" : "People use Facebook to keep up with friends, upload an unlimited number of photos, share links ... Moreand videos, and learn more about the people they meet. Anyone can join Facebook All that&apos;s needed to join Facebook is a valid email address. To connect with coworkers or classmates, use your school or work email address to register. Once you register, join a regional network to connect with the people in your area. ...",
+	"size" : "218"
+},{
+	"name" : "Ysk.gov.tr ",
+	"desc" : " ",
+	"size" : "219"
+},{
+	"name" : "Addthis.com ",
+	"desc" : "Launched in September 2006, AddThis is the #1 bookmarking and sharing button on the Internet. A... MoreddThis has become the standard button for bookmarking and sharing . The AddThis button spreads your content across the Web by making it easier for your visitors to bookmark and share it with other people, again…and again…and again. This simple yet powerful button is very easy to install and provides valuable Analytics about the bookmarking and sharing activity of your users. ...",
+	"size" : "220"
+},{
+	"name" : "Araskargo.com.tr ",
+	"desc" : "Genel kargo hizmetleri; sitede kargo takip servisi de yer almaktadır.",
+	"size" : "221"
+},{
+	"name" : "Winfxstrategy.com ",
+	"desc" : " ",
+	"size" : "222"
+},{
+	"name" : "Domaintools.com ",
+	"desc" : "Domain name search tool allows wildcard search of current and deleted/expired whois domains.",
+	"size" : "223"
+},{
+	"name" : "Adf.ly ",
+	"desc" : "Shorten your links and earn money for each visitor! Works great on blogs, forums, Twitter, Face... Morebook",
+	"size" : "224"
+},{
+	"name" : "Ulusalpost.com ",
+	"desc" : " ",
+	"size" : "225"
+},{
+	"name" : "Vakifbank.com.tr ",
+	"desc" : "1954 yılında kurulan banka, özellikle bireysel kredi, ticari kredi, ve yatırım bankacılığı alan... Morelarında çalışmaktadır.",
+	"size" : "226"
+},{
+	"name" : "Kliksa.com ",
+	"desc" : " ",
+	"size" : "227"
+},{
+	"name" : "Bimeks.com.tr ",
+	"desc" : "Masaüstü bilgisayar, notebook, avuçiçi bilgisayar, yazıcılar ve yazılım satış hizmetleri.... More",
+	"size" : "228"
+},{
+	"name" : "Atv.com.tr ",
+	"desc" : "Turkuvaz Media Digital Tarafından Hazırlanan site, ATV de yayınlanan çeşitli programların tanıt... Moreımları ve yayın akışı bilgileri ile birlikte yayını canlı olarak internetten izleme olanağı sunuyor.",
+	"size" : "229"
+},{
+	"name" : "Limango.com.tr ",
+	"desc" : "limango üst düzey markaları avantajlı fiyatlar ile yalnızca üyelerine sunan, kapalı devre alışv... Moreeriş sistemidir. limango, tekstil ürünleri ağırlıklı olmak üzere, aksesuar, ev eşyası ve ihtiyaç duyulabilecek her türlü ürün çeşitliliğine sahip 'Private Shopping' konseptini tüketici ile buluşturmaktadır. limango bir Otto Group şirketidir.",
+	"size" : "230"
+},{
+	"name" : "Trthaber.com ",
+	"desc" : "Yayınlanan güncel haberler ve canlı yayın izleme imkanı ile fotoğraf ve video galerileri bulunu... Moreyor.",
+	"size" : "231"
+},{
+	"name" : "Mediamarkt.com.tr ",
+	"desc" : " ",
+	"size" : "232"
+},{
+	"name" : "Chp.org.tr ",
+	"desc" : "Kurumsal kimliği, üyeleri ve parti politikaları hakkında bilgiler; TBMM konuşmaları, raporlar, ... Moreanketler, haberler ve duyurular yer alıyor.",
+	"size" : "233"
+},{
+	"name" : "Twimg.com ",
+	"desc" : " ",
+	"size" : "234"
+},{
+	"name" : "Neobux.com ",
+	"desc" : "NeoBux excels in providing new business solutions as a Paid-to-Click service where users can mu... Moreltiply their earnings just by viewing advertisements. Advertisers benefit from the best quality/price ratio and the years of experience NeoBux has so that they can convert their advertising campaigns into successful ones.",
+	"size" : "235"
+},{
+	"name" : "Ptt.gov.tr ",
+	"desc" : " ",
+	"size" : "236"
+},{
+	"name" : "Whois.com.tr ",
+	"desc" : "Domain name and IP Availability, whois and extended whois, for all domains",
+	"size" : "237"
+},{
+	"name" : "Imageshack.us ",
+	"desc" : "ImageShack® is a free image hosting solution. It can be used to share pictures with friends, as... More well as post images on message boards and blogs. It can also be used to direct link images from your personal website or online auction. And best of all, it's completely free.",
+	"size" : "238"
+},{
+	"name" : "Seohocasi.com ",
+	"desc" : "SEO hakkında bilgiler veren makale ve dersler içeren güncel seo blogu.",
+	"size" : "239"
+},{
+	"name" : "Tubiba.com ",
+	"desc" : "Firmalar, devlet kurumları, eğitim kurumları vb. mekanlar ile ilgili bilgiler içeren geniş kaps... Moreamlı bir Türkiye rehberi sitesi.",
+	"size" : "240"
+},{
+	"name" : "Letitbit.net ",
+	"desc" : "LetItBit.net это совершенно бесплатный интернет хостинг. ...",
+	"size" : "241"
+},{
+	"name" : "Turkslots.com ",
+	"desc" : " ",
+	"size" : "242"
+},{
+	"name" : "Zamunda.net ",
+	"desc" : " ",
+	"size" : "243"
+},{
+	"name" : "Gercekgundem.com ",
+	"desc" : " ",
+	"size" : "244"
+},{
+	"name" : "Canliskor.com ",
+	"desc" : "Ayrıntılı puan durumlarına ve turnuva eşleşmelerine, canlı maç merkezine ve oran karşılaştırmal... Morearına yer veren Türkiye pazarındaki en kapsamlı canlı skor hizmeti.",
+	"size" : "245"
+},{
+	"name" : "Secretcv.com ",
+	"desc" : "Çeşitli sektörlerden eleman arama ilanlarının yer aldığı iş arama sitesi.",
+	"size" : "246"
+},{
+	"name" : "Kitapyurdu.com ",
+	"desc" : "Kitapla buluşmanın en kolay yolu",
+	"size" : "247"
+},{
+	"name" : "Pornhub.com ",
+	"desc" : "Please contact dice[/at/]pornhub[/dot/]com for any inquiries.",
+	"size" : "248"
+},{
+	"name" : "Cihan.com.tr ",
+	"desc" : "Global bir Türk ajansının günlük politika, spor ve adli haber özetlerini yayınladığı, abonelik ... Morede gerektiren internet sayfası.",
+	"size" : "249"
+},{
+	"name" : "Sacitaslan.com ",
+	"desc" : "Magazin, Medya, Ünlüler, Cemiyet, Spor, Siyaset... Güncel Haber Portalı",
+	"size" : "250"
+},{
+	"name" : "Yeniakit.com.tr ",
+	"desc" : "İnananların Yüzakı",
+	"size" : "251"
+},{
+	"name" : "Arabam.com ",
+	"desc" : "Otomobil, motosiklet ve motor sporları ile ilgili haberler; araç testleri, danışman bölümü ve i... Morekinci el ilanları yer alıyor.",
+	"size" : "252"
+},{
+	"name" : "Media.tumblr.com ",
+	"desc" : " ",
+	"size" : "253"
+},{
+	"name" : "Beyazgazete.com ",
+	"desc" : "Türkiye'nin en büyük ve en geniş haber portalı. Siyaset, ekonomi, spor haberleri ve güncel habe... Morerler yer alıyor.",
+	"size" : "254"
+},{
+	"name" : "Clkmon.com ",
+	"desc" : "RevenueHits is an international Ad network providing Internet publishers with profitable traffi... Morec monetization solutions and brand advertisers with premium audience reach. You can increase your ad revenues today by monetizing or advertising your website with RevenueHits!",
+	"size" : "255"
+},{
+	"name" : "Codecanyon.net ",
+	"desc" : " ",
+	"size" : "256"
+},{
+	"name" : "Uploaded.net ",
+	"desc" : "No-registration upload of files up to 250MB. Not available in some countries.",
+	"size" : "257"
+},{
+	"name" : "Archive.org ",
+	"desc" : "Nonprofit organisation established to preserve Web sites by taking regular \"snapshots\". The Way... Moreback Machine provides links to older versions of a webpage. There are special collections, for example on Web pioneers.",
+	"size" : "258"
+},{
+	"name" : "Medyanetads.com ",
+	"desc" : " ",
+	"size" : "259"
+},{
+	"name" : "Twitch.tv ",
+	"desc" : "Platform that allows players to livestream their video game play and viewers can chat in real-t... Moreime. Also offers recorded broadcasts. Lists channels by game name and viewer counts.",
+	"size" : "260"
+},{
+	"name" : "Popads.net ",
+	"desc" : " ",
+	"size" : "261"
+},{
+	"name" : "Piramithaber.com ",
+	"desc" : "Türkiye Ve dünya'dan Anlık,Oğlu dakika, Gündem, Ekonomi, Spor, Sağlık, Kültür-Sanat, Yaşam Ve D... Moreaha Birçok Şeyi Bulabileceğiniz Güncel Haber Sitesi....",
+	"size" : "262"
+},{
+	"name" : "Conduit.com ",
+	"desc" : "Free customizable toolbar to stay connected to users even when they are surfing other websites.",
+	"size" : "263"
+},{
+	"name" : "Hurriyettv.com ",
+	"desc" : " ",
+	"size" : "264"
+},{
+	"name" : "Denizbank.com ",
+	"desc" : "Bireysel Bankacilik, Kurumsal Bankacilik, Ticari Bankacılık alanında hizmet veren Türkiyenin 6.... More en büyük özel bankası.",
+	"size" : "265"
+},{
+	"name" : "Medya365.com ",
+	"desc" : "Türkiye ve Dünya'dan güncel haberler ve son dakika haber",
+	"size" : "266"
+},{
+	"name" : "Istanbulbilisim.com.tr ",
+	"desc" : "Cep Telefonu, Notebook, Tablet PC, LED TV, Beyaz Eşya ve Küçük Ev aletleri gibi bir çok ürün İs... Moretanbul Bilişim'de",
+	"size" : "267"
+},{
+	"name" : "Imgim.com ",
+	"desc" : " ",
+	"size" : "270"
+},{
+	"name" : "Ibb.gov.tr ",
+	"desc" : "Sitede belediye ve hizmetlerinin tanitimi, projeler, yatirimlar,bütçe ile ilgili bilgiler,günce... Morel yerel haberler, kent rehberi, basin bultenleri, ihale ilanlari, sehir tiyatrolari ile ayrıntili bilgi,on-line rezervasyon ve bilet satisi ile sehrin bir cok yerinden alinan canli kamera goruntuleri yer almaktadir.",
+	"size" : "268"
+},{
+	"name" : "Ecift.com ",
+	"desc" : "Ücretsiz olarak üye olunabilinen arkadaş arama servisi.",
+	"size" : "269"
+},{
+	"name" : "Kizlarsoruyor.com ",
+	"desc" : "KizlarSoruyor.com, kadın ve erkeğin bakış açısından hayata dair her soruya cevaplar aranan bir ... Moresosyal paylaşım topluluğudur. 2011'de kurulan site, 2007'de aynı ekibin ABD'de kurduğu GirlsAskGuys.com platformunun Türkçe versiyonudur. Topluluk paylaşıml",
+	"size" : "271"
+},{
+	"name" : "Mediafire.com ",
+	"desc" : "MediaFire is the simplest way for businesses, professionals, and individuals to host files and ... Moreshare them with others.",
+	"size" : "272"
+},{
+	"name" : "Gazeteoku.com ",
+	"desc" : "Türkiye'deki tüm gazeteler ve haber sitelerinin manşet haberlerini, manşet sayfalarına GazeteOk... Moreu.com'dan ulaşabilirsiniz.",
+	"size" : "273"
+},{
+	"name" : "Inciswf.com ",
+	"desc" : " ",
+	"size" : "274"
+},{
+	"name" : "Tff.org ",
+	"desc" : "Federasyon ve başkan bilgileri, faaliyetler, haberler ve futbol istatistik arşivi içermekte.",
+	"size" : "275"
+},{
+	"name" : "W3schools.com ",
+	"desc" : " ",
+	"size" : "276"
+},{
+	"name" : "Millipiyango.gov.tr ",
+	"desc" : "İdarenin tarihçesi ve yapısı, çeşitli şans oyunları ile ilgili bilgiler ve çekiliş sonuçları ye... Morer almaktadır.",
+	"size" : "277"
+},{
+	"name" : "E-destek.com ",
+	"desc" : " ",
+	"size" : "278"
+},{
+	"name" : "Mgm.gov.tr ",
+	"desc" : " ",
+	"size" : "279"
+},{
+	"name" : "Dr.com.tr ",
+	"desc" : "Kitaptan müziğe, filmden elektroniğe, oyundan hobiye, hediyelik eşyadan kırtasiyeye, geniş ürün... More seçenekleri sunan D&R, toplumu kitap okumaya, müzik dinlemeye, film izlemeye özendirerek üstlendiği sosyal sorumluluk görevini de yerine getiriyor. D&R, eğlenc",
+	"size" : "280"
+},{
+	"name" : "Youtube-mp3.org ",
+	"desc" : " ",
+	"size" : "281"
+},{
+	"name" : "Hastanerandevu.gov.tr ",
+	"desc" : " ",
+	"size" : "282"
+},{
+	"name" : "Sol.org.tr ",
+	"desc" : "Türkiye ve Dünya'daki gelişmelere soL'dan bakın",
+	"size" : "283"
+},{
+	"name" : "Teb.com.tr ",
+	"desc" : "2005 yılında BNP Paribas ile ortak olan TEB 1927 yılında kurulmuş olup, bireysel, işletme, tica... Moreri, kurumsal ve özel bankacılık alanlarında faaliyet göstermektedir.",
+	"size" : "284"
+},{
+	"name" : "Nefisyemektarifleri.com ",
+	"desc" : "Çeşitli pratik yemek tariflerinin yer aldığı web günlüğü.",
+	"size" : "285"
+},{
+	"name" : "Gib.gov.tr ",
+	"desc" : " ",
+	"size" : "286"
+},{
+	"name" : "Gemius.com.tr ",
+	"desc" : " ",
+	"size" : "287"
+},{
+	"name" : "Turktelekom.com.tr ",
+	"desc" : "Türkiye'nin tek sabit telefon operatörü olarak hizmet veren kurumun sitesinde tarife ve servis ... Morebilgileri yer alıyor.",
+	"size" : "288"
+},{
+	"name" : "Files.wordpress.com ",
+	"desc" : " ",
+	"size" : "289"
+},{
+	"name" : "Mozilla.org ",
+	"desc" : "Official website with information and downloads.",
+	"size" : "290"
+},{
+	"name" : "Firmasec.com ",
+	"desc" : " ",
+	"size" : "291"
+},{
+	"name" : "Prntscr.com ",
+	"desc" : " ",
+	"size" : "292"
+},{
+	"name" : "Canadaalltax.com ",
+	"desc" : " ",
+	"size" : "293"
+},{
+	"name" : "Casualclub.com ",
+	"desc" : " ",
+	"size" : "294"
+},{
+	"name" : "Wikimedia.org ",
+	"desc" : " ",
+	"size" : "295"
+},{
+	"name" : "Idefix.com ",
+	"desc" : "Kitap, Müzik ve DVD ürünlerini en uygun fiyatlarla bulmak, çok satan kitaplara ulaşmak, indirim... Moreli kitapları satın almak için en doğru adres",
+	"size" : "296"
+},{
+	"name" : "Github.com ",
+	"desc" : "GitHub is the best place to share code with friends, co-workers, classmates, and complete stran... Moregers. Over four million people use GitHub to build amazing things together.",
+	"size" : "297"
+},{
+	"name" : "Livejasmin.com ",
+	"desc" : "The World's #1 Most Visited Video Chat Community.",
+	"size" : "298"
+},{
+	"name" : "Shutterstock.com ",
+	"desc" : "Royalty-free photography for web or print, subscription model.",
+	"size" : "299"
+},{
+	"name" : "Vidivodo.com ",
+	"desc" : "Vidivodo is the leading video sharing and broadcasting website that has stunning features like ... Morevideo mix, direct webcam recording, partner powered channels. Vidivodo aims to reach broader scale of users and provide TV like experience to its subscribers. Stay tuned for the new era of advanced technology Internet video! The company is privately held with funding from Itamae Interactive Technologies and strategically partnered with Punto Yeni Medya Yatirimlari A.S.",
+	"size" : "300"
+},{
+	"name" : "Zaytung.com ",
+	"desc" : "turkish satire news website.",
+	"size" : "301"
+},{
+	"name" : "Ttnetmuzik.com.tr ",
+	"desc" : "TTNET ADSL abonelerinin ücretsiz olarak Türkçe müzik eserlerini indirebileceği ve çevrimiçi din... Moreleyebileceği portal.",
+	"size" : "302"
+},{
+	"name" : "Sourceforge.net ",
+	"desc" : "Resources for open-source developers and a directory of in-development open-source software.",
+	"size" : "303"
+},{
+	"name" : "Emlakkulisi.com ",
+	"desc" : "Emlak ve gayrimenkul sektöründen gazeteci ve yazarların sektör ile ilgili güncel haberlerinin y... Moreayınlandığı ve sit editörlerinden yardım alınabiliniyor.",
+	"size" : "304"
+},{
+	"name" : "Forumdas.net ",
+	"desc" : "Türkiyenin genel içerikli en güncel forumu www.forumdas.net",
+	"size" : "305"
+},{
+	"name" : "Samsung.com ",
+	"desc" : "Manufactures TVs, digital cameras, DVDs, VCRs and audio systems.",
+	"size" : "306"
+},{
+	"name" : "Ziraat.com.tr ",
+	"desc" : " ",
+	"size" : "307"
+},{
+	"name" : "Seslisozluk.net ",
+	"desc" : "Turkish-English, English-Turkish options. 120,000 words with Hear Word option. Detailed explana... Moretion of both English and Turkish meanings with usage examples.",
+	"size" : "308"
+},{
+	"name" : "Netd.com ",
+	"desc" : " ",
+	"size" : "309"
+},{
+	"name" : "Flickr.com ",
+	"desc" : "Picture galleries available with chat, groups, and photo ratings.",
+	"size" : "310"
+},{
+	"name" : "Nedir.com ",
+	"desc" : " ",
+	"size" : "311"
+},{
+	"name" : "Cnet.com ",
+	"desc" : "Reviews, news, and prices on tech products, as well as free downloads and newsletters.",
+	"size" : "312"
+},{
+	"name" : "Onlinewebstats.com ",
+	"desc" : " ",
+	"size" : "313"
+},{
+	"name" : "Diyanet.gov.tr ",
+	"desc" : "A public institution in the general administration of the secular state, responsible for the pr... Moreactice of Islam and administration of places of worship. Includes a FAQ, collection of legal opinions, publications, and information about their role and activities. [Multilingual]",
+	"size" : "314"
+},{
+	"name" : "Bbc.co.uk ",
+	"desc" : "The BBC Homepage - Your gateway to BBC Online",
+	"size" : "315"
+},{
+	"name" : "Hidemyass.com ",
+	"desc" : "Free web proxy, VPN service, and privacy tools.",
+	"size" : "316"
+},{
+	"name" : "Ihs.com.tr ",
+	"desc" : "ICANN akredite online alan adı kayıt servisi.",
+	"size" : "317"
+},{
+	"name" : "Reddit.com ",
+	"desc" : "User-generated news links. Votes promote stories to the front page.",
+	"size" : "318"
+},{
+	"name" : "Tahribat.com ",
+	"desc" : "Türkiye'nin, yazılım ve internet güvenliği başta olmak üzere bilişim alanında hizmet veren en b... Moreüyük portallarından birisi. Sitenin Forum, Döküman ve Haber bölümleri, Bilişim Terimleri Sözlüğü gibi bölümleride bulunmakta.",
+	"size" : "319"
+},{
+	"name" : "Soundcloud.com ",
+	"desc" : "An audio platform that enables sound creators to upload, record, promote and share their origin... Moreally-created sounds",
+	"size" : "320"
+},{
+	"name" : "Haberartibir.com.tr ",
+	"desc" : " ",
+	"size" : "321"
+},{
+	"name" : "Iddaa.com ",
+	"desc" : "İddaa oyunun resmi sitesi. Nasıl oynandığına dair bilgiler, maç sonuçları ve spor haberleri yer... More alıyor.",
+	"size" : "322"
+},{
+	"name" : "Hdfilmsitesi.org ",
+	"desc" : " ",
+	"size" : "323"
+},{
+	"name" : "Dizist.com ",
+	"desc" : " ",
+	"size" : "324"
+},{
+	"name" : "Haberand.com ",
+	"desc" : "Haber için doğru adres. En güncel haber. Türkiye'den ve dünyadan doğru, dürüst haberler sunar... More",
+	"size" : "325"
+},{
+	"name" : "Torrentz.eu ",
+	"desc" : " ",
+	"size" : "326"
+},{
+	"name" : "Timeturk.com ",
+	"desc" : "Türkiye'nin Çok Dilli Uluslararası Haber Portalı",
+	"size" : "327"
+},{
+	"name" : "Ingilizceturkce.gen.tr ",
+	"desc" : "İngilizce Türkçe Çeviri, Türkçe İngilizce Çeviri, Türkçe İngilizce Cümle Çeviri, Tercüme, İngil... Moreizce Sözlük, Hemen Çeviri, İngilizce Dersleri",
+	"size" : "328"
+},{
+	"name" : "Fullprogramlarindir.com ",
+	"desc" : "Full Program İndir (Tamsürüm) full programlar indir Ücretsiz Güncel Full Program arşivi Film in... Moredir Apk Android Tam oyun indir yandex Tek link hızlı indir full programlar",
+	"size" : "329"
+},{
+	"name" : "Biletix.com ",
+	"desc" : "Online spor, konser, sanat etkinliği ve sinema bileti satış sistemi.",
+	"size" : "330"
+},{
+	"name" : "Leagueoflegends.com ",
+	"desc" : "Official site. Features, media, screenshots, FAQs, and forums.",
+	"size" : "331"
+},{
+	"name" : "Ntv.com.tr ",
+	"desc" : " ",
+	"size" : "332"
+},{
+	"name" : "Railnation.com.tr ",
+	"desc" : " ",
+	"size" : "333"
+},{
+	"name" : "Eurosport.com ",
+	"desc" : "Latest news from worldwide sport events.",
+	"size" : "334"
+},{
+	"name" : "Milliyetemlak.com ",
+	"desc" : "Sahibinden veya emlakçılardan satılık ve kiralık emlak ilanları ücretsiz olarak yayınlanıyor.... More",
+	"size" : "335"
+},{
+	"name" : "Maxicep.com ",
+	"desc" : "Güncel teknoloji haberleri, cep telefonu içerikleri, destek forumları ve genel forum alanı bulu... Morenmaktadır..",
+	"size" : "336"
+},{
+	"name" : "Nedirnedemek.com ",
+	"desc" : "\"Nedir\"li ve \"ne demek\"li sorulara cevap verebilen çevrimiçi bir sözlük.",
+	"size" : "337"
+},{
+	"name" : "Bkm.com.tr ",
+	"desc" : " ",
+	"size" : "338"
+},{
+	"name" : "Fotospor.com ",
+	"desc" : "Türkiye ve Dünyadan futbol haberleri, eleştirmen makaleleri ve spor magazin bölümü yer alıyor.... More",
+	"size" : "339"
+},{
+	"name" : "Technopat.net ",
+	"desc" : "Teknoloji tutkunu Technopatların ortak adresi: Technopat.net! Güncel teknoloji, internet, donan... Moreım, yazılım, oyun ve daha fazlası haberlerle, pratik bilgiler ve rehberler ile Technopat'ta...",
+	"size" : "340"
+},{
+	"name" : "Ddizi.org ",
+	"desc" : " ",
+	"size" : "341"
+},{
+	"name" : "Ytpara.com ",
+	"desc" : "Youtube Kazanc Destek Forumu",
+	"size" : "342"
+},{
+	"name" : "Yeppudaa.com ",
+	"desc" : "Uzak Doğu Kültür Sinema Dizi ve Arkadaşlık Sitesi",
+	"size" : "343"
+},{
+	"name" : "Fox.com.tr ",
+	"desc" : "Kanalın yayın akışı ve programları hakkında bilgiler.",
+	"size" : "344"
+},{
+	"name" : "Skype.com ",
+	"desc" : "Peer to peer internet voice service. Mac, Windows and Linux versions available. Users may call ... Morelandlines and cellphones for a fee; users may call each other for free.",
+	"size" : "345"
+},{
+	"name" : "Trt.net.tr ",
+	"desc" : "Türkiye Radyo ve Televizyon kurumu resmi sitesi yayın akışı bilgileri, haberler ve canlı yayın ... Morebölümü içermekte.",
+	"size" : "346"
+},{
+	"name" : "Pencere.com ",
+	"desc" : " ",
+	"size" : "347"
+},{
+	"name" : "Who.is ",
+	"desc" : "Give Us Feedback - bluerider.com , tld info , Domain Registration ©2005-2008 Who.is",
+	"size" : "348"
+},{
+	"name" : "Analizmerkezi.com ",
+	"desc" : "Cesur Habere Bağımsız Analiz",
+	"size" : "349"
+},{
+	"name" : "Enpara.com ",
+	"desc" : " ",
+	"size" : "350"
+},{
+	"name" : "4dsply.com ",
+	"desc" : " ",
+	"size" : "351"
+},{
+	"name" : "Kuveytturk.com.tr ",
+	"desc" : "Bireysel, kurumsal ve uluslararası bankacılık hizmetleri sunan bankanın sitesinde; kurumsal bil... Moregiler, şubeler ve internet bankacılığı hizmetlerine erişebilirsiniz.",
+	"size" : "352"
+},{
+	"name" : "Fizy.com ",
+	"desc" : "music search engine and internet jukebox.",
+	"size" : "353"
+},{
+	"name" : "Tuttur.com ",
+	"desc" : "Spor Toto ve İddaa yasal bayisi olan site aracılığı ile şans oyunları oynanabilir.",
+	"size" : "354"
+},{
+	"name" : "Dropbox.com ",
+	"desc" : "Store, synchronize and share files online with public access. Free version offers up to 16 GB. ... MoreProvides a desktop client for Windows, Mac, and Linux, and has apps for iPhone, iPad, Android, and BlackBerry.",
+	"size" : "355"
+},{
+	"name" : "Torrent-oyun.com ",
+	"desc" : "Son sürat ve güvenli bir şekilde 'Zamunda' serverları aracılığıyla oyun indirin!",
+	"size" : "356"
+},{
+	"name" : "Araba.com ",
+	"desc" : "Otomobil markalarının alımına ve satışına yönelik ücretsiz ilan sitesi..",
+	"size" : "357"
+},{
+	"name" : "Zizigo.com ",
+	"desc" : "Çeşitli marka ayakkabı, bot, çizme ve terlik ürünlerinin satışı yapılmaktadır.",
+	"size" : "358"
+},{
+	"name" : "Egitimhane.com ",
+	"desc" : "Eğitim ve öğretimle ilgilenenler için eğitim kaynakları, planlar, programlar, tartışma forumu. ... MoreBirleştirilmiş sınıflı köy okulu öğretmenleri yardımlaşma sitesi.",
+	"size" : "359"
+},{
+	"name" : "Unutulmazfilmler.com ",
+	"desc" : "Yıllar geçse bile izledikten sonraki etkisi hala süren o unutulmaz filmlerini sizler için derle... Moredik.",
+	"size" : "360"
+},{
+	"name" : "Dmoz.org ",
+	"desc" : "Searchable people-reviewed web directory categorized by language, subject and location. Edited ... Moreand run by volunteers, supported by AOL. Content available in over 85 languages.",
+	"size" : "361"
+},{
+	"name" : "Komikcaps.net ",
+	"desc" : " ",
+	"size" : "362"
+},{
+	"name" : "Sozlukspot.com ",
+	"desc" : " ",
+	"size" : "363"
+},{
+	"name" : "Zopim.com ",
+	"desc" : " ",
+	"size" : "364"
+},{
+	"name" : "Zippyshare.com ",
+	"desc" : " ",
+	"size" : "365"
+},{
+	"name" : "Haber1903.com ",
+	"desc" : "Dünyanın en çok ziyaret edilen Beşiktaş sitesi. Beşiktaş ile ilgili güncel haberler, özel röpor... Moretajlar ve transfer haberleri.",
+	"size" : "366"
+},{
+	"name" : "Amazonaws.com ",
+	"desc" : " ",
+	"size" : "367"
+},{
+	"name" : "Sadecehosting.net ",
+	"desc" : " ",
+	"size" : "368"
+},{
+	"name" : "M2newmedia.com ",
+	"desc" : " ",
+	"size" : "369"
+},{
+	"name" : "Reklamstore.com ",
+	"desc" : "Web sitesi sahipleri ve reklam verenler için çevrimiçi reklam çözümleri sunan sistem.",
+	"size" : "370"
+},{
+	"name" : "Evidea.com ",
+	"desc" : "Ev dekorasyonu ve banyo dolapları, evinizi baştan yaratmanın adresi.",
+	"size" : "371"
+},{
+	"name" : "Tjk.org ",
+	"desc" : "Türkiye Jokey Kulübü Tarım Bakanlığı ndan aldığı yetki ile Türkiye de at yarışları ve müşterek ... Morebahis düzenlemeye tek yetkili kuruluştur. Resmi yarış programlarına, yarış sonuçlarına, istatistiklere, yarış dünyası ile ilgili güncel haberlere, duyurulara en hızlı ve doğru olarak bu siteden erişebilrsiniz.",
+	"size" : "372"
+},{
+	"name" : "Kure.tv ",
+	"desc" : "Şefkat Tepe, Küçük Gelin, Oktay Usta, Ayna, Caillou, İki Dünya Arasında, Nizama Adanmış Ruhlar,... More Küçük Kıyamet, Hıyanet Sarmalı, Osmanlı'da Derin Devlet, Zengin Kız Fakir Oğlan, Seksenler, Böyle Bitmesin, Avrupa Avrupa, Pepee, Pepe, Osmanlı Tokadı, Eski Hikaye",
+	"size" : "373"
+},{
+	"name" : "Zargan.com ",
+	"desc" : "Ücretsiz Ingilizce Türkçe ve Türkçe Ingilizce sözlük.",
+	"size" : "374"
+},{
+	"name" : "Hsbc.com.tr ",
+	"desc" : "Bireysel ve kurumsal bankacılık, online servisler.",
+	"size" : "375"
+},{
+	"name" : "Imperiaonline.org ",
+	"desc" : "A medieval-based theme. Provides screen shots, game information, registration, and a forum.",
+	"size" : "376"
+},{
+	"name" : "Adhood.com ",
+	"desc" : "Türkiye'nin En Farklı Reklam Platformu! Reklamverenler ve yayıncılar arasında köprü vazifesi gö... Moreren reklam sistemi. Ajanslar, Reklamverenler, Yayıncılar, Webmasterlar ve Networkler için çözümler sunar, ileri düzey Adserver çözümleri için ücretsiz adhood ®",
+	"size" : "377"
+},{
+	"name" : "Wix.com ",
+	"desc" : "We empower people like you to create your own online presence for free and exactly the way you ... Morewant. Create your own original website that reflects you or your brand and get online today. We keep complex techy processes behind the curtain and guarantee that your experience is simple, fun and code-free. Wix has something for everyone, so whether you’re a photographer, musician, small business owner, entrepreneur, bride or student, we provide all the tools and features you need to build an amazing online presence for FREE.",
+	"size" : "378"
+},{
+	"name" : "Hocy.net ",
+	"desc" : " ",
+	"size" : "379"
+},{
+	"name" : "Ceviz.net ",
+	"desc" : "Bilişim teknolojileri ile ilgili makaleler, haberler ve forum barındıran site.",
+	"size" : "380"
+},{
+	"name" : "Etstur.com ",
+	"desc" : "Yurt içi ve yurt dışı turları, uçak bileti ve araç kiralama hizmetleri sunuluyor.",
+	"size" : "381"
+},{
+	"name" : "Enuygun.com ",
+	"desc" : "Enuygun.com is the leading service comparison site in Turkey.",
+	"size" : "382"
+},{
+	"name" : "Taraf.com.tr ",
+	"desc" : "Politika ağırlıklı günlük gazetenin haberlerinden bir derleme ve köşe yazılarını içeren İnterne... Moret basımı.",
+	"size" : "383"
+},{
+	"name" : "Xvideos.com ",
+	"desc" : " ",
+	"size" : "384"
+},{
+	"name" : "Teknokulis.com ",
+	"desc" : "Bilgisayar üzerine haberler, donanım incelemeleri ve özel dosya konuları ile ilgili gelişmelere... More yer veriliyor.",
+	"size" : "385"
+},{
+	"name" : "Mahmure.com ",
+	"desc" : "Güzellik, moda, cinsellik ve sağlık konularının işlendiği kadın sitesi.",
+	"size" : "386"
+},{
+	"name" : "Bankasya.com.tr ",
+	"desc" : "Katılım bankası; mali bilgiler ve dış işlemler, bireysel ve kurumsal bankacılık hizmetleri, şub... Moreeler ve muhabir bankalar, internet şubesi.",
+	"size" : "387"
+},{
+	"name" : "Alternatifim.com ",
+	"desc" : "Your+searchable+lyrics+music+community+with+hottest+Turkish+and+foreign+artists.",
+	"size" : "388"
+},{
+	"name" : "Tdk.gov.tr ",
+	"desc" : "Kurumla ilgili bilgiler ve haberlerin yanı sıra Güncel Türk Sözlük'ü, Yazım Kılavuzu'nu ve çeşi... Moretli terim sözlüklerini bünyesinde barındırıyor.",
+	"size" : "389"
+},{
+	"name" : "1v1y.com ",
+	"desc" : " ",
+	"size" : "390"
+},{
+	"name" : "Avg.com ",
+	"desc" : "Antivirus and security software products for home and business users. Free trial downloads. Vir... Moreus and malware protection with firewall, anti-spyware, identity protection modules.",
+	"size" : "391"
+},{
+	"name" : "Turkhackteam.net ",
+	"desc" : "Hack ve Güvenlik Ağırlıklı Olmak Üzere Her Konudan İçerik Bulabileceğiniz Platform",
+	"size" : "392"
+},{
+	"name" : "Bursadabugun.com ",
+	"desc" : "Bursa haberleri, Bursaspor haberleri, güncel haberler, ekonomi haberleri, dünya haberleri, sağl... Moreık haberleri, rüya tabirleri, sinemalar, diziler ve daha bir çok şey Bursa'nın haber portalında...",
+	"size" : "393"
+},{
+	"name" : "Oasgames.com ",
+	"desc" : " ",
+	"size" : "394"
+},{
+	"name" : "Islenogren.com ",
+	"desc" : " ",
+	"size" : "395"
+},{
+	"name" : "Niaporn.com ",
+	"desc" : " ",
+	"size" : "396"
+},{
+	"name" : "Filmiizle.tv ",
+	"desc" : " ",
+	"size" : "397"
+},{
+	"name" : "Wowturkey.com ",
+	"desc" : "En geniş Türkiye fotoğrafları arşivi. Onbinlerce üye, onbinlerce Türkiye fotoğrafı.",
+	"size" : "398"
+},{
+	"name" : "Ellerimesaglik.com ",
+	"desc" : "Bu sayfada yayınlanan tarifleri denedikten sonra \"ELLERİME SAĞLIK\" demeden duramayacaksınız.",
+	"size" : "399"
+},{
+	"name" : "Galatasaray.org ",
+	"desc" : "Galatasaray SK Resmi Internet Sitesi - Galatasaray SC Official Web Site",
+	"size" : "400"
+},{
+	"name" : "Fullhdfilmsaati.net ",
+	"desc" : " ",
+	"size" : "401"
+},{
+	"name" : "Turkanime.tv ",
+	"desc" : "Türkçe Dublaj / Altyazılı Anime izleme Portalı",
+	"size" : "402"
+},{
+	"name" : "Yac.mx ",
+	"desc" : "Windows compatible system cleaner utility that also has a virus and malware scanner function.",
+	"size" : "403"
+},{
+	"name" : "Dmi.gov.tr ",
+	"desc" : "Features detailed statistics and weather predictions of Turkey as well as Europe, The Balkans, ... MoreCentral Asia.",
+	"size" : "404"
+},{
+	"name" : "Gazetea24.com ",
+	"desc" : "Güncel haberlerin ve videoların bulunduğu gazete sitesi.",
+	"size" : "405"
+},{
+	"name" : "Hizliizlefilm.com ",
+	"desc" : "Hızlı izle Film online full film seyretme platformumuzda, en yeni filmlerin, görüntü kalite far... Morekını bizimle yaşayın",
+	"size" : "406"
+},{
+	"name" : "Wetransfer.com ",
+	"desc" : "The easy way to send big files",
+	"size" : "407"
+},{
+	"name" : "Lcwaikiki.com ",
+	"desc" : "LC Waikiki mağazası. Sanal tur ve giysi koleksiyonu.",
+	"size" : "408"
+},{
+	"name" : "Vine.tc ",
+	"desc" : " ",
+	"size" : "409"
+},{
+	"name" : "Badoo.com ",
+	"desc" : "Badoo is a worldwide socializing system that provides its members with the ability to meet new ... Morepeople and friends in and around their local area. It includes many great social network fundamentals, but really focuses on giving users the games and tools to gain attention and expand their social circles.",
+	"size" : "410"
+},{
+	"name" : "Php.net ",
+	"desc" : "Server-side HTML embedded scripting language. It provides web developers with a full suite of t... Moreools for building dynamic websites: native APIs to Apache and other web servers; easy access to MySQL, Sybase, Oracle, and other databases; IMAP; LDAP; HTTP headers and cookies.",
+	"size" : "411"
+},{
+	"name" : "Trendwp.com ",
+	"desc" : "Ücretli ve ücretsiz kategoride listelenen premium wordpress temaları.",
+	"size" : "412"
+},{
+	"name" : "9gag.com ",
+	"desc" : "User generated funny pictures and videos with commenting and ratings. Content can be sorted acc... Moreording to popularity.",
+	"size" : "413"
+},{
+	"name" : "Muhalifbaski.com ",
+	"desc" : " ",
+	"size" : "414"
+},{
+	"name" : "Zapkolik.com ",
+	"desc" : "Zapkolik'te internetteki tüm videoları izleyin, eglenin, yeni video yükleyin, sevdiklerinizle p... Moreaylasin !",
+	"size" : "415"
+},{
+	"name" : "Cimri.com ",
+	"desc" : "Ürünlerin teknik özellikleri ve fiyatları ile karşılaştırılabileceği alışveriş rehberi.... More",
+	"size" : "416"
+},{
+	"name" : "Stumbleupon.com ",
+	"desc" : "A web browser plugin that allows users to discover and rate webpages, photos, videos, and news ... Morearticles.",
+	"size" : "417"
+},{
+	"name" : "Sehirfirsati.com ",
+	"desc" : " ",
+	"size" : "418"
+},{
+	"name" : "Google.de ",
+	"desc" : "Suche im gesamten Web, in deutschsprachigen sowie in deutschen Sites. Zusätzlich kann gezielt n... Moreach Bildern, Videos und News gesucht werden.",
+	"size" : "419"
+},{
+	"name" : "Teknolojioku.com ",
+	"desc" : "Güncel teknoloji haberleri, makaleler ve forum tartışma alanlarını bulabileceğiniz haber sitesi... More.",
+	"size" : "420"
+},{
+	"name" : "Searchandseek.com ",
+	"desc" : " ",
+	"size" : "421"
+},{
+	"name" : "Akilli.tv ",
+	"desc" : "Kanalın yayınladığı videoların izlenebildiği ve video paylaşım imkanı bulunan web sitesi.... More",
+	"size" : "422"
+},{
+	"name" : "Stardoll.com ",
+	"desc" : "Online fashion & dress-up community for girls of all ages from around the world.",
+	"size" : "423"
+},{
+	"name" : "Diziwu.com ",
+	"desc" : " ",
+	"size" : "424"
+},{
+	"name" : "Hurriyetaile.com ",
+	"desc" : " ",
+	"size" : "425"
+},{
+	"name" : "Ixxx.com ",
+	"desc" : "free porn movies, amateur porn, hardcore porn, streaming videos, amateur sex movies, free porn ... Morevideos, sex, xxx, porn, anal, erotic, erotica, erotique, milf, teens, adult films, live sexcams, sex chat, streaming, nude, nudes, gay porn, lesbian, asian sex, naked, girls, teens, porno, free porn, porn tube, porn videos, stream porn, free streaming porn, full sex videos, sex videos, sex tube,",
+	"size" : "426"
+},{
+	"name" : "Superfb.com ",
+	"desc" : "Takım hakkında güncel haberler ve yazarlar yer almaktadır.",
+	"size" : "427"
+},{
+	"name" : "Oyunkolu.com ",
+	"desc" : "Her yaştan insanın oyun oynayabileceği flash oyun sitesi. Kategorilere ayrılmış oyunlar sizleri... More bekliyor, en yeni oyunlar.",
+	"size" : "428"
+},{
+	"name" : "Lidyana.com ",
+	"desc" : "Takı ve aksesuar markalarının ürünleri satılıyor.",
+	"size" : "429"
+},{
+	"name" : "Sweet-page.com ",
+	"desc" : " ",
+	"size" : "430"
+},{
+	"name" : "Slideshare.net ",
+	"desc" : "SlideShare is the world's largest community for sharing presentations. With 50 million monthly ... Morevisitors and 90 million pageviews, it is amongst the most visited 250 websites in the world. Besides presentations, SlideShare also supports documents, PDFs, videos and webinars.",
+	"size" : "431"
+},{
+	"name" : "Goo.gl ",
+	"desc" : " ",
+	"size" : "432"
+},{
+	"name" : "59saniye.com ",
+	"desc" : " ",
+	"size" : "433"
+},{
+	"name" : "Showtvnet.com ",
+	"desc" : "Site televizyon programlarıyla ilgili bilgilerle birlikte güncel haberler ve haberlerden online... More video görüntüler sunmakta.",
+	"size" : "434"
+},{
+	"name" : "E-bebek.com ",
+	"desc" : "Anne ilgisi, uzman bilgisi",
+	"size" : "435"
+},{
+	"name" : "Turhost.com ",
+	"desc" : "Linux ve Windows tabanlı barındırma çözümleri sunuyor.",
+	"size" : "436"
+},{
+	"name" : "Tcmb.gov.tr ",
+	"desc" : "Features economical and financial data as well as numerous publications and discussion papers o... Moren the Turkish economy.",
+	"size" : "437"
+},{
+	"name" : "Mktmobi.com ",
+	"desc" : " ",
+	"size" : "438"
+},{
+	"name" : "Dosya.tc ",
+	"desc" : "250 MB'a kadar dosya yüklemeye imkan tanıyor.",
+	"size" : "439"
+},{
+	"name" : "Sporbahis.com ",
+	"desc" : "Sporbahis.com, İddaa oyunu ile ilgili maç öncesi bilgiler, tahminler sunan, spor gündemini çok ... Moreyakından takip eden, bu gelişmeleri en hızlı ve en önemlisi doğru şekilde kullanıcılarına ulaştırmayı amaçlayan bir web sitesidir",
+	"size" : "440"
+},{
+	"name" : "Yellowpages.com.tr ",
+	"desc" : "Türkiye'nin en güvenilir ve en güncel firma rehberi.",
+	"size" : "441"
+},{
+	"name" : "Bobiler.org ",
+	"desc" : "very good peoples",
+	"size" : "442"
+},{
+	"name" : "Pornopuz.com ",
+	"desc" : " ",
+	"size" : "443"
+},{
+	"name" : "Softonic.com ",
+	"desc" : "Softonic is the first software download site in Europe and the 2nd one worldwide, offering over... More 160.000 freeware and trial version software titles distributed through specific channels especially designed for Windows, Mac, Linux and smart phones.",
+	"size" : "444"
+},{
+	"name" : "Cozumpark.com ",
+	"desc" : "IT sektörüne hizmet veren bir bilgi paylaşım platformudur. En güncel konularda yazılmış Türkçe ... Moremakaleler, dinamik bir forum ve yasal paylaşımlar için bir dosya deposu yer almaktadır.",
+	"size" : "445"
+},{
+	"name" : "Suratkargo.com.tr ",
+	"desc" : "Türkiye ve tüm dünyaya kargo taşımacılığı yapıyor.",
+	"size" : "446"
+},{
+	"name" : "Harika-dizi.net ",
+	"desc" : " ",
+	"size" : "447"
+},{
+	"name" : "Sadecehosting.com ",
+	"desc" : "Türkiye'deki sunucularda ASP, ASPX, .NET, MSSQL, MYSQL, PHP4, PHP5, Windows 2003, Linux barındı... Morerma servisleri bulunuyor.",
+	"size" : "448"
+},{
+	"name" : "Haberinyeri.net ",
+	"desc" : "Güncel haberler...",
+	"size" : "449"
+},{
+	"name" : "Incicaps.com ",
+	"desc" : " ",
+	"size" : "450"
+},{
+	"name" : "Jetfilmizle.com ",
+	"desc" : "Türkiyenin En İyi Online Film izleme Sitesi",
+	"size" : "451"
+},{
+	"name" : "Siterobot.com ",
+	"desc" : "Siterobot the Winnovator is a marketplace for buying and selling websites with escrow service. ... MoreYou can sell website, buy website, buy and sell established websites, domains, startup projects, applications, fan pages, SEO, sponsored posts, E-commerce, web services, webmaster tools etc.",
+	"size" : "452"
+},{
+	"name" : "Wordego.com ",
+	"desc" : "Türkiye'nin Online Reklam Bankası",
+	"size" : "453"
+},{
+	"name" : "Ni.net.tr ",
+	"desc" : " ",
+	"size" : "454"
+},{
+	"name" : "Gazeteler.com ",
+	"desc" : " ",
+	"size" : "455"
+},{
+	"name" : "Modagram.com ",
+	"desc" : "Kadın, erkek ürünleri, üst giyim, dış giyim, ücretsiz kargo ve iletişim bölümleri yer alıyor.... More",
+	"size" : "456"
+},{
+	"name" : "Goal.com ",
+	"desc" : "New media company that provides soccer news and entertainment through its internet and mobile p... Morelatforms. Content is available in more than 15 languages, and attracts fans from over 215 countries.",
+	"size" : "457"
+},{
+	"name" : "Iett.gov.tr ",
+	"desc" : "İstanbul Elektrik Tramvay ve Tünel İşletmeleri'nin etkinlikleri, hizmetleri, yönetimi, ihaleler... More ve yenilikler hakkında bilgi veren resmi sitesi.",
+	"size" : "458"
+},{
+	"name" : "About.com ",
+	"desc" : "Directory featuring links, articles and reviews.",
+	"size" : "459"
+},{
+	"name" : "Diyadinnet.com ",
+	"desc" : "Ağrı, diyadin, doğubayazıt, tutak, hamur, eleşkirt, patnos, taşlıçay, rüya tabirleri, yemek tar... Moreifleri, güzel sözler, msn ifadeleri, güncel, türkçe haberler, faydaları, yararları, bedava site yapımı, yardım konuları, şiirler, resimleri",
+	"size" : "460"
+},{
+	"name" : "Canlitv.com ",
+	"desc" : "Yerli yabancı yüzlerce tv ve radyoya ulaşıp online olarak izleme fırsatı bulabileceğiniz bir si... Morete",
+	"size" : "461"
+},{
+	"name" : "Bloomberght.com ",
+	"desc" : "Yayınlanan çeşitli programların tanıtımları ve yayın akışı bilgilerini içeren ekonomi kanalı.... More",
+	"size" : "462"
+},{
+	"name" : "Github.io ",
+	"desc" : " ",
+	"size" : "463"
+},{
+	"name" : "Plugrush.com ",
+	"desc" : " ",
+	"size" : "464"
+},{
+	"name" : "Dnsayari.com ",
+	"desc" : "En Güncel 2012 - 2013 Dns Ayarları ve Sunucu IP Numaraları",
+	"size" : "465"
+},{
+	"name" : "Turktorrent.cc ",
+	"desc" : " ",
+	"size" : "466"
+},{
+	"name" : "Awesomehp.com ",
+	"desc" : " ",
+	"size" : "467"
+},{
+	"name" : "Ulusalkanal.com.tr ",
+	"desc" : "Haber kanalının internet sitesinde siyaset, ekonomi, spor, teknoloji, kültür-sanat haberleriyle... More son dakika gelişmeleri bulunmaktadır.",
+	"size" : "468"
+},{
+	"name" : "Warezturkey.net ",
+	"desc" : "WarezTurkey.Net",
+	"size" : "469"
+},{
+	"name" : "Addmefast.com ",
+	"desc" : "AddMeFast is a network that will help you grow your social presence. We allow you to look and c... Morehoose who you want to like/subscribe/follow/view",
+	"size" : "470"
+},{
+	"name" : "Ero-advertising.com ",
+	"desc" : " ",
+	"size" : "471"
+},{
+	"name" : "Pcnet.com.tr ",
+	"desc" : "Bilgisayar ve internet dergisi PCnet in web sitesinde en güncel bilişim haberleri ve orijinal m... Moreakaleler yer alıyor. Bilgisayar dünyasıyla ilgili her türlü problem forumlarda çözüme kavuşuyor.",
+	"size" : "472"
+},{
+	"name" : "Odnoklassniki.ru ",
+	"desc" : "Russian classmates and old friends reunion site.",
+	"size" : "473"
+},{
+	"name" : "Stilgiyin.com ",
+	"desc" : "Aggregator and Search Engine for Fashion Products in Turkey",
+	"size" : "474"
+},{
+	"name" : "Turkeyforum.com ",
+	"desc" : "Dünyanın en büyük Türkçe Uydu Forumu,bu kadarla kalmıyor....Her konuda aradığınıza ulaşabileceğ... Moreiniz en büyük kaynak.",
+	"size" : "475"
+},{
+	"name" : "Akormerkezi.com ",
+	"desc" : " ",
+	"size" : "476"
+},{
+	"name" : "Antoloji.com ",
+	"desc" : "Kültür ve Sanat Portalı. Haberler, etkinlikler, online şiir arşivi, sanat galerisi, forum alanl... Morearı, yarışmalar..",
+	"size" : "477"
+},{
+	"name" : "Popmog.com ",
+	"desc" : " ",
+	"size" : "478"
+},{
+	"name" : "Canliradyodinle.gen.tr ",
+	"desc" : "Türkiyede Yayın Yapan En Popüler Ulusal Ve Yerel Radyolar Canliradyodinle.gen.tr'de",
+	"size" : "479"
+},{
+	"name" : "Friendfeed.com ",
+	"desc" : "Allows you to build a customised feed of made up of content your friends on other collaborative... More sites have shared, including news articles, photos, videos and comments left.",
+	"size" : "480"
+},{
+	"name" : "Eodev.com ",
+	"desc" : "Öğrencilerin ödevleri içerisinde sorular sordukları, yardımlaştıkları ve iletişim kurdukları so... Moresyal öğrenim portalı.",
+	"size" : "481"
+},{
+	"name" : "Btunnel.com ",
+	"desc" : " ",
+	"size" : "482"
+},{
+	"name" : "Cyber-warrior.org ",
+	"desc" : "Information Security, Web Securirty, Anti Hack Tools Software",
+	"size" : "483"
+},{
+	"name" : "Geliyoo.com ",
+	"desc" : "Türkçe dil yapısına tam uyumlu olarak tasarlanmış, Türkiye'nin ilk profesyonel arama motoru.... More",
+	"size" : "484"
+},{
+	"name" : "Msxlabs.org ",
+	"desc" : "Öğretici ve keyif veren konuların ağırlıklı olarak işlendiği genel içerikli sıra dışı web sites... Morei.",
+	"size" : "485"
+},{
+	"name" : "Defacto.com.tr ",
+	"desc" : "Gençlere yönelik spor giyim imalatı; kurumsal bilgiler, fırsatlar, koleksiyon, mağazalar ve ile... Moretişim bilgileri.",
+	"size" : "486"
+},{
+	"name" : "Enguzeloyunlar.net ",
+	"desc" : "En güzel oyunları sizler için seçtik, Ücretsiz oyunlar güzel oyun sitesinde.",
+	"size" : "487"
+},{
+	"name" : "Haberahval.com ",
+	"desc" : "Türkiye ve dünyadan son haberlerden siyasete, ekonomiden kültür sanata, spordan sağlığa, hava d... Moreurumundan teknolojiye en son haberleri buradan takip edin.",
+	"size" : "488"
+},{
+	"name" : "Forumexe.com ",
+	"desc" : " ",
+	"size" : "489"
+},{
+	"name" : "Merlininkazani.com ",
+	"desc" : "Hileler, incelemeler, tam çözümler sunan oyun sitesi.",
+	"size" : "490"
+},{
+	"name" : "Haberself.com ",
+	"desc" : " ",
+	"size" : "491"
+},{
+	"name" : "Stackexchange.com ",
+	"desc" : " ",
+	"size" : "492"
+},{
+	"name" : "Medyafaresi.com ",
+	"desc" : "Türkiye'nin en özgür ve bağımsız haber portalı",
+	"size" : "493"
+},{
+	"name" : "Sosyalmedya.co ",
+	"desc" : "Türkiye'nin Sosyal Medya Rehberi",
+	"size" : "494"
+},{
+	"name" : "Bilgisayarbilisim.net ",
+	"desc" : " ",
+	"size" : "495"
+},{
+	"name" : "Istanbul.edu.tr ",
+	"desc" : "Üniversitenin ve akademik bölümlerinin tanıtımı, duyuru ve haberler, akademik takvim, kütüphane... More bilgileri ve belgeler bulunuyor.",
+	"size" : "496"
+},{
+	"name" : "Wikia.com ",
+	"desc" : "Free wiki hosting from Wikia, using the same MediaWiki software that runs Wikipedia.",
+	"size" : "497"
+},{
+	"name" : "Tozlugiyim.com.tr ",
+	"desc" : "Kadın erkek ürünleri, kampanyalar, yeni eklenen ürünler ve iletişim bölümleri yer alıyor.",
+	"size" : "498"
+},{
+	"name" : "Google.co.uk ",
+	"desc" : "National development agency for the arts, screen and creative industries.",
+	"size" : "499"
+},{
+	"name" : "Akparti.org.tr ",
+	"desc" : "Kurumsal kimliği, birimleri, parti programı ve tüzüğü hakkında bilgiler; partiden haberler ve d... Moreuyurular yer alıyor.",
+	"size" : "500"
+},{
+	"name" : "Buldumbuldum.com ",
+	"desc" : "Mutfak, ofis, ev, parti, günlük hayat gibi kategorilerde ilginç ürünlerin satışı yapılıyor.... More",
+	"size" : "501"
+},{
+	"name" : "Listelist.com ",
+	"desc" : " ",
+	"size" : "502"
+},{
+	"name" : "Ahrefs.com ",
+	"desc" : " ",
+	"size" : "503"
+},{
+	"name" : "Elemanonline.com.tr ",
+	"desc" : " ",
+	"size" : "504"
+},{
+	"name" : "Netgazete.com ",
+	"desc" : "Son dakika haberleri ve güncel haberler yayınlanıyor.",
+	"size" : "505"
+},{
+	"name" : "Mngkargo.com.tr ",
+	"desc" : "MNG Kargo ile güvenli, hızlı, ekonomik yurtiçi ve yurtdışı",
+	"size" : "506"
+},{
+	"name" : "Resmigazete.gov.tr ",
+	"desc" : " ",
+	"size" : "507"
+},{
+	"name" : "22find.com ",
+	"desc" : " ",
+	"size" : "508"
+},{
+	"name" : "Canlidizihdtv.net ",
+	"desc" : " ",
+	"size" : "509"
+},{
+	"name" : "Canlidiziizleyin.com ",
+	"desc" : " ",
+	"size" : "510"
+},{
+	"name" : "Haber365.com ",
+	"desc" : "haber365.comda En Güncel Haberlere, Son Dakika Haberlerine Ulaşabilir, Video Galeriside Video ... MoreSeyredebilir, Foto Galerileri İnceleyebilir, Çeşitli Kategorilerde Haberlere Ulaşabilirsiniz.",
+	"size" : "511"
+},{
+	"name" : "Rahatsiz.com.tr ",
+	"desc" : " ",
+	"size" : "512"
+},{
+	"name" : "Haberaktuel.com ",
+	"desc" : "511 bini aşan üyesi bulunan www.haberaktuel.com, Aktüel Yayın Grubu bünyesinde 2005 yılından bu... More yana ulusal haber servisi yapan bir haber sitesidir. Ayrıca Haber Aktüel, ulusal gazetelerin söyleşilerini aratmayan birbirinden ünlü sanatçı, oyuncu ve siyasetçilerle yaptığı röportajlarla göz dolduruyor.",
+	"size" : "513"
+},{
+	"name" : "Emu.edu.tr ",
+	"desc" : "Eastern Mediterranean University is an international university with a population of about 17,0... More00 students from 65 different countries.",
+	"size" : "514"
+},{
+	"name" : "Wideinfo.org ",
+	"desc" : "Get daily updated latest info on Tech,Mobile,Gadgets,Computer,Internet,World Mews,Blogger and m... Moreore.We update our website everyday !",
+	"size" : "515"
+},{
+	"name" : "Change.org ",
+	"desc" : "Change.org is a community platform that creates a web of social networks for over 1 million non... Moreprofit organizations.",
+	"size" : "516"
+},{
+	"name" : "Son.tv ",
+	"desc" : " ",
+	"size" : "517"
+},{
+	"name" : "Diziizlehdfull.net ",
+	"desc" : " ",
+	"size" : "518"
+},{
+	"name" : "Tokoyun.com ",
+	"desc" : "Türkiye'nin oyuna doymuş ve kaliteli oyun sitesi , en güzel binlerce oyunu sizin için TokOyun'd... Morea topladık.",
+	"size" : "519"
+},{
+	"name" : "Tib.gov.tr ",
+	"desc" : "Bilgi Teknolojileri ve İletişim Kurumu'na bağlı olan TİB, Telekomünikasyon yoluyla yapılan ilet... Moreişimin tespiti ve İnternet regülasyonu konularında faaliyet göstermektedir.",
+	"size" : "520"
+},{
+	"name" : "Dizihdtv.net ",
+	"desc" : " ",
+	"size" : "521"
+},{
+	"name" : "Www.nic.tr ",
+	"desc" : "NIC for .tr CCTLD.",
+	"size" : "522"
+},{
+	"name" : "Habergazete.com ",
+	"desc" : " ",
+	"size" : "523"
+},{
+	"name" : "Harikadizi1.com ",
+	"desc" : " ",
+	"size" : "524"
+},{
+	"name" : "Speedtest.net ",
+	"desc" : "Speedtest.net allows you to test the bandwidth of your Internet connection to locations around ... Morethe world.",
+	"size" : "525"
+}
 
 
-				] 
+		] 
 
-				  } 
+} 
 
      
