@@ -1,1 +1,1 @@
-web: php index.html
+web: php -S localhost:5000 -t .
