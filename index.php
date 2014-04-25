@@ -24,6 +24,11 @@ g{font-size:10px;}
 
 <script> 
 
+function getRandomColor() { 
+    color = "rgb("+ Math.floor(Math.random() * 200)+","+ Math.floor(Math.random() * 200)+","+ Math.floor(Math.random() * 255)+")";
+    console.log(color);
+    return color;
+}
 
 var diameter = 960,
     format = d3.format(",d"),
@@ -62,7 +67,7 @@ d3.json("site_turkey.json", function(error, root) {
   node.append("circle")
       .attr("style","cursor:pointer")
       .attr("r", function(d) { return d.r; })
-      .style("fill", function(d) { return color(d.packageName); });
+      .style("fill", function(d) { return getRandomColor(); });
 
   node.append("text")
       .attr("dy", ".3em")
