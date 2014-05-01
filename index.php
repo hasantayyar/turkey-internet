@@ -1,3 +1,6 @@
+<?php
+$remove_biggests = isset($_GET['rb']);
+?>
 <!DOCTYPE html>
 <meta charset="utf-8">
 <title>Turkey Internet Map - Turkey top sites</title>
@@ -5,7 +8,6 @@
 *{font-family : Calibri,Arial }
 g{font-size:10px;}
 #headline{font-size:12px;color:#232323;}
-#desc{margin-top:4px;padding:4px;font-size:12px;color:#123467;background-color:#efefef; display:none; }
 .tipsy { font-size: 18px!important; position: absolute; padding: 5px; z-index: 100000; }
 .tipsy-inner { background-color: #000; color: #FFF; max-width: 200px; padding: 5px 8px 4px 8px; text-align: center; 
   border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
@@ -15,8 +17,8 @@ g{font-size:10px;}
 </style>
 <body>
 <div id="headline">Turkey Internet Map <a href="https://github.com/hasantayyar/turkey-internet">Source on Github</a></div>
-<br>
-<span id="desc"></span><br>
+<br><small><a href="/?rb=1">Remove giants</a> : "google.com", "blogger.com" , "facebook.com" ,"twitter.com"
+</small>
 <div id="chart"></div>
 <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="https://rawgit.com/jaz303/tipsy/master/src/javascripts/jquery.tipsy.js"></script>
@@ -56,7 +58,7 @@ var hide_details =  function(data, element) {
     });
     return tooltip.hideTooltip();
   };  
-d3.json("site_turkey.json", function(error, root) {
+d3.json("site_turkey<?php echo $remove_biggests?"_alt":"";?>.json", function(error, root) {
   var node = svg.selectAll(".node")
       .data(bubble.nodes(classes(root))
       .filter(function(d) { return !d.children; }))
@@ -77,7 +79,9 @@ d3.json("site_turkey.json", function(error, root) {
       .text(function(d) { return d.className.substring(0, d.r / 3); });
 
   node.on("mouseover",function(){  }); 
-  node.on("click",function(d){ $("#desc").slideDown(); $("#desc").html(""+d.className);});
+  node.on("click",function(d){
+	// $("#desc").slideDown(); $("#desc").html(""+d.className);
+	});
   //$('circle').tipsy( );
   $('text').tipsy( );
 });
